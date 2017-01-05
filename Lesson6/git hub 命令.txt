@@ -1,0 +1,53 @@
+本地 git hub 连接到网络
+
+fnngj@FNNGJ-PC ~
+$ cd ~/.ssh
+fnngj@FNNGJ-PC ~/.ssh
+$ pwd
+/c/Users/fnngj/.ssh
+
+
+fnngj@FNNGJ-PC ~/.ssh
+$ ssh-keygen -t rsa -C "fnngj@126.com"
+回车回车回车 生成 公钥 私钥
+
+测试连接：
+fnngj@FNNGJ-PC ~/.ssh
+$ ssh -T git@github.com    
+--------------------------------------------------------------------------------------------------
+
+本地创建项目
+fnngj@FNNGJ-PC ~/.ssh
+$ git config --global user.name "fnngj"
+fnngj@FNNGJ-PC ~/.ssh
+$ git config --global user.email "fnngj@126.com"
+
+fnngj@FNNGJ-PC /d/project-name
+$ git init
+
+fnngj@FNNGJ-PC /d/project-name (master)
+$ git status
+
+
+fnngj@FNNGJ-PC /d/project-name (master)
+$ git add .
+
+
+fnngj@FNNGJ-PC /d/project-name (master)
+$ git commit -m "first commit file"
+
+
+fnngj@FNNGJ-PC /d/project-name (master)
+$ git remote add origin git@github.com:defnngj/project-name.git     本地远程连接，添加本地到远程。
+
+$ git push -u origin master
+
+------------------------------------------------------------------------------------------------------------------------------------
+克隆代码
+Meizu@MININT-IQVJFIT /d/my_test
+$ git clone git@github.com:defnngj/project-name.git
+
+
+拉取代码
+fnngj@FNNGJ-PC /d/project-name
+$ git pull origin master

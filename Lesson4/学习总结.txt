@@ -1,0 +1,1 @@
+学会了sqlite3, phantomJS, pyinstaller和bottle自动创建html文件（只是普通文字可以，如果有innerHTML只能硬写（<>和&会被template函数转义））

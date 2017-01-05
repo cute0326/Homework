@@ -1,0 +1,1753 @@
+1483512300984	geckodriver	INFO	Listening on 127.0.0.1:62517
+1483512301543	mozprofile::profile	INFO	Using profile path C:\Users\Cute\AppData\Local\Temp\rust_mozprofile.VAySvokCmprV
+1483512301548	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1483512301669	geckodriver::marionette	INFO	Connecting to Marionette on localhost:62521
+1483512302745	Marionette	INFO	Listening on port 62521
+1483512304572	Marionette	INFO	startBrowser 5178af64-4571-4ea1-b0bd-de77f5cd2d2b
+1483512304590	Marionette	INFO	sendAsync 5178af64-4571-4ea1-b0bd-de77f5cd2d2b
+1483512305076	Marionette	INFO	sendAsync 5178af64-4571-4ea1-b0bd-de77f5cd2d2b
+1483512305364	Marionette	INFO	sendAsync 5178af64-4571-4ea1-b0bd-de77f5cd2d2b
+1483512306434	Marionette	INFO	sendAsync 5178af64-4571-4ea1-b0bd-de77f5cd2d2b
+1483512306465	Marionette	INFO	sendAsync 5178af64-4571-4ea1-b0bd-de77f5cd2d2b
+1483512308514	Marionette	INFO	sendAsync 5178af64-4571-4ea1-b0bd-de77f5cd2d2b
+1483512308526	Marionette	INFO	sendAsync 5178af64-4571-4ea1-b0bd-de77f5cd2d2b
+1483512308603	Marionette	INFO	sendAsync 5178af64-4571-4ea1-b0bd-de77f5cd2d2b
+1483512308616	Marionette	INFO	sendAsync 5178af64-4571-4ea1-b0bd-de77f5cd2d2b
+1483512308695	Marionette	INFO	sendAsync 5178af64-4571-4ea1-b0bd-de77f5cd2d2b
+1483512308704	Marionette	INFO	sendAsync 5178af64-4571-4ea1-b0bd-de77f5cd2d2b
+1483512310744	Marionette	INFO	sendAsync 5178af64-4571-4ea1-b0bd-de77f5cd2d2b
+1483512310755	Marionette	INFO	sendAsync 5178af64-4571-4ea1-b0bd-de77f5cd2d2b
+1483512508391	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Child 20484] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-beta-w64-0000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 343
+[Child 20484] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-beta-w64-0000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 343
+1483512702218	geckodriver	INFO	Listening on 127.0.0.1:63032
+1483512702738	mozprofile::profile	INFO	Using profile path C:\Users\Cute\AppData\Local\Temp\rust_mozprofile.kyO2aTmD5cTQ
+1483512702741	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1483512702830	geckodriver::marionette	INFO	Connecting to Marionette on localhost:63036
+1483512935982	geckodriver::marionette	ERROR	Failed to kill browser process
+1483513003635	geckodriver	INFO	Listening on 127.0.0.1:63199
+1483513004136	mozprofile::profile	INFO	Using profile path C:\Users\Cute\AppData\Local\Temp\rust_mozprofile.iJXODJlxEnt1
+1483513004140	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1483513004241	geckodriver::marionette	INFO	Connecting to Marionette on localhost:63203
+1483513005268	Marionette	INFO	Listening on port 63203
+[19516] WARNING: failed to create pipe: 0: file c:/builds/moz2_slave/m-beta-w64-0000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 221
+[19516] WARNING: Unable to create pipe named "24792.0.2005601506\530340202" in client mode.: file c:/builds/moz2_slave/m-beta-w64-0000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 59
+1483523041670	geckodriver	INFO	Listening on 127.0.0.1:53637
+1483523041822	mozprofile::profile	INFO	Using profile path C:\Users\Cute\AppData\Local\Temp\rust_mozprofile.TCkoRwXVPNMd
+1483523041826	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1483523042899	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53642
+1483523046153	Marionette	INFO	Listening on port 53642
+1483523050471	Marionette	INFO	startBrowser 9b16d974-b7e4-4192-9088-ddd4c59b01a2
+1483523050501	Marionette	INFO	sendAsync 9b16d974-b7e4-4192-9088-ddd4c59b01a2
+1483523050969	Marionette	INFO	sendAsync 9b16d974-b7e4-4192-9088-ddd4c59b01a2
+1483523175984	geckodriver	INFO	Listening on 127.0.0.1:53682
+1483523176493	mozprofile::profile	INFO	Using profile path C:\Users\Cute\AppData\Local\Temp\rust_mozprofile.dDybYaJ0AXtL
+1483523176497	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1483523176597	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53686
+JavaScript error: resource://gre/components/SanityTest.js, line 287: NS_ERROR_FILE_ACCESS_DENIED: Component returned failure code: 0x80520015 (NS_ERROR_FILE_ACCESS_DENIED) [nsIPrefService.savePrefFile]
+1483523185495	Marionette	INFO	Listening on port 53686
+1483523187123	Marionette	INFO	startBrowser d4e6bb39-99dd-4c2e-9d09-f0bbd6d54817
+1483523187137	Marionette	INFO	sendAsync d4e6bb39-99dd-4c2e-9d09-f0bbd6d54817
+1483523187426	Marionette	INFO	sendAsync d4e6bb39-99dd-4c2e-9d09-f0bbd6d54817
+1483523223192	geckodriver	INFO	Listening on 127.0.0.1:53729
+1483523223685	mozprofile::profile	INFO	Using profile path C:\Users\Cute\AppData\Local\Temp\rust_mozprofile.XhvqM8AhbIMm
+1483523223689	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1483523223767	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53733
+1483523224763	Marionette	INFO	Listening on port 53733
+1483523227457	Marionette	INFO	startBrowser 1a2e3bd3-7621-4f6e-b3f0-b833b3b63a9e
+1483523227473	Marionette	INFO	sendAsync 1a2e3bd3-7621-4f6e-b3f0-b833b3b63a9e
+1483523227768	Marionette	INFO	sendAsync 1a2e3bd3-7621-4f6e-b3f0-b833b3b63a9e
+1483523228463	Marionette	INFO	sendAsync 1a2e3bd3-7621-4f6e-b3f0-b833b3b63a9e
+JavaScript error: chrome://marionette/content/listener.js, line 899: TypeError: can't access dead object
+[Child 12476] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-beta-w64-0000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 343
+[Child 12476] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-beta-w64-0000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 343
+1483523276470	geckodriver	INFO	Listening on 127.0.0.1:53856
+1483523277011	mozprofile::profile	INFO	Using profile path C:\Users\Cute\AppData\Local\Temp\rust_mozprofile.6ltn7AwdgWEA
+1483523277017	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1483523277107	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53862
+1483523278775	Marionette	INFO	Listening on port 53862
+1483523280960	Marionette	INFO	startBrowser 1ee28be2-4fd8-4308-8925-61bb5ec66c44
+1483523280983	Marionette	INFO	sendAsync 1ee28be2-4fd8-4308-8925-61bb5ec66c44
+1483523281310	Marionette	INFO	sendAsync 1ee28be2-4fd8-4308-8925-61bb5ec66c44
+1483523281492	Marionette	INFO	sendAsync 1ee28be2-4fd8-4308-8925-61bb5ec66c44
+1483523282533	Marionette	INFO	sendAsync 1ee28be2-4fd8-4308-8925-61bb5ec66c44
+1483523282543	Marionette	INFO	sendAsync 1ee28be2-4fd8-4308-8925-61bb5ec66c44
+1483523284584	Marionette	INFO	sendAsync 1ee28be2-4fd8-4308-8925-61bb5ec66c44
+1483523284595	Marionette	INFO	sendAsync 1ee28be2-4fd8-4308-8925-61bb5ec66c44
+1483523284672	Marionette	INFO	sendAsync 1ee28be2-4fd8-4308-8925-61bb5ec66c44
+1483523284681	Marionette	INFO	sendAsync 1ee28be2-4fd8-4308-8925-61bb5ec66c44
+1483523284736	Marionette	INFO	sendAsync 1ee28be2-4fd8-4308-8925-61bb5ec66c44
+1483523284747	Marionette	INFO	sendAsync 1ee28be2-4fd8-4308-8925-61bb5ec66c44
+1483523284781	Marionette	INFO	sendAsync 1ee28be2-4fd8-4308-8925-61bb5ec66c44
+1483523284794	Marionette	INFO	sendAsync 1ee28be2-4fd8-4308-8925-61bb5ec66c44
+[Child 14216] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-beta-w64-0000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2046
+1483523311636	geckodriver	INFO	Listening on 127.0.0.1:53969
+1483523312139	mozprofile::profile	INFO	Using profile path C:\Users\Cute\AppData\Local\Temp\rust_mozprofile.FdMP2seuwOln
+1483523312143	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1483523312260	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53973
+1483523313133	Marionette	INFO	Listening on port 53973
+1483523314927	Marionette	INFO	startBrowser b975ebae-fcad-4890-b1d0-f601eba53584
+1483523314940	Marionette	INFO	sendAsync b975ebae-fcad-4890-b1d0-f601eba53584
+1483523315236	Marionette	INFO	sendAsync b975ebae-fcad-4890-b1d0-f601eba53584
+1483523316851	Marionette	INFO	sendAsync b975ebae-fcad-4890-b1d0-f601eba53584
+1483523316861	Marionette	INFO	sendAsync b975ebae-fcad-4890-b1d0-f601eba53584
+1483523318944	Marionette	INFO	sendAsync b975ebae-fcad-4890-b1d0-f601eba53584
+1483523318953	Marionette	INFO	sendAsync b975ebae-fcad-4890-b1d0-f601eba53584
+1483523319040	Marionette	INFO	sendAsync b975ebae-fcad-4890-b1d0-f601eba53584
+1483523319047	Marionette	INFO	sendAsync b975ebae-fcad-4890-b1d0-f601eba53584
+1483523319126	Marionette	INFO	sendAsync b975ebae-fcad-4890-b1d0-f601eba53584
+1483523319133	Marionette	INFO	sendAsync b975ebae-fcad-4890-b1d0-f601eba53584
+1483523321172	Marionette	INFO	sendAsync b975ebae-fcad-4890-b1d0-f601eba53584
+1483523321180	Marionette	INFO	sendAsync b975ebae-fcad-4890-b1d0-f601eba53584
+1483523429559	geckodriver	INFO	Listening on 127.0.0.1:54088
+1483523430085	mozprofile::profile	INFO	Using profile path C:\Users\Cute\AppData\Local\Temp\rust_mozprofile.ptMDsp9E3JZa
+1483523430089	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1483523430197	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54092
+1483523431244	Marionette	INFO	Listening on port 54092
+1483523432929	Marionette	INFO	startBrowser 69ad6b06-2306-42ff-946b-c24e9aedf259
+1483523432941	Marionette	INFO	sendAsync 69ad6b06-2306-42ff-946b-c24e9aedf259
+1483523433243	Marionette	INFO	sendAsync 69ad6b06-2306-42ff-946b-c24e9aedf259
+1483523433442	Marionette	INFO	sendAsync 69ad6b06-2306-42ff-946b-c24e9aedf259
+1483523434811	Marionette	INFO	sendAsync 69ad6b06-2306-42ff-946b-c24e9aedf259
+1483523434821	Marionette	INFO	sendAsync 69ad6b06-2306-42ff-946b-c24e9aedf259
+1483523436864	Marionette	INFO	sendAsync 69ad6b06-2306-42ff-946b-c24e9aedf259
+1483523436873	Marionette	INFO	sendAsync 69ad6b06-2306-42ff-946b-c24e9aedf259
+1483523436955	Marionette	INFO	sendAsync 69ad6b06-2306-42ff-946b-c24e9aedf259
+1483523436967	Marionette	INFO	sendAsync 69ad6b06-2306-42ff-946b-c24e9aedf259
+1483523437015	Marionette	INFO	sendAsync 69ad6b06-2306-42ff-946b-c24e9aedf259
+1483523437025	Marionette	INFO	sendAsync 69ad6b06-2306-42ff-946b-c24e9aedf259
+1483523437066	Marionette	INFO	sendAsync 69ad6b06-2306-42ff-946b-c24e9aedf259
+1483523437542	Marionette	INFO	sendAsync 69ad6b06-2306-42ff-946b-c24e9aedf259
+1483523437587	Marionette	INFO	sendAsync 69ad6b06-2306-42ff-946b-c24e9aedf259
+[Child 11632] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-beta-w64-0000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2046
+1483524549538	geckodriver	INFO	Listening on 127.0.0.1:54393
+1483524550048	mozprofile::profile	INFO	Using profile path C:\Users\Cute\AppData\Local\Temp\rust_mozprofile.ZtsPiYWR9RWi
+1483524550051	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1483524550152	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54397
+1483524551149	Marionette	INFO	Listening on port 54397
+1483524553106	Marionette	INFO	startBrowser 7e109f12-726b-4073-96e9-66531ec0e966
+1483524553118	Marionette	INFO	sendAsync 7e109f12-726b-4073-96e9-66531ec0e966
+1483524553418	Marionette	INFO	sendAsync 7e109f12-726b-4073-96e9-66531ec0e966
+1483524553652	Marionette	INFO	sendAsync 7e109f12-726b-4073-96e9-66531ec0e966
+1483524555005	Marionette	INFO	sendAsync 7e109f12-726b-4073-96e9-66531ec0e966
+1483524555017	Marionette	INFO	sendAsync 7e109f12-726b-4073-96e9-66531ec0e966
+1483524557062	Marionette	INFO	sendAsync 7e109f12-726b-4073-96e9-66531ec0e966
+1483524557071	Marionette	INFO	sendAsync 7e109f12-726b-4073-96e9-66531ec0e966
+1483524557140	Marionette	INFO	sendAsync 7e109f12-726b-4073-96e9-66531ec0e966
+1483524557148	Marionette	INFO	sendAsync 7e109f12-726b-4073-96e9-66531ec0e966
+1483524557211	Marionette	INFO	sendAsync 7e109f12-726b-4073-96e9-66531ec0e966
+1483524557223	Marionette	INFO	sendAsync 7e109f12-726b-4073-96e9-66531ec0e966
+1483524559257	Marionette	INFO	sendAsync 7e109f12-726b-4073-96e9-66531ec0e966
+1483524559266	Marionette	INFO	sendAsync 7e109f12-726b-4073-96e9-66531ec0e966
+1483524559289	Marionette	INFO	sendAsync 7e109f12-726b-4073-96e9-66531ec0e966
+1483524559298	Marionette	INFO	sendAsync 7e109f12-726b-4073-96e9-66531ec0e966
+[Child 14620] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-beta-w64-0000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2046
+1483525611261	geckodriver	INFO	Listening on 127.0.0.1:54565
+1483525611782	mozprofile::profile	INFO	Using profile path C:\Users\Cute\AppData\Local\Temp\rust_mozprofile.7m0RxYjmg6iz
+1483525611785	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1483525611892	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54569
+1483525612868	Marionette	INFO	Listening on port 54569
+1483525614386	Marionette	INFO	startBrowser 686bb276-6a53-417d-ac77-8fd4a93a4f45
+1483525614397	Marionette	INFO	sendAsync 686bb276-6a53-417d-ac77-8fd4a93a4f45
+1483525614759	Marionette	INFO	sendAsync 686bb276-6a53-417d-ac77-8fd4a93a4f45
+1483525614963	Marionette	INFO	sendAsync 686bb276-6a53-417d-ac77-8fd4a93a4f45
+1483525616537	Marionette	INFO	sendAsync 686bb276-6a53-417d-ac77-8fd4a93a4f45
+1483525616552	Marionette	INFO	sendAsync 686bb276-6a53-417d-ac77-8fd4a93a4f45
+1483525618597	Marionette	INFO	sendAsync 686bb276-6a53-417d-ac77-8fd4a93a4f45
+1483525618607	Marionette	INFO	sendAsync 686bb276-6a53-417d-ac77-8fd4a93a4f45
+1483525618673	Marionette	INFO	sendAsync 686bb276-6a53-417d-ac77-8fd4a93a4f45
+1483525618683	Marionette	INFO	sendAsync 686bb276-6a53-417d-ac77-8fd4a93a4f45
+1483525618734	Marionette	INFO	sendAsync 686bb276-6a53-417d-ac77-8fd4a93a4f45
+1483525618745	Marionette	INFO	sendAsync 686bb276-6a53-417d-ac77-8fd4a93a4f45
+1483525620779	Marionette	INFO	sendAsync 686bb276-6a53-417d-ac77-8fd4a93a4f45
+1483525620786	Marionette	INFO	sendAsync 686bb276-6a53-417d-ac77-8fd4a93a4f45
+1483525620795	Marionette	INFO	sendAsync 686bb276-6a53-417d-ac77-8fd4a93a4f45
+[Child 15172] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-beta-w64-0000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2046
+1483525643957	geckodriver	INFO	Listening on 127.0.0.1:54634
+1483525644459	mozprofile::profile	INFO	Using profile path C:\Users\Cute\AppData\Local\Temp\rust_mozprofile.RQbGWPrj9ksq
+1483525644463	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1483525644554	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54638
+1483525645484	Marionette	INFO	Listening on port 54638
+1483525647515	Marionette	INFO	startBrowser 584813da-4ac7-42c9-92c3-94ee777c17e4
+1483525647527	Marionette	INFO	sendAsync 584813da-4ac7-42c9-92c3-94ee777c17e4
+1483525647837	Marionette	INFO	sendAsync 584813da-4ac7-42c9-92c3-94ee777c17e4
+1483525648012	Marionette	INFO	sendAsync 584813da-4ac7-42c9-92c3-94ee777c17e4
+1483525649539	Marionette	INFO	sendAsync 584813da-4ac7-42c9-92c3-94ee777c17e4
+1483525649556	Marionette	INFO	sendAsync 584813da-4ac7-42c9-92c3-94ee777c17e4
+1483525651605	Marionette	INFO	sendAsync 584813da-4ac7-42c9-92c3-94ee777c17e4
+1483525651614	Marionette	INFO	sendAsync 584813da-4ac7-42c9-92c3-94ee777c17e4
+1483525651681	Marionette	INFO	sendAsync 584813da-4ac7-42c9-92c3-94ee777c17e4
+1483525651689	Marionette	INFO	sendAsync 584813da-4ac7-42c9-92c3-94ee777c17e4
+1483525651742	Marionette	INFO	sendAsync 584813da-4ac7-42c9-92c3-94ee777c17e4
+1483525651751	Marionette	INFO	sendAsync 584813da-4ac7-42c9-92c3-94ee777c17e4
+1483525653780	Marionette	INFO	sendAsync 584813da-4ac7-42c9-92c3-94ee777c17e4
+1483525653789	Marionette	INFO	sendAsync 584813da-4ac7-42c9-92c3-94ee777c17e4
+1483525653798	Marionette	INFO	sendAsync 584813da-4ac7-42c9-92c3-94ee777c17e4
+[Child 11824] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-beta-w64-0000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2046
+1483525873177	geckodriver	INFO	Listening on 127.0.0.1:54735
+1483525873687	mozprofile::profile	INFO	Using profile path C:\Users\Cute\AppData\Local\Temp\rust_mozprofile.rlttU6vf5dre
+1483525873691	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1483525873799	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54739
+1483525874730	Marionette	INFO	Listening on port 54739
+1483525876201	Marionette	INFO	startBrowser b60d5af1-b4f3-43a2-90bd-2d5372d6e5f8
+1483525876214	Marionette	INFO	sendAsync b60d5af1-b4f3-43a2-90bd-2d5372d6e5f8
+1483525876513	Marionette	INFO	sendAsync b60d5af1-b4f3-43a2-90bd-2d5372d6e5f8
+1483525876769	Marionette	INFO	sendAsync b60d5af1-b4f3-43a2-90bd-2d5372d6e5f8
+1483525878092	Marionette	INFO	sendAsync b60d5af1-b4f3-43a2-90bd-2d5372d6e5f8
+1483525878103	Marionette	INFO	sendAsync b60d5af1-b4f3-43a2-90bd-2d5372d6e5f8
+1483525880146	Marionette	INFO	sendAsync b60d5af1-b4f3-43a2-90bd-2d5372d6e5f8
+1483525880157	Marionette	INFO	sendAsync b60d5af1-b4f3-43a2-90bd-2d5372d6e5f8
+1483525880225	Marionette	INFO	sendAsync b60d5af1-b4f3-43a2-90bd-2d5372d6e5f8
+1483525880234	Marionette	INFO	sendAsync b60d5af1-b4f3-43a2-90bd-2d5372d6e5f8
+1483525880292	Marionette	INFO	sendAsync b60d5af1-b4f3-43a2-90bd-2d5372d6e5f8
+1483525880302	Marionette	INFO	sendAsync b60d5af1-b4f3-43a2-90bd-2d5372d6e5f8
+1483525882366	Marionette	INFO	sendAsync b60d5af1-b4f3-43a2-90bd-2d5372d6e5f8
+1483525882376	Marionette	INFO	sendAsync b60d5af1-b4f3-43a2-90bd-2d5372d6e5f8
+1483525882386	Marionette	INFO	sendAsync b60d5af1-b4f3-43a2-90bd-2d5372d6e5f8
+1483525882397	Marionette	INFO	sendAsync b60d5af1-b4f3-43a2-90bd-2d5372d6e5f8
+1483525882404	Marionette	INFO	sendAsync b60d5af1-b4f3-43a2-90bd-2d5372d6e5f8
+[Child 6160] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-beta-w64-0000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2046
+1483526459705	geckodriver	INFO	Listening on 127.0.0.1:55007
+1483526460221	mozprofile::profile	INFO	Using profile path C:\Users\Cute\AppData\Local\Temp\rust_mozprofile.FwXmKCxBRZu1
+1483526460225	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1483526460309	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55011
+1483526461256	Marionette	INFO	Listening on port 55011
+1483526462632	Marionette	INFO	startBrowser 93177458-6763-498e-b6a6-b4762a4512ea
+1483526462645	Marionette	INFO	sendAsync 93177458-6763-498e-b6a6-b4762a4512ea
+1483526463055	Marionette	INFO	sendAsync 93177458-6763-498e-b6a6-b4762a4512ea
+1483526464670	Marionette	INFO	sendAsync 93177458-6763-498e-b6a6-b4762a4512ea
+1483526464682	Marionette	INFO	sendAsync 93177458-6763-498e-b6a6-b4762a4512ea
+1483526464703	Marionette	INFO	sendAsync 93177458-6763-498e-b6a6-b4762a4512ea
+1483526464721	Marionette	INFO	sendAsync 93177458-6763-498e-b6a6-b4762a4512ea
+1483526464733	Marionette	INFO	sendAsync 93177458-6763-498e-b6a6-b4762a4512ea
+1483526516450	geckodriver	INFO	Listening on 127.0.0.1:55052
+1483526516977	mozprofile::profile	INFO	Using profile path C:\Users\Cute\AppData\Local\Temp\rust_mozprofile.0dKCFhrpGWFe
+1483526516981	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1483526517046	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55056
+1483526517950	Marionette	INFO	Listening on port 55056
+1483526519597	Marionette	INFO	startBrowser 3606253f-2c0c-4929-a0d2-0862963ab6d2
+1483526519612	Marionette	INFO	sendAsync 3606253f-2c0c-4929-a0d2-0862963ab6d2
+1483526519969	Marionette	INFO	sendAsync 3606253f-2c0c-4929-a0d2-0862963ab6d2
+1483526520189	Marionette	INFO	sendAsync 3606253f-2c0c-4929-a0d2-0862963ab6d2
+1483526521318	Marionette	INFO	sendAsync 3606253f-2c0c-4929-a0d2-0862963ab6d2
+1483526521333	Marionette	INFO	sendAsync 3606253f-2c0c-4929-a0d2-0862963ab6d2
+1483526521347	Marionette	INFO	sendAsync 3606253f-2c0c-4929-a0d2-0862963ab6d2
+1483526521360	Marionette	INFO	sendAsync 3606253f-2c0c-4929-a0d2-0862963ab6d2
+1483526521369	Marionette	INFO	sendAsync 3606253f-2c0c-4929-a0d2-0862963ab6d2
+[Child 14460] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-beta-w64-0000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2046
+1483526592305	geckodriver	INFO	Listening on 127.0.0.1:55112
+1483526592808	mozprofile::profile	INFO	Using profile path C:\Users\Cute\AppData\Local\Temp\rust_mozprofile.bqipHysu4snm
+1483526592811	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1483526592893	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55116
+1483526593888	Marionette	INFO	Listening on port 55116
+1483526595421	Marionette	INFO	startBrowser ae1370f5-d6af-4177-a7a3-59f2ef5b8772
+1483526595433	Marionette	INFO	sendAsync ae1370f5-d6af-4177-a7a3-59f2ef5b8772
+1483526595790	Marionette	INFO	sendAsync ae1370f5-d6af-4177-a7a3-59f2ef5b8772
+1483526597187	Marionette	INFO	sendAsync ae1370f5-d6af-4177-a7a3-59f2ef5b8772
+1483526597195	Marionette	INFO	sendAsync ae1370f5-d6af-4177-a7a3-59f2ef5b8772
+1483526597204	Marionette	INFO	sendAsync ae1370f5-d6af-4177-a7a3-59f2ef5b8772
+1483526597217	Marionette	INFO	sendAsync ae1370f5-d6af-4177-a7a3-59f2ef5b8772
+1483526597226	Marionette	INFO	sendAsync ae1370f5-d6af-4177-a7a3-59f2ef5b8772
+1483526893217	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+INFO	Using profile path C:\Users\Cute\AppData\Local\Temp\rust_mozprofile.bG5xI4OZRD6v
+1483526709513	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1483526709585	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55191
+1483526711395	Marionette	INFO	Listening on port 55191
+1483526713703	Marionette	INFO	startBrowser c39a47b3-9f4e-4a39-b05f-e63559b81f7a
+1483526713720	Marionette	INFO	sendAsync c39a47b3-9f4e-4a39-b05f-e63559b81f7a
+1483526714145	Marionette	INFO	sendAsync c39a47b3-9f4e-4a39-b05f-e63559b81f7a
+1483526714437	Marionette	INFO	sendAsync c39a47b3-9f4e-4a39-b05f-e63559b81f7a
+1483526715750	Marionette	INFO	sendAsync c39a47b3-9f4e-4a39-b05f-e63559b81f7a
+1483526715782	Marionette	INFO	sendAsync c39a47b3-9f4e-4a39-b05f-e63559b81f7a
+1483526715888	Marionette	INFO	sendAsync c39a47b3-9f4e-4a39-b05f-e63559b81f7a
+1483526715903	Marionette	INFO	sendAsync c39a47b3-9f4e-4a39-b05f-e63559b81f7a
+1483526715913	Marionette	INFO	sendAsync c39a47b3-9f4e-4a39-b05f-e63559b81f7a
+1483526715927	Marionette	INFO	sendAsync c39a47b3-9f4e-4a39-b05f-e63559b81f7a
+1483526893119	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Child 16036] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-beta-w64-0000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 343
+la Firefox\firefox.exe
+1483526774318	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55264
+1483526775757	Marionette	INFO	Listening on port 55264
+1483526777848	Marionette	INFO	startBrowser 1858850c-7502-44bf-b69d-1fb92f5ad12b
+1483526777860	Marionette	INFO	sendAsync 1858850c-7502-44bf-b69d-1fb92f5ad12b
+1483526778181	Marionette	INFO	sendAsync 1858850c-7502-44bf-b69d-1fb92f5ad12b
+1483526779666	Marionette	INFO	sendAsync 1858850c-7502-44bf-b69d-1fb92f5ad12b
+1483526779678	Marionette	INFO	sendAsync 1858850c-7502-44bf-b69d-1fb92f5ad12b
+1483526779693	Marionette	INFO	sendAsync 1858850c-7502-44bf-b69d-1fb92f5ad12b
+1483526779708	Marionette	INFO	sendAsync 1858850c-7502-44bf-b69d-1fb92f5ad12b
+1483526779722	Marionette	INFO	sendAsync 1858850c-7502-44bf-b69d-1fb92f5ad12b
+1483526779735	Marionette	INFO	sendAsync 1858850c-7502-44bf-b69d-1fb92f5ad12b
+1483526893570	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+INFO	Using profile path C:\Users\Cute\AppData\Local\Temp\rust_mozprofile.lPD5W10PDzke
+1483526836801	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1483526836876	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55339
+1483526838404	Marionette	INFO	Listening on port 55339
+1483526840096	Marionette	INFO	startBrowser 10bbe0b3-93a3-4dab-bef7-be7a52745f92
+1483526840112	Marionette	INFO	sendAsync 10bbe0b3-93a3-4dab-bef7-be7a52745f92
+1483526840639	Marionette	INFO	sendAsync 10bbe0b3-93a3-4dab-bef7-be7a52745f92
+1483526840973	Marionette	INFO	sendAsync 10bbe0b3-93a3-4dab-bef7-be7a52745f92
+1483526842108	Marionette	INFO	sendAsync 10bbe0b3-93a3-4dab-bef7-be7a52745f92
+1483526842122	Marionette	INFO	sendAsync 10bbe0b3-93a3-4dab-bef7-be7a52745f92
+1483526842155	Marionette	INFO	sendAsync 10bbe0b3-93a3-4dab-bef7-be7a52745f92
+1483526842176	Marionette	INFO	sendAsync 10bbe0b3-93a3-4dab-bef7-be7a52745f92
+1483526867407	geckodriver	INFO	Listening on 127.0.0.1:55406
+1483526867924	mozprofile::profile	INFO	Using profile path C:\Users\Cute\AppData\Local\Temp\rust_mozprofile.e6pqtLMuJhrL
+1483526867928	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1483526868014	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55412
+1483526869059	Marionette	INFO	Listening on port 55412
+1483526870587	Marionette	INFO	startBrowser 60a57572-7eef-4439-8dba-d8cfda1e00c8
+1483526870601	Marionette	INFO	sendAsync 60a57572-7eef-4439-8dba-d8cfda1e00c8
+1483526870974	Marionette	INFO	sendAsync 60a57572-7eef-4439-8dba-d8cfda1e00c8
+1483526873498	Marionette	INFO	sendAsync 60a57572-7eef-4439-8dba-d8cfda1e00c8
+1483526873508	Marionette	INFO	sendAsync 60a57572-7eef-4439-8dba-d8cfda1e00c8
+1483526873519	Marionette	INFO	sendAsync 60a57572-7eef-4439-8dba-d8cfda1e00c8
+1483526873533	Marionette	INFO	sendAsync 60a57572-7eef-4439-8dba-d8cfda1e00c8
+1483526904534	geckodriver	INFO	Listening on 127.0.0.1:55479
+1483526905034	mozprofile::profile	INFO	Using profile path C:\Users\Cute\AppData\Local\Temp\rust_mozprofile.TUWWEQhXQSC7
+1483526905038	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1483526905114	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55483
+1483526906673	Marionette	INFO	Listening on port 55483
+1483526908048	Marionette	INFO	startBrowser 4e8dc325-3ac5-4e7a-b21d-0272cb785740
+1483526908061	Marionette	INFO	sendAsync 4e8dc325-3ac5-4e7a-b21d-0272cb785740
+1483526908388	Marionette	INFO	sendAsync 4e8dc325-3ac5-4e7a-b21d-0272cb785740
+1483526908683	Marionette	INFO	sendAsync 4e8dc325-3ac5-4e7a-b21d-0272cb785740
+1483526909643	Marionette	INFO	sendAsync 4e8dc325-3ac5-4e7a-b21d-0272cb785740
+1483526909652	Marionette	INFO	sendAsync 4e8dc325-3ac5-4e7a-b21d-0272cb785740
+1483526909660	Marionette	INFO	sendAsync 4e8dc325-3ac5-4e7a-b21d-0272cb785740
+1483526909674	Marionette	INFO	sendAsync 4e8dc325-3ac5-4e7a-b21d-0272cb785740
+1483526909682	Marionette	INFO	sendAsync 4e8dc325-3ac5-4e7a-b21d-0272cb785740
+1483526909691	Marionette	INFO	sendAsync 4e8dc325-3ac5-4e7a-b21d-0272cb785740
+1483526909780	Marionette	INFO	sendAsync 4e8dc325-3ac5-4e7a-b21d-0272cb785740
+1483527009234	geckodriver	INFO	Listening on 127.0.0.1:55563
+1483527009748	mozprofile::profile	INFO	Using profile path C:\Users\Cute\AppData\Local\Temp\rust_mozprofile.Xebn8aon4ORI
+1483527009752	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1483527009833	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55567
+1483527010831	Marionette	INFO	Listening on port 55567
+1483527012285	Marionette	INFO	startBrowser 6888856b-c474-4869-a858-580810d36eac
+1483527012296	Marionette	INFO	sendAsync 6888856b-c474-4869-a858-580810d36eac
+1483527012598	Marionette	INFO	sendAsync 6888856b-c474-4869-a858-580810d36eac
+1483527013887	Marionette	INFO	sendAsync 6888856b-c474-4869-a858-580810d36eac
+1483527013898	Marionette	INFO	sendAsync 6888856b-c474-4869-a858-580810d36eac
+1483527013910	Marionette	INFO	sendAsync 6888856b-c474-4869-a858-580810d36eac
+1483527013921	Marionette	INFO	sendAsync 6888856b-c474-4869-a858-580810d36eac
+1483527013929	Marionette	INFO	sendAsync 6888856b-c474-4869-a858-580810d36eac
+1483527013967	Marionette	INFO	sendAsync 6888856b-c474-4869-a858-580810d36eac
+JavaScript error: resource://gre/components/nsPrompter.js, line 421: NS_ERROR_NOT_AVAILABLE: prompt aborted by user
+JavaScript error: , line 0: uncaught exception: unknown (can't convert to string)
+1483527057562	geckodriver	INFO	Listening on 127.0.0.1:55617
+1483527058069	mozprofile::profile	INFO	Using profile path C:\Users\Cute\AppData\Local\Temp\rust_mozprofile.pEdL0sVmF8Kl
+1483527058075	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1483527058156	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55621
+1483527059229	Marionette	INFO	Listening on port 55621
+1483527060630	Marionette	INFO	startBrowser 9a29932b-5b40-4f39-a89d-3cdd7cc3cf4a
+1483527060645	Marionette	INFO	sendAsync 9a29932b-5b40-4f39-a89d-3cdd7cc3cf4a
+1483527060999	Marionette	INFO	sendAsync 9a29932b-5b40-4f39-a89d-3cdd7cc3cf4a
+1483527061333	Marionette	INFO	sendAsync 9a29932b-5b40-4f39-a89d-3cdd7cc3cf4a
+1483527064447	Marionette	INFO	sendAsync 9a29932b-5b40-4f39-a89d-3cdd7cc3cf4a
+1483527064456	Marionette	INFO	sendAsync 9a29932b-5b40-4f39-a89d-3cdd7cc3cf4a
+1483527064466	Marionette	INFO	sendAsync 9a29932b-5b40-4f39-a89d-3cdd7cc3cf4a
+1483527064484	Marionette	INFO	sendAsync 9a29932b-5b40-4f39-a89d-3cdd7cc3cf4a
+1483527064493	Marionette	INFO	sendAsync 9a29932b-5b40-4f39-a89d-3cdd7cc3cf4a
+1483527064533	Marionette	INFO	sendAsync 9a29932b-5b40-4f39-a89d-3cdd7cc3cf4a
+1483527718290	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Child 16136] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-beta-w64-0000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 343
+[Child 16136] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-beta-w64-0000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 343
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 293: TypeError: this._builder is undefined
+Async 7ddcefb9-d6fb-4b85-bfb4-3ca34b1fb259
+1483527083159	Marionette	INFO	sendAsync 7ddcefb9-d6fb-4b85-bfb4-3ca34b1fb259
+1483527083419	Marionette	INFO	sendAsync 7ddcefb9-d6fb-4b85-bfb4-3ca34b1fb259
+1483527084748	Marionette	INFO	sendAsync 7ddcefb9-d6fb-4b85-bfb4-3ca34b1fb259
+1483527084759	Marionette	INFO	sendAsync 7ddcefb9-d6fb-4b85-bfb4-3ca34b1fb259
+1483527084805	Marionette	INFO	sendAsync 7ddcefb9-d6fb-4b85-bfb4-3ca34b1fb259
+1483527084842	Marionette	INFO	sendAsync 7ddcefb9-d6fb-4b85-bfb4-3ca34b1fb259
+1483527084851	Marionette	INFO	sendAsync 7ddcefb9-d6fb-4b85-bfb4-3ca34b1fb259
+1483527084888	Marionette	INFO	sendAsync 7ddcefb9-d6fb-4b85-bfb4-3ca34b1fb259
+1483527746836	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+console.error: 
+  Message: Error: SessionFile is closed
+  Stack:
+    SessionFileInternal.write@resource://app/modules/sessionstore/SessionFile.jsm:315:29
+this.SessionFile.write@resource://app/modules/sessionstore/SessionFile.jsm:76:12
+SessionSaverInternal._writeState@resource://app/modules/sessionstore/SessionSaver.jsm:259:12
+SessionSaverInternal._saveState@resource://app/modules/sessionstore/SessionSaver.jsm:230:12
+SessionSaverInternal._saveStateAsync@resource://app/modules/sessionstore/SessionSaver.jsm:243:5
+SessionSaverInternal.runDelayed/this._timeoutID<@resource://app/modules/sessionstore/SessionSaver.jsm:147:40
+setTimeout_timer@resource://gre/modules/Timer.jsm:30:5
+
+4e0f-0817-4935-8d36-1ce97e149e26
+1483527283844	Marionette	INFO	sendAsync 5c924e0f-0817-4935-8d36-1ce97e149e26
+1483527283854	Marionette	INFO	sendAsync 5c924e0f-0817-4935-8d36-1ce97e149e26
+1483527283869	Marionette	INFO	sendAsync 5c924e0f-0817-4935-8d36-1ce97e149e26
+1483527283879	Marionette	INFO	sendAsync 5c924e0f-0817-4935-8d36-1ce97e149e26
+1483527283921	Marionette	INFO	sendAsync 5c924e0f-0817-4935-8d36-1ce97e149e26
+1483527283966	Marionette	INFO	sendAsync 5c924e0f-0817-4935-8d36-1ce97e149e26
+1483527284012	Marionette	INFO	sendAsync 5c924e0f-0817-4935-8d36-1ce97e149e26
+1483527284044	Marionette	INFO	sendAsync 5c924e0f-0817-4935-8d36-1ce97e149e26
+1483527284077	Marionette	INFO	sendAsync 5c924e0f-0817-4935-8d36-1ce97e149e26
+1483527284108	Marionette	INFO	sendAsync 5c924e0f-0817-4935-8d36-1ce97e149e26
+1483527284127	Marionette	INFO	sendAsync 5c924e0f-0817-4935-8d36-1ce97e149e26
+1483527284145	Marionette	INFO	sendAsync 5c924e0f-0817-4935-8d36-1ce97e149e26
+1483527284163	Marionette	INFO	sendAsync 5c924e0f-0817-4935-8d36-1ce97e149e26
+1483527284178	Marionette	INFO	sendAsync 5c924e0f-0817-4935-8d36-1ce97e149e26
+1483527284197	Marionette	INFO	sendAsync 5c924e0f-0817-4935-8d36-1ce97e149e26
+1483528826965	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1483528857072	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Child 16612] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-beta-w64-0000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 343
+[Child 16612] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-beta-w64-0000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 343
+rionette	INFO	sendAsync 50e0fc60-7e2a-4a25-88f5-2177afc9d9de
+1483527392064	Marionette	INFO	sendAsync 50e0fc60-7e2a-4a25-88f5-2177afc9d9de
+1483527393349	Marionette	INFO	sendAsync 50e0fc60-7e2a-4a25-88f5-2177afc9d9de
+1483527393357	Marionette	INFO	sendAsync 50e0fc60-7e2a-4a25-88f5-2177afc9d9de
+1483527393365	Marionette	INFO	sendAsync 50e0fc60-7e2a-4a25-88f5-2177afc9d9de
+1483527393377	Marionette	INFO	sendAsync 50e0fc60-7e2a-4a25-88f5-2177afc9d9de
+1483527393384	Marionette	INFO	sendAsync 50e0fc60-7e2a-4a25-88f5-2177afc9d9de
+1483527393429	Marionette	INFO	sendAsync 50e0fc60-7e2a-4a25-88f5-2177afc9d9de
+1483527393498	Marionette	INFO	sendAsync 50e0fc60-7e2a-4a25-88f5-2177afc9d9de
+1483527393526	Marionette	INFO	sendAsync 50e0fc60-7e2a-4a25-88f5-2177afc9d9de
+1483527393553	Marionette	INFO	sendAsync 50e0fc60-7e2a-4a25-88f5-2177afc9d9de
+1483527393603	Marionette	INFO	sendAsync 50e0fc60-7e2a-4a25-88f5-2177afc9d9de
+1483527393648	Marionette	INFO	sendAsync 50e0fc60-7e2a-4a25-88f5-2177afc9d9de
+1483527393672	Marionette	INFO	sendAsync 50e0fc60-7e2a-4a25-88f5-2177afc9d9de
+1483527393693	Marionette	INFO	sendAsync 50e0fc60-7e2a-4a25-88f5-2177afc9d9de
+1483527393710	Marionette	INFO	sendAsync 50e0fc60-7e2a-4a25-88f5-2177afc9d9de
+1483527393749	Marionette	INFO	sendAsync 50e0fc60-7e2a-4a25-88f5-2177afc9d9de
+1483528830982	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1483528861270	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+18137	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1483527418237	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55990
+1483527419226	Marionette	INFO	Listening on port 55990
+1483527420852	Marionette	INFO	startBrowser 3a096b76-a43f-4abb-853d-4718878a5f31
+1483527420864	Marionette	INFO	sendAsync 3a096b76-a43f-4abb-853d-4718878a5f31
+1483527421277	Marionette	INFO	sendAsync 3a096b76-a43f-4abb-853d-4718878a5f31
+1483527421507	Marionette	INFO	sendAsync 3a096b76-a43f-4abb-853d-4718878a5f31
+1483527422858	Marionette	INFO	sendAsync 3a096b76-a43f-4abb-853d-4718878a5f31
+1483527422870	Marionette	INFO	sendAsync 3a096b76-a43f-4abb-853d-4718878a5f31
+1483527422887	Marionette	INFO	sendAsync 3a096b76-a43f-4abb-853d-4718878a5f31
+1483527422904	Marionette	INFO	sendAsync 3a096b76-a43f-4abb-853d-4718878a5f31
+1483527422915	Marionette	INFO	sendAsync 3a096b76-a43f-4abb-853d-4718878a5f31
+1483527422959	Marionette	INFO	sendAsync 3a096b76-a43f-4abb-853d-4718878a5f31
+1483527423032	Marionette	INFO	sendAsync 3a096b76-a43f-4abb-853d-4718878a5f31
+1483527423082	Marionette	INFO	sendAsync 3a096b76-a43f-4abb-853d-4718878a5f31
+1483527423113	Marionette	INFO	sendAsync 3a096b76-a43f-4abb-853d-4718878a5f31
+1483527423143	Marionette	INFO	sendAsync 3a096b76-a43f-4abb-853d-4718878a5f31
+1483527423173	Marionette	INFO	sendAsync 3a096b76-a43f-4abb-853d-4718878a5f31
+1483527423197	Marionette	INFO	sendAsync 3a096b76-a43f-4abb-853d-4718878a5f31
+1483527423216	Marionette	INFO	sendAsync 3a096b76-a43f-4abb-853d-4718878a5f31
+1483527423236	Marionette	INFO	sendAsync 3a096b76-a43f-4abb-853d-4718878a5f31
+1483528860300	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+INFO	Using profile path C:\Users\Cute\AppData\Local\Temp\rust_mozprofile.JQchOeHoQZ8O
+1483527668168	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1483527668264	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56509
+1483527669573	Marionette	INFO	Listening on port 56509
+1483527671109	Marionette	INFO	startBrowser c8f32d6e-1f98-4e26-828e-d3e4bc597a16
+1483527671120	Marionette	INFO	sendAsync c8f32d6e-1f98-4e26-828e-d3e4bc597a16
+1483527671519	Marionette	INFO	sendAsync c8f32d6e-1f98-4e26-828e-d3e4bc597a16
+1483527673281	Marionette	INFO	sendAsync c8f32d6e-1f98-4e26-828e-d3e4bc597a16
+1483527838258	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1483527901706	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1483528050334	geckodriver	INFO	Listening on 127.0.0.1:56818
+1483528050848	mozprofile::profile	INFO	Using profile path C:\Users\Cute\AppData\Local\Temp\rust_mozprofile.q2MwPulZu2Cb
+1483528050852	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1483528050989	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56822
+1483528052133	Marionette	INFO	Listening on port 56822
+1483528054026	Marionette	INFO	startBrowser 01783e77-e79d-43f4-b839-acc2eb53df6b
+1483528054040	Marionette	INFO	sendAsync 01783e77-e79d-43f4-b839-acc2eb53df6b
+1483528054424	Marionette	INFO	sendAsync 01783e77-e79d-43f4-b839-acc2eb53df6b
+1483528054684	Marionette	INFO	sendAsync 01783e77-e79d-43f4-b839-acc2eb53df6b
+1483528055852	Marionette	INFO	sendAsync 01783e77-e79d-43f4-b839-acc2eb53df6b
+1483528274160	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Child 19188] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-beta-w64-0000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 343
+[Child 19188] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-beta-w64-0000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 343
+3528104647	Marionette	INFO	startBrowser 01870e42-03b1-4187-8b91-51d7df4cc52c
+1483528104659	Marionette	INFO	sendAsync 01870e42-03b1-4187-8b91-51d7df4cc52c
+1483528106488	Marionette	INFO	sendAsync 01870e42-03b1-4187-8b91-51d7df4cc52c
+1483528106765	Marionette	INFO	sendAsync 01870e42-03b1-4187-8b91-51d7df4cc52c
+1483528107452	Marionette	INFO	sendAsync 01870e42-03b1-4187-8b91-51d7df4cc52c
+1483528287308	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1483528350656	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+console.error: 
+  Message: Error: SessionFile is closed
+  Stack:
+    SessionFileInternal.write@resource://app/modules/sessionstore/SessionFile.jsm:315:29
+this.SessionFile.write@resource://app/modules/sessionstore/SessionFile.jsm:76:12
+SessionSaverInternal._writeState@resource://app/modules/sessionstore/SessionSaver.jsm:259:12
+SessionSaverInternal._saveState@resource://app/modules/sessionstore/SessionSaver.jsm:230:12
+SessionSaverInternal._saveStateAsync@resource://app/modules/sessionstore/SessionSaver.jsm:243:5
+SessionSaverInternal.runDelayed/this._timeoutID<@resource://app/modules/sessionstore/SessionSaver.jsm:147:40
+setTimeout_timer@resource://gre/modules/Timer.jsm:30:5
+
+ed downloading via XHR, status: 0, reason: error
+09893	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1483528209978	geckodriver::marionette	INFO	Connecting to Marionette on localhost:57075
+1483528211660	Marionette	INFO	Listening on port 57075
+1483528213321	Marionette	INFO	startBrowser 7d5cad3d-41d1-4352-9aeb-3dd0701aa16f
+1483528213335	Marionette	INFO	sendAsync 7d5cad3d-41d1-4352-9aeb-3dd0701aa16f
+1483528213728	Marionette	INFO	sendAsync 7d5cad3d-41d1-4352-9aeb-3dd0701aa16f
+1483528214054	Marionette	INFO	sendAsync 7d5cad3d-41d1-4352-9aeb-3dd0701aa16f
+1483528217119	Marionette	INFO	sendAsync 7d5cad3d-41d1-4352-9aeb-3dd0701aa16f
+1483528396774	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1483528460126	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+
+###!!! [Parent][OnMaybeDequeueOne] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][OnMaybeDequeueOne] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][OnMaybeDequeueOne] Error: Channel error: cannot send/recv
+
+
+1483528336764	Marionette	INFO	startBrowser 81a52237-6781-47dc-8418-6e4f651e573d
+1483528336780	Marionette	INFO	sendAsync 81a52237-6781-47dc-8418-6e4f651e573d
+1483528337251	Marionette	INFO	sendAsync 81a52237-6781-47dc-8418-6e4f651e573d
+1483528337496	Marionette	INFO	sendAsync 81a52237-6781-47dc-8418-6e4f651e573d
+1483528338607	Marionette	INFO	sendAsync 81a52237-6781-47dc-8418-6e4f651e573d
+1483528860049	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+
+###!!! [Parent][OnMaybeDequeueOne] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][OnMaybeDequeueOne] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][OnMaybeDequeueOne] Error: Channel error: cannot send/recv
+
+console.error: 
+  Message: Error: SessionFile is closed
+  Stack:
+    SessionFileInternal.write@resource://app/modules/sessionstore/SessionFile.jsm:315:29
+this.SessionFile.write@resource://app/modules/sessionstore/SessionFile.jsm:76:12
+SessionSaverInternal._writeState@resource://app/modules/sessionstore/SessionSaver.jsm:259:12
+SessionSaverInternal._saveState@resource://app/modules/sessionstore/SessionSaver.jsm:230:12
+SessionSaverInternal._saveStateAsync@resource://app/modules/sessionstore/SessionSaver.jsm:243:5
+SessionSaverInternal.runDelayed/this._timeoutID<@resource://app/modules/sessionstore/SessionSaver.jsm:147:40
+setTimeout_timer@resource://gre/modules/Timer.jsm:30:5
+
+exe
+1483528676246	geckodriver::marionette	INFO	Connecting to Marionette on localhost:57574
+1483528678047	Marionette	INFO	Listening on port 57574
+[GFX1-]: Failed to create a D3D11 content device: 0x8007000e
+1483528679474	Marionette	INFO	startBrowser 25741e8b-e27f-4fbe-8bb1-939623901494
+1483528679516	Marionette	INFO	sendAsync 25741e8b-e27f-4fbe-8bb1-939623901494
+1483528683403	Marionette	INFO	sendAsync 25741e8b-e27f-4fbe-8bb1-939623901494
+1483528683681	Marionette	INFO	sendAsync 25741e8b-e27f-4fbe-8bb1-939623901494
+1483528688822	Marionette	INFO	sendAsync 25741e8b-e27f-4fbe-8bb1-939623901494
+1483528859103	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Child 19408] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-beta-w64-0000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 343
+la Firefox\firefox.exe
+1483528835696	geckodriver::marionette	INFO	Connecting to Marionette on localhost:57861
+[GFX1]: D3D11 device creation failed: 0x8007000e
+1483528838172	Marionette	INFO	Listening on port 57861
+1483528839765	Marionette	INFO	startBrowser 5896fe15-8048-4274-8668-8efba996856f
+1483528839780	Marionette	INFO	sendAsync 5896fe15-8048-4274-8668-8efba996856f
+1483528840240	Marionette	INFO	sendAsync 5896fe15-8048-4274-8668-8efba996856f
+1483528840539	Marionette	INFO	sendAsync 5896fe15-8048-4274-8668-8efba996856f
+1483528841962	Marionette	INFO	sendAsync 5896fe15-8048-4274-8668-8efba996856f
+[Child 10936] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-beta-w64-0000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 343
+
+###!!! [Parent][OnMaybeDequeueOne] Error: Channel error: cannot send/recv
+
+1483528976150	geckodriver	INFO	Listening on 127.0.0.1:58134
+1483528976689	mozprofile::profile	INFO	Using profile path C:\Users\Cute\AppData\Local\Temp\rust_mozprofile.LScdSWKuMpVJ
+1483528976694	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1483528976772	geckodriver::marionette	INFO	Connecting to Marionette on localhost:58138
+1483528978009	Marionette	INFO	Listening on port 58138
+1483528979437	Marionette	INFO	startBrowser db0aba2d-7553-48a3-8d8f-1f46788ec418
+1483528979447	Marionette	INFO	sendAsync db0aba2d-7553-48a3-8d8f-1f46788ec418
+1483528979786	Marionette	INFO	sendAsync db0aba2d-7553-48a3-8d8f-1f46788ec418
+1483528981081	Marionette	INFO	sendAsync db0aba2d-7553-48a3-8d8f-1f46788ec418
+1483529054704	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+INFO	Using profile path C:\Users\Cute\AppData\Local\Temp\rust_mozprofile.8iZUk851ZP2R
+1483529034538	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1483529034622	geckodriver::marionette	INFO	Connecting to Marionette on localhost:58213
+1483529035747	Marionette	INFO	Listening on port 58213
+1483529037285	Marionette	INFO	startBrowser d8483751-5bd7-43e2-8927-92ecb3670dea
+1483529037298	Marionette	INFO	sendAsync d8483751-5bd7-43e2-8927-92ecb3670dea
+1483529037680	Marionette	INFO	sendAsync d8483751-5bd7-43e2-8927-92ecb3670dea
+1483529038049	Marionette	INFO	sendAsync d8483751-5bd7-43e2-8927-92ecb3670dea
+1483529039336	Marionette	INFO	sendAsync d8483751-5bd7-43e2-8927-92ecb3670dea
+1483529039354	Marionette	INFO	sendAsync d8483751-5bd7-43e2-8927-92ecb3670dea
+1483529073535	geckodriver	INFO	Listening on 127.0.0.1:58285
+1483529074044	mozprofile::profile	INFO	Using profile path C:\Users\Cute\AppData\Local\Temp\rust_mozprofile.2ztr6qAe2OTD
+1483529074050	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1483529074138	geckodriver::marionette	INFO	Connecting to Marionette on localhost:58289
+1483529075327	Marionette	INFO	Listening on port 58289
+1483529077140	Marionette	INFO	startBrowser 21d9088d-8ff0-4e27-adc1-733fd4ba771c
+1483529077156	Marionette	INFO	sendAsync 21d9088d-8ff0-4e27-adc1-733fd4ba771c
+1483529077524	Marionette	INFO	sendAsync 21d9088d-8ff0-4e27-adc1-733fd4ba771c
+1483529077920	Marionette	INFO	sendAsync 21d9088d-8ff0-4e27-adc1-733fd4ba771c
+1483529078946	Marionette	INFO	sendAsync 21d9088d-8ff0-4e27-adc1-733fd4ba771c
+1483529078957	Marionette	INFO	sendAsync 21d9088d-8ff0-4e27-adc1-733fd4ba771c
+1483529246546	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1483529309852	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+79584	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1483529179683	geckodriver::marionette	INFO	Connecting to Marionette on localhost:58389
+1483529180686	Marionette	INFO	Listening on port 58389
+1483529182169	Marionette	INFO	startBrowser 4c497cae-a02c-4bc0-b80a-76b1bc268ad3
+1483529182181	Marionette	INFO	sendAsync 4c497cae-a02c-4bc0-b80a-76b1bc268ad3
+1483529182603	Marionette	INFO	sendAsync 4c497cae-a02c-4bc0-b80a-76b1bc268ad3
+1483529184229	Marionette	INFO	sendAsync 4c497cae-a02c-4bc0-b80a-76b1bc268ad3
+1483529318624	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+INFO	Using profile path C:\Users\Cute\AppData\Local\Temp\rust_mozprofile.iPJYifvoRerZ
+1483529289036	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1483529289115	geckodriver::marionette	INFO	Connecting to Marionette on localhost:58533
+1483529290127	Marionette	INFO	Listening on port 58533
+1483529291525	Marionette	INFO	startBrowser a57a1654-960d-4465-b248-d5c7b2993edb
+1483529291537	Marionette	INFO	sendAsync a57a1654-960d-4465-b248-d5c7b2993edb
+1483529291882	Marionette	INFO	sendAsync a57a1654-960d-4465-b248-d5c7b2993edb
+1483529292107	Marionette	INFO	sendAsync a57a1654-960d-4465-b248-d5c7b2993edb
+1483529293434	Marionette	INFO	sendAsync a57a1654-960d-4465-b248-d5c7b2993edb
+1483529293447	Marionette	INFO	sendAsync a57a1654-960d-4465-b248-d5c7b2993edb
+1483529293461	Marionette	INFO	sendAsync a57a1654-960d-4465-b248-d5c7b2993edb
+1483529293475	Marionette	INFO	sendAsync a57a1654-960d-4465-b248-d5c7b2993edb
+1483529293506	Marionette	INFO	sendAsync a57a1654-960d-4465-b248-d5c7b2993edb
+1483529293546	Marionette	INFO	sendAsync a57a1654-960d-4465-b248-d5c7b2993edb
+1483529293564	Marionette	INFO	sendAsync a57a1654-960d-4465-b248-d5c7b2993edb
+1483529293583	Marionette	INFO	sendAsync a57a1654-960d-4465-b248-d5c7b2993edb
+1483529293618	Marionette	INFO	sendAsync a57a1654-960d-4465-b248-d5c7b2993edb
+1483529293649	Marionette	INFO	sendAsync a57a1654-960d-4465-b248-d5c7b2993edb
+1483529293678	Marionette	INFO	sendAsync a57a1654-960d-4465-b248-d5c7b2993edb
+1483529293699	Marionette	INFO	sendAsync a57a1654-960d-4465-b248-d5c7b2993edb
+1483529293718	Marionette	INFO	sendAsync a57a1654-960d-4465-b248-d5c7b2993edb
+1483529293742	Marionette	INFO	sendAsync a57a1654-960d-4465-b248-d5c7b2993edb
+1483529293760	Marionette	INFO	sendAsync a57a1654-960d-4465-b248-d5c7b2993edb
+1483529293778	Marionette	INFO	sendAsync a57a1654-960d-4465-b248-d5c7b2993edb
+1483529293794	Marionette	INFO	sendAsync a57a1654-960d-4465-b248-d5c7b2993edb
+1483529293809	Marionette	INFO	sendAsync a57a1654-960d-4465-b248-d5c7b2993edb
+1483529293825	Marionette	INFO	sendAsync a57a1654-960d-4465-b248-d5c7b2993edb
+1483529293841	Marionette	INFO	sendAsync a57a1654-960d-4465-b248-d5c7b2993edb
+1483529293858	Marionette	INFO	sendAsync a57a1654-960d-4465-b248-d5c7b2993edb
+1483529293873	Marionette	INFO	sendAsync a57a1654-960d-4465-b248-d5c7b2993edb
+1483529293889	Marionette	INFO	sendAsync a57a1654-960d-4465-b248-d5c7b2993edb
+1483529293908	Marionette	INFO	sendAsync a57a1654-960d-4465-b248-d5c7b2993edb
+1483529293924	Marionette	INFO	sendAsync a57a1654-960d-4465-b248-d5c7b2993edb
+1483529293944	Marionette	INFO	sendAsync a57a1654-960d-4465-b248-d5c7b2993edb
+1483529293959	Marionette	INFO	sendAsync a57a1654-960d-4465-b248-d5c7b2993edb
+1483529293973	Marionette	INFO	sendAsync a57a1654-960d-4465-b248-d5c7b2993edb
+1483529293991	Marionette	INFO	sendAsync a57a1654-960d-4465-b248-d5c7b2993edb
+1483529294008	Marionette	INFO	sendAsync a57a1654-960d-4465-b248-d5c7b2993edb
+1483529294021	Marionette	INFO	sendAsync a57a1654-960d-4465-b248-d5c7b2993edb
+1483529294038	Marionette	INFO	sendAsync a57a1654-960d-4465-b248-d5c7b2993edb
+1483529294052	Marionette	INFO	sendAsync a57a1654-960d-4465-b248-d5c7b2993edb
+1483529294066	Marionette	INFO	sendAsync a57a1654-960d-4465-b248-d5c7b2993edb
+1483529294084	Marionette	INFO	sendAsync a57a1654-960d-4465-b248-d5c7b2993edb
+1483529294108	Marionette	INFO	sendAsync a57a1654-960d-4465-b248-d5c7b2993edb
+1483529294123	Marionette	INFO	sendAsync a57a1654-960d-4465-b248-d5c7b2993edb
+1483529294145	Marionette	INFO	sendAsync a57a1654-960d-4465-b248-d5c7b2993edb
+1483529294160	Marionette	INFO	sendAsync a57a1654-960d-4465-b248-d5c7b2993edb
+1483529294177	Marionette	INFO	sendAsync a57a1654-960d-4465-b248-d5c7b2993edb
+1483529294194	Marionette	INFO	sendAsync a57a1654-960d-4465-b248-d5c7b2993edb
+1483529294209	Marionette	INFO	sendAsync a57a1654-960d-4465-b248-d5c7b2993edb
+1483529294225	Marionette	INFO	sendAsync a57a1654-960d-4465-b248-d5c7b2993edb
+1483529294243	Marionette	INFO	sendAsync a57a1654-960d-4465-b248-d5c7b2993edb
+1483529294258	Marionette	INFO	sendAsync a57a1654-960d-4465-b248-d5c7b2993edb
+1483529294274	Marionette	INFO	sendAsync a57a1654-960d-4465-b248-d5c7b2993edb
+1483529294287	Marionette	INFO	sendAsync a57a1654-960d-4465-b248-d5c7b2993edb
+1483529294306	Marionette	INFO	sendAsync a57a1654-960d-4465-b248-d5c7b2993edb
+1483529294321	Marionette	INFO	sendAsync a57a1654-960d-4465-b248-d5c7b2993edb
+1483529294341	Marionette	INFO	sendAsync a57a1654-960d-4465-b248-d5c7b2993edb
+1483529294359	Marionette	INFO	sendAsync a57a1654-960d-4465-b248-d5c7b2993edb
+1483529294375	Marionette	INFO	sendAsync a57a1654-960d-4465-b248-d5c7b2993edb
+1483529294389	Marionette	INFO	sendAsync a57a1654-960d-4465-b248-d5c7b2993edb
+1483529294404	Marionette	INFO	sendAsync a57a1654-960d-4465-b248-d5c7b2993edb
+1483529294418	Marionette	INFO	sendAsync a57a1654-960d-4465-b248-d5c7b2993edb
+1483529294443	Marionette	INFO	sendAsync a57a1654-960d-4465-b248-d5c7b2993edb
+1483529352912	geckodriver	INFO	Listening on 127.0.0.1:58647
+1483529352951	mozprofile::profile	INFO	Using profile path C:\Users\Cute\AppData\Local\Temp\rust_mozprofile.igE5TwcVY5q0
+1483529352955	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1483529353040	geckodriver::marionette	INFO	Connecting to Marionette on localhost:58651
+1483529354106	Marionette	INFO	Listening on port 58651
+1483529355417	Marionette	INFO	startBrowser ab297512-8d67-44f9-be02-4128fa887727
+1483529355429	Marionette	INFO	sendAsync ab297512-8d67-44f9-be02-4128fa887727
+1483529355788	Marionette	INFO	sendAsync ab297512-8d67-44f9-be02-4128fa887727
+1483529355952	Marionette	INFO	sendAsync ab297512-8d67-44f9-be02-4128fa887727
+1483529357126	Marionette	INFO	sendAsync ab297512-8d67-44f9-be02-4128fa887727
+1483529357140	Marionette	INFO	sendAsync ab297512-8d67-44f9-be02-4128fa887727
+1483529357153	Marionette	INFO	sendAsync ab297512-8d67-44f9-be02-4128fa887727
+1483529357169	Marionette	INFO	sendAsync ab297512-8d67-44f9-be02-4128fa887727
+1483529357188	Marionette	INFO	sendAsync ab297512-8d67-44f9-be02-4128fa887727
+1483529357239	Marionette	INFO	sendAsync ab297512-8d67-44f9-be02-4128fa887727
+1483529357270	Marionette	INFO	sendAsync ab297512-8d67-44f9-be02-4128fa887727
+1483529357330	Marionette	INFO	sendAsync ab297512-8d67-44f9-be02-4128fa887727
+1483529357370	Marionette	INFO	sendAsync ab297512-8d67-44f9-be02-4128fa887727
+1483529357436	Marionette	INFO	sendAsync ab297512-8d67-44f9-be02-4128fa887727
+1483529357464	Marionette	INFO	sendAsync ab297512-8d67-44f9-be02-4128fa887727
+1483529357492	Marionette	INFO	sendAsync ab297512-8d67-44f9-be02-4128fa887727
+1483529357515	Marionette	INFO	sendAsync ab297512-8d67-44f9-be02-4128fa887727
+1483529357553	Marionette	INFO	sendAsync ab297512-8d67-44f9-be02-4128fa887727
+1483529357581	Marionette	INFO	sendAsync ab297512-8d67-44f9-be02-4128fa887727
+1483529357602	Marionette	INFO	sendAsync ab297512-8d67-44f9-be02-4128fa887727
+1483529357622	Marionette	INFO	sendAsync ab297512-8d67-44f9-be02-4128fa887727
+1483529357643	Marionette	INFO	sendAsync ab297512-8d67-44f9-be02-4128fa887727
+1483529357664	Marionette	INFO	sendAsync ab297512-8d67-44f9-be02-4128fa887727
+1483529357683	Marionette	INFO	sendAsync ab297512-8d67-44f9-be02-4128fa887727
+1483529357700	Marionette	INFO	sendAsync ab297512-8d67-44f9-be02-4128fa887727
+1483529357716	Marionette	INFO	sendAsync ab297512-8d67-44f9-be02-4128fa887727
+1483529357735	Marionette	INFO	sendAsync ab297512-8d67-44f9-be02-4128fa887727
+1483529357755	Marionette	INFO	sendAsync ab297512-8d67-44f9-be02-4128fa887727
+1483529357771	Marionette	INFO	sendAsync ab297512-8d67-44f9-be02-4128fa887727
+1483529357787	Marionette	INFO	sendAsync ab297512-8d67-44f9-be02-4128fa887727
+1483529357800	Marionette	INFO	sendAsync ab297512-8d67-44f9-be02-4128fa887727
+1483529357852	Marionette	INFO	sendAsync ab297512-8d67-44f9-be02-4128fa887727
+1483529357868	Marionette	INFO	sendAsync ab297512-8d67-44f9-be02-4128fa887727
+1483529357885	Marionette	INFO	sendAsync ab297512-8d67-44f9-be02-4128fa887727
+1483529357898	Marionette	INFO	sendAsync ab297512-8d67-44f9-be02-4128fa887727
+1483529357915	Marionette	INFO	sendAsync ab297512-8d67-44f9-be02-4128fa887727
+1483529357929	Marionette	INFO	sendAsync ab297512-8d67-44f9-be02-4128fa887727
+1483529357943	Marionette	INFO	sendAsync ab297512-8d67-44f9-be02-4128fa887727
+1483529357961	Marionette	INFO	sendAsync ab297512-8d67-44f9-be02-4128fa887727
+1483529357985	Marionette	INFO	sendAsync ab297512-8d67-44f9-be02-4128fa887727
+1483529358005	Marionette	INFO	sendAsync ab297512-8d67-44f9-be02-4128fa887727
+1483529358026	Marionette	INFO	sendAsync ab297512-8d67-44f9-be02-4128fa887727
+1483529358044	Marionette	INFO	sendAsync ab297512-8d67-44f9-be02-4128fa887727
+1483529358077	Marionette	INFO	sendAsync ab297512-8d67-44f9-be02-4128fa887727
+1483529358097	Marionette	INFO	sendAsync ab297512-8d67-44f9-be02-4128fa887727
+1483529358114	Marionette	INFO	sendAsync ab297512-8d67-44f9-be02-4128fa887727
+1483529358141	Marionette	INFO	sendAsync ab297512-8d67-44f9-be02-4128fa887727
+1483529358163	Marionette	INFO	sendAsync ab297512-8d67-44f9-be02-4128fa887727
+1483529358181	Marionette	INFO	sendAsync ab297512-8d67-44f9-be02-4128fa887727
+1483529358195	Marionette	INFO	sendAsync ab297512-8d67-44f9-be02-4128fa887727
+1483529358210	Marionette	INFO	sendAsync ab297512-8d67-44f9-be02-4128fa887727
+1483529358223	Marionette	INFO	sendAsync ab297512-8d67-44f9-be02-4128fa887727
+1483529358240	Marionette	INFO	sendAsync ab297512-8d67-44f9-be02-4128fa887727
+1483529358255	Marionette	INFO	sendAsync ab297512-8d67-44f9-be02-4128fa887727
+1483529358271	Marionette	INFO	sendAsync ab297512-8d67-44f9-be02-4128fa887727
+1483529358290	Marionette	INFO	sendAsync ab297512-8d67-44f9-be02-4128fa887727
+1483529358305	Marionette	INFO	sendAsync ab297512-8d67-44f9-be02-4128fa887727
+1483529358320	Marionette	INFO	sendAsync ab297512-8d67-44f9-be02-4128fa887727
+1483529358336	Marionette	INFO	sendAsync ab297512-8d67-44f9-be02-4128fa887727
+1483529358353	Marionette	INFO	sendAsync ab297512-8d67-44f9-be02-4128fa887727
+1483529967393	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Child 13492] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-beta-w64-0000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 343
+la Firefox\firefox.exe
+1483529467504	geckodriver::marionette	INFO	Connecting to Marionette on localhost:58825
+1483529468544	Marionette	INFO	Listening on port 58825
+1483529470297	Marionette	INFO	startBrowser 0b83fcf5-fa76-4fad-ac4c-58927f4107b4
+1483529470316	Marionette	INFO	sendAsync 0b83fcf5-fa76-4fad-ac4c-58927f4107b4
+1483529470694	Marionette	INFO	sendAsync 0b83fcf5-fa76-4fad-ac4c-58927f4107b4
+1483529470971	Marionette	INFO	sendAsync 0b83fcf5-fa76-4fad-ac4c-58927f4107b4
+1483529472090	Marionette	INFO	sendAsync 0b83fcf5-fa76-4fad-ac4c-58927f4107b4
+1483529967175	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Child 14636] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-beta-w64-0000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 343
+[Child 14636] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-beta-w64-0000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 343
+3529544023	Marionette	INFO	startBrowser 8fc37128-5fec-4ae1-9736-63bb34148cbd
+1483529544036	Marionette	INFO	sendAsync 8fc37128-5fec-4ae1-9736-63bb34148cbd
+1483529544369	Marionette	INFO	sendAsync 8fc37128-5fec-4ae1-9736-63bb34148cbd
+1483529544575	Marionette	INFO	sendAsync 8fc37128-5fec-4ae1-9736-63bb34148cbd
+1483529546144	Marionette	INFO	sendAsync 8fc37128-5fec-4ae1-9736-63bb34148cbd
+1483529967295	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Child 22088] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-beta-w64-0000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 343
+[Child 22088] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-beta-w64-0000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 343
+3529588139	Marionette	INFO	startBrowser 12833b87-14d6-4b7f-891d-c72211279291
+1483529588155	Marionette	INFO	sendAsync 12833b87-14d6-4b7f-891d-c72211279291
+1483529588590	Marionette	INFO	sendAsync 12833b87-14d6-4b7f-891d-c72211279291
+1483529590295	Marionette	INFO	sendAsync 12833b87-14d6-4b7f-891d-c72211279291
+1483529590317	Marionette	INFO	sendAsync 12833b87-14d6-4b7f-891d-c72211279291
+1483529590329	Marionette	INFO	sendAsync 12833b87-14d6-4b7f-891d-c72211279291
+1483529590346	Marionette	INFO	sendAsync 12833b87-14d6-4b7f-891d-c72211279291
+1483529590359	Marionette	INFO	sendAsync 12833b87-14d6-4b7f-891d-c72211279291
+1483529590409	Marionette	INFO	sendAsync 12833b87-14d6-4b7f-891d-c72211279291
+1483529967334	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+INFO	Using profile path C:\Users\Cute\AppData\Local\Temp\rust_mozprofile.B7JTM83kVwRz
+1483529679619	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1483529679696	geckodriver::marionette	INFO	Connecting to Marionette on localhost:59177
+1483529680625	Marionette	INFO	Listening on port 59177
+1483529682037	Marionette	INFO	startBrowser 7af676b7-492b-479f-8992-3adb24fb65fe
+1483529682047	Marionette	INFO	sendAsync 7af676b7-492b-479f-8992-3adb24fb65fe
+1483529682418	Marionette	INFO	sendAsync 7af676b7-492b-479f-8992-3adb24fb65fe
+1483529683900	Marionette	INFO	sendAsync 7af676b7-492b-479f-8992-3adb24fb65fe
+1483529683913	Marionette	INFO	sendAsync 7af676b7-492b-479f-8992-3adb24fb65fe
+1483529683922	Marionette	INFO	sendAsync 7af676b7-492b-479f-8992-3adb24fb65fe
+1483529683936	Marionette	INFO	sendAsync 7af676b7-492b-479f-8992-3adb24fb65fe
+1483529683948	Marionette	INFO	sendAsync 7af676b7-492b-479f-8992-3adb24fb65fe
+1483529683989	Marionette	INFO	sendAsync 7af676b7-492b-479f-8992-3adb24fb65fe
+1483529686052	Marionette	INFO	sendAsync 7af676b7-492b-479f-8992-3adb24fb65fe
+1483529686063	Marionette	INFO	sendAsync 7af676b7-492b-479f-8992-3adb24fb65fe
+1483529686088	Marionette	INFO	sendAsync 7af676b7-492b-479f-8992-3adb24fb65fe
+1483529686109	Marionette	INFO	sendAsync 7af676b7-492b-479f-8992-3adb24fb65fe
+1483529686125	Marionette	INFO	sendAsync 7af676b7-492b-479f-8992-3adb24fb65fe
+1483529686142	Marionette	INFO	sendAsync 7af676b7-492b-479f-8992-3adb24fb65fe
+1483529686158	Marionette	INFO	sendAsync 7af676b7-492b-479f-8992-3adb24fb65fe
+1483529686174	Marionette	INFO	sendAsync 7af676b7-492b-479f-8992-3adb24fb65fe
+1483529686192	Marionette	INFO	sendAsync 7af676b7-492b-479f-8992-3adb24fb65fe
+1483529686207	Marionette	INFO	sendAsync 7af676b7-492b-479f-8992-3adb24fb65fe
+1483529686225	Marionette	INFO	sendAsync 7af676b7-492b-479f-8992-3adb24fb65fe
+1483529686244	Marionette	INFO	sendAsync 7af676b7-492b-479f-8992-3adb24fb65fe
+1483529686260	Marionette	INFO	sendAsync 7af676b7-492b-479f-8992-3adb24fb65fe
+1483529686280	Marionette	INFO	sendAsync 7af676b7-492b-479f-8992-3adb24fb65fe
+1483529686294	Marionette	INFO	sendAsync 7af676b7-492b-479f-8992-3adb24fb65fe
+1483529686309	Marionette	INFO	sendAsync 7af676b7-492b-479f-8992-3adb24fb65fe
+1483529686324	Marionette	INFO	sendAsync 7af676b7-492b-479f-8992-3adb24fb65fe
+1483529686342	Marionette	INFO	sendAsync 7af676b7-492b-479f-8992-3adb24fb65fe
+1483529686356	Marionette	INFO	sendAsync 7af676b7-492b-479f-8992-3adb24fb65fe
+1483529686370	Marionette	INFO	sendAsync 7af676b7-492b-479f-8992-3adb24fb65fe
+1483529686383	Marionette	INFO	sendAsync 7af676b7-492b-479f-8992-3adb24fb65fe
+1483529686398	Marionette	INFO	sendAsync 7af676b7-492b-479f-8992-3adb24fb65fe
+1483529686411	Marionette	INFO	sendAsync 7af676b7-492b-479f-8992-3adb24fb65fe
+1483529686427	Marionette	INFO	sendAsync 7af676b7-492b-479f-8992-3adb24fb65fe
+1483529686443	Marionette	INFO	sendAsync 7af676b7-492b-479f-8992-3adb24fb65fe
+1483529686458	Marionette	INFO	sendAsync 7af676b7-492b-479f-8992-3adb24fb65fe
+1483529686474	Marionette	INFO	sendAsync 7af676b7-492b-479f-8992-3adb24fb65fe
+1483529686491	Marionette	INFO	sendAsync 7af676b7-492b-479f-8992-3adb24fb65fe
+1483529686510	Marionette	INFO	sendAsync 7af676b7-492b-479f-8992-3adb24fb65fe
+1483529686528	Marionette	INFO	sendAsync 7af676b7-492b-479f-8992-3adb24fb65fe
+1483529686549	Marionette	INFO	sendAsync 7af676b7-492b-479f-8992-3adb24fb65fe
+1483529686564	Marionette	INFO	sendAsync 7af676b7-492b-479f-8992-3adb24fb65fe
+1483529686581	Marionette	INFO	sendAsync 7af676b7-492b-479f-8992-3adb24fb65fe
+1483529686604	Marionette	INFO	sendAsync 7af676b7-492b-479f-8992-3adb24fb65fe
+1483529686621	Marionette	INFO	sendAsync 7af676b7-492b-479f-8992-3adb24fb65fe
+1483529686638	Marionette	INFO	sendAsync 7af676b7-492b-479f-8992-3adb24fb65fe
+1483529686654	Marionette	INFO	sendAsync 7af676b7-492b-479f-8992-3adb24fb65fe
+1483529967707	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+INFO	Using profile path C:\Users\Cute\AppData\Local\Temp\rust_mozprofile.ivcDXqbG8i4G
+1483529829449	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1483529829553	geckodriver::marionette	INFO	Connecting to Marionette on localhost:59382
+1483529830550	Marionette	INFO	Listening on port 59382
+1483529832216	Marionette	INFO	startBrowser ebc59a3c-107e-4f12-ae83-f428e68537ac
+1483529832230	Marionette	INFO	sendAsync ebc59a3c-107e-4f12-ae83-f428e68537ac
+1483529832639	Marionette	INFO	sendAsync ebc59a3c-107e-4f12-ae83-f428e68537ac
+1483529832900	Marionette	INFO	sendAsync ebc59a3c-107e-4f12-ae83-f428e68537ac
+1483529834207	Marionette	INFO	sendAsync ebc59a3c-107e-4f12-ae83-f428e68537ac
+1483529967464	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1483529972954	geckodriver	INFO	Listening on 127.0.0.1:59592
+1483529973491	mozprofile::profile	INFO	Using profile path C:\Users\Cute\AppData\Local\Temp\rust_mozprofile.38rVp2Zrmrib
+1483529973496	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1483529973594	geckodriver::marionette	INFO	Connecting to Marionette on localhost:59596
+1483529974780	Marionette	INFO	Listening on port 59596
+1483529976174	Marionette	INFO	startBrowser d16449a0-a810-4463-8a43-d28badde7bec
+1483529976190	Marionette	INFO	sendAsync d16449a0-a810-4463-8a43-d28badde7bec
+1483529976552	Marionette	INFO	sendAsync d16449a0-a810-4463-8a43-d28badde7bec
+1483529976827	Marionette	INFO	sendAsync d16449a0-a810-4463-8a43-d28badde7bec
+1483529977773	Marionette	INFO	sendAsync d16449a0-a810-4463-8a43-d28badde7bec
+1483529977789	Marionette	INFO	sendAsync d16449a0-a810-4463-8a43-d28badde7bec
+1483529977803	Marionette	INFO	sendAsync d16449a0-a810-4463-8a43-d28badde7bec
+1483529977822	Marionette	INFO	sendAsync d16449a0-a810-4463-8a43-d28badde7bec
+1483529977832	Marionette	INFO	sendAsync d16449a0-a810-4463-8a43-d28badde7bec
+1483529977878	Marionette	INFO	sendAsync d16449a0-a810-4463-8a43-d28badde7bec
+1483529981914	Marionette	INFO	sendAsync d16449a0-a810-4463-8a43-d28badde7bec
+1483529981923	Marionette	INFO	sendAsync d16449a0-a810-4463-8a43-d28badde7bec
+1483529981945	Marionette	INFO	sendAsync d16449a0-a810-4463-8a43-d28badde7bec
+1483529981965	Marionette	INFO	sendAsync d16449a0-a810-4463-8a43-d28badde7bec
+1483529981983	Marionette	INFO	sendAsync d16449a0-a810-4463-8a43-d28badde7bec
+1483529982003	Marionette	INFO	sendAsync d16449a0-a810-4463-8a43-d28badde7bec
+1483529982021	Marionette	INFO	sendAsync d16449a0-a810-4463-8a43-d28badde7bec
+1483529982040	Marionette	INFO	sendAsync d16449a0-a810-4463-8a43-d28badde7bec
+1483529982057	Marionette	INFO	sendAsync d16449a0-a810-4463-8a43-d28badde7bec
+1483529982071	Marionette	INFO	sendAsync d16449a0-a810-4463-8a43-d28badde7bec
+1483530221568	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Child 16300] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-beta-w64-0000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 343
+U7cufHgskEI
+1483530304494	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1483530304578	geckodriver::marionette	INFO	Connecting to Marionette on localhost:59730
+1483530305726	Marionette	INFO	Listening on port 59730
+1483530307215	Marionette	INFO	startBrowser 5c313ebb-99db-44de-9e33-3de9c2fb2903
+1483530307231	Marionette	INFO	sendAsync 5c313ebb-99db-44de-9e33-3de9c2fb2903
+1483530307684	Marionette	INFO	sendAsync 5c313ebb-99db-44de-9e33-3de9c2fb2903
+1483530307913	Marionette	INFO	sendAsync 5c313ebb-99db-44de-9e33-3de9c2fb2903
+1483530514474	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Child 18296] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-beta-w64-0000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 343
+[Child 18296] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-beta-w64-0000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 343
+3530370651	Marionette	INFO	startBrowser 1a1152d9-564c-473e-a794-59228df2c6c7
+1483530370662	Marionette	INFO	sendAsync 1a1152d9-564c-473e-a794-59228df2c6c7
+1483530371059	Marionette	INFO	sendAsync 1a1152d9-564c-473e-a794-59228df2c6c7
+1483530371276	Marionette	INFO	sendAsync 1a1152d9-564c-473e-a794-59228df2c6c7
+1483530588171	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Child 22504] WARNING: pipe error: 232: file c:/builds/moz2_slave/m-beta-w64-0000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 497
+[Child 22504] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-beta-w64-0000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 343
+[Child 22504] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-beta-w64-0000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 343
+0	Marionette	INFO	sendAsync 2d40684e-f3b7-4d7c-ad76-b37b4924890c
+1483530612373	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+INFO	Using profile path C:\Users\Cute\AppData\Local\Temp\rust_mozprofile.6IKQsJyfgPCP
+1483530455918	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1483530456021	geckodriver::marionette	INFO	Connecting to Marionette on localhost:59964
+1483530457032	Marionette	INFO	Listening on port 59964
+1483530458356	Marionette	INFO	startBrowser 295338d0-4fa2-45df-88c1-f17c4f223d29
+1483530458371	Marionette	INFO	sendAsync 295338d0-4fa2-45df-88c1-f17c4f223d29
+1483530458715	Marionette	INFO	sendAsync 295338d0-4fa2-45df-88c1-f17c4f223d29
+1483530460507	Marionette	INFO	sendAsync 295338d0-4fa2-45df-88c1-f17c4f223d29
+1483530460520	Marionette	INFO	sendAsync 295338d0-4fa2-45df-88c1-f17c4f223d29
+1483530460530	Marionette	INFO	sendAsync 295338d0-4fa2-45df-88c1-f17c4f223d29
+1483530688213	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+INFO	Using profile path C:\Users\Cute\AppData\Local\Temp\rust_mozprofile.hwyysue8WKxh
+1483530542631	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1483530542748	geckodriver::marionette	INFO	Connecting to Marionette on localhost:60117
+1483530544283	Marionette	INFO	Listening on port 60117
+1483530546064	Marionette	INFO	startBrowser 63bca978-e4c6-44a5-b0d3-6785f8ce3bc1
+1483530546080	Marionette	INFO	sendAsync 63bca978-e4c6-44a5-b0d3-6785f8ce3bc1
+1483530546506	Marionette	INFO	sendAsync 63bca978-e4c6-44a5-b0d3-6785f8ce3bc1
+1483530548222	Marionette	INFO	sendAsync 63bca978-e4c6-44a5-b0d3-6785f8ce3bc1
+1483530548233	Marionette	INFO	sendAsync 63bca978-e4c6-44a5-b0d3-6785f8ce3bc1
+1483530548250	Marionette	INFO	sendAsync 63bca978-e4c6-44a5-b0d3-6785f8ce3bc1
+1483530548264	Marionette	INFO	sendAsync 63bca978-e4c6-44a5-b0d3-6785f8ce3bc1
+1483530548273	Marionette	INFO	sendAsync 63bca978-e4c6-44a5-b0d3-6785f8ce3bc1
+1483530548280	Marionette	INFO	sendAsync 63bca978-e4c6-44a5-b0d3-6785f8ce3bc1
+1483530548324	Marionette	INFO	sendAsync 63bca978-e4c6-44a5-b0d3-6785f8ce3bc1
+1483530552381	Marionette	INFO	sendAsync 63bca978-e4c6-44a5-b0d3-6785f8ce3bc1
+1483530552391	Marionette	INFO	sendAsync 63bca978-e4c6-44a5-b0d3-6785f8ce3bc1
+1483530552418	Marionette	INFO	sendAsync 63bca978-e4c6-44a5-b0d3-6785f8ce3bc1
+1483530552441	Marionette	INFO	sendAsync 63bca978-e4c6-44a5-b0d3-6785f8ce3bc1
+1483530552472	Marionette	INFO	sendAsync 63bca978-e4c6-44a5-b0d3-6785f8ce3bc1
+1483530737094	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+INFO	Using profile path C:\Users\Cute\AppData\Local\Temp\rust_mozprofile.Vd40pU8h7SDK
+1483530618246	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1483530618325	geckodriver::marionette	INFO	Connecting to Marionette on localhost:60242
+1483530620107	Marionette	INFO	Listening on port 60242
+1483530621915	Marionette	INFO	startBrowser ee63d569-6147-4ce7-b913-b78b6792e32f
+1483530621936	Marionette	INFO	sendAsync ee63d569-6147-4ce7-b913-b78b6792e32f
+1483530622409	Marionette	INFO	sendAsync ee63d569-6147-4ce7-b913-b78b6792e32f
+1483530622809	Marionette	INFO	sendAsync ee63d569-6147-4ce7-b913-b78b6792e32f
+1483530623671	Marionette	INFO	sendAsync ee63d569-6147-4ce7-b913-b78b6792e32f
+1483530623712	Marionette	INFO	sendAsync ee63d569-6147-4ce7-b913-b78b6792e32f
+1483530623721	Marionette	INFO	sendAsync ee63d569-6147-4ce7-b913-b78b6792e32f
+1483530623737	Marionette	INFO	sendAsync ee63d569-6147-4ce7-b913-b78b6792e32f
+1483530623747	Marionette	INFO	sendAsync ee63d569-6147-4ce7-b913-b78b6792e32f
+1483530623759	Marionette	INFO	sendAsync ee63d569-6147-4ce7-b913-b78b6792e32f
+1483530623808	Marionette	INFO	sendAsync ee63d569-6147-4ce7-b913-b78b6792e32f
+1483530627826	Marionette	INFO	sendAsync ee63d569-6147-4ce7-b913-b78b6792e32f
+1483530627835	Marionette	INFO	sendAsync ee63d569-6147-4ce7-b913-b78b6792e32f
+1483530736843	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Child 19100] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-beta-w64-0000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 343
+[Child 19100] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-beta-w64-0000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 343
+3530701433	Marionette	INFO	startBrowser 38a495a2-b000-4ac6-ab2b-a262fbcba8c2
+1483530701445	Marionette	INFO	sendAsync 38a495a2-b000-4ac6-ab2b-a262fbcba8c2
+1483530701938	Marionette	INFO	sendAsync 38a495a2-b000-4ac6-ab2b-a262fbcba8c2
+1483530702131	Marionette	INFO	sendAsync 38a495a2-b000-4ac6-ab2b-a262fbcba8c2
+1483530703527	Marionette	INFO	sendAsync 38a495a2-b000-4ac6-ab2b-a262fbcba8c2
+1483530703541	Marionette	INFO	sendAsync 38a495a2-b000-4ac6-ab2b-a262fbcba8c2
+1483530703560	Marionette	INFO	sendAsync 38a495a2-b000-4ac6-ab2b-a262fbcba8c2
+1483530703593	Marionette	INFO	sendAsync 38a495a2-b000-4ac6-ab2b-a262fbcba8c2
+1483530703611	Marionette	INFO	sendAsync 38a495a2-b000-4ac6-ab2b-a262fbcba8c2
+1483530703623	Marionette	INFO	sendAsync 38a495a2-b000-4ac6-ab2b-a262fbcba8c2
+1483530703676	Marionette	INFO	sendAsync 38a495a2-b000-4ac6-ab2b-a262fbcba8c2
+1483530707698	Marionette	INFO	sendAsync 38a495a2-b000-4ac6-ab2b-a262fbcba8c2
+1483530729162	geckodriver	INFO	Listening on 127.0.0.1:60472
+1483530729759	mozprofile::profile	INFO	Using profile path C:\Users\Cute\AppData\Local\Temp\rust_mozprofile.aOBIZq64egD0
+1483530729764	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1483530729845	geckodriver::marionette	INFO	Connecting to Marionette on localhost:60477
+1483530730877	Marionette	INFO	Listening on port 60477
+1483530732314	Marionette	INFO	startBrowser 51ffd942-bc11-49aa-89fc-adfec9fe0423
+1483530732330	Marionette	INFO	sendAsync 51ffd942-bc11-49aa-89fc-adfec9fe0423
+1483530732698	Marionette	INFO	sendAsync 51ffd942-bc11-49aa-89fc-adfec9fe0423
+1483530733055	Marionette	INFO	sendAsync 51ffd942-bc11-49aa-89fc-adfec9fe0423
+1483530734354	Marionette	INFO	sendAsync 51ffd942-bc11-49aa-89fc-adfec9fe0423
+1483530734370	Marionette	INFO	sendAsync 51ffd942-bc11-49aa-89fc-adfec9fe0423
+[Child 19980] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-beta-w64-0000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 343
+1483530736654	geckodriver::marionette	ERROR	Failed to kill browser process
+1483530747964	geckodriver	INFO	Listening on 127.0.0.1:60513
+1483530748465	mozprofile::profile	INFO	Using profile path C:\Users\Cute\AppData\Local\Temp\rust_mozprofile.maZO3jjh9bCx
+1483530748471	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1483530748546	geckodriver::marionette	INFO	Connecting to Marionette on localhost:60517
+1483530749621	Marionette	INFO	Listening on port 60517
+1483530751221	Marionette	INFO	startBrowser 8dee403f-69c1-4e3d-91cb-ed133d0f6074
+1483530751241	Marionette	INFO	sendAsync 8dee403f-69c1-4e3d-91cb-ed133d0f6074
+1483530751612	Marionette	INFO	sendAsync 8dee403f-69c1-4e3d-91cb-ed133d0f6074
+1483530752873	Marionette	INFO	sendAsync 8dee403f-69c1-4e3d-91cb-ed133d0f6074
+1483530752883	Marionette	INFO	sendAsync 8dee403f-69c1-4e3d-91cb-ed133d0f6074
+1483530754937	Marionette	INFO	sendAsync 8dee403f-69c1-4e3d-91cb-ed133d0f6074
+1483530754946	Marionette	INFO	sendAsync 8dee403f-69c1-4e3d-91cb-ed133d0f6074
+1483530755026	Marionette	INFO	sendAsync 8dee403f-69c1-4e3d-91cb-ed133d0f6074
+1483530755037	Marionette	INFO	sendAsync 8dee403f-69c1-4e3d-91cb-ed133d0f6074
+1483530755138	Marionette	INFO	sendAsync 8dee403f-69c1-4e3d-91cb-ed133d0f6074
+1483530755146	Marionette	INFO	sendAsync 8dee403f-69c1-4e3d-91cb-ed133d0f6074
+1483530757190	Marionette	INFO	sendAsync 8dee403f-69c1-4e3d-91cb-ed133d0f6074
+1483530757199	Marionette	INFO	sendAsync 8dee403f-69c1-4e3d-91cb-ed133d0f6074
+1483530757210	Marionette	INFO	sendAsync 8dee403f-69c1-4e3d-91cb-ed133d0f6074
+1483530757225	Marionette	INFO	sendAsync 8dee403f-69c1-4e3d-91cb-ed133d0f6074
+1483530757234	Marionette	INFO	sendAsync 8dee403f-69c1-4e3d-91cb-ed133d0f6074
+1483530761989	geckodriver	INFO	Listening on 127.0.0.1:60584
+1483530762494	mozprofile::profile	INFO	Using profile path C:\Users\Cute\AppData\Local\Temp\rust_mozprofile.7kjZvGSpts8R
+1483530762498	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1483530762606	geckodriver::marionette	INFO	Connecting to Marionette on localhost:60588
+1483530763655	Marionette	INFO	Listening on port 60588
+1483530765228	Marionette	INFO	startBrowser 66063412-f68a-47d2-9b84-11067c292f59
+1483530765240	Marionette	INFO	sendAsync 66063412-f68a-47d2-9b84-11067c292f59
+1483530765548	Marionette	INFO	sendAsync 66063412-f68a-47d2-9b84-11067c292f59
+1483530765779	Marionette	INFO	sendAsync 66063412-f68a-47d2-9b84-11067c292f59
+1483530767079	Marionette	INFO	sendAsync 66063412-f68a-47d2-9b84-11067c292f59
+1483530767108	Marionette	INFO	sendAsync 66063412-f68a-47d2-9b84-11067c292f59
+1483530769148	Marionette	INFO	sendAsync 66063412-f68a-47d2-9b84-11067c292f59
+1483530769158	Marionette	INFO	sendAsync 66063412-f68a-47d2-9b84-11067c292f59
+1483530769232	Marionette	INFO	sendAsync 66063412-f68a-47d2-9b84-11067c292f59
+1483530769240	Marionette	INFO	sendAsync 66063412-f68a-47d2-9b84-11067c292f59
+1483530769296	Marionette	INFO	sendAsync 66063412-f68a-47d2-9b84-11067c292f59
+1483530769305	Marionette	INFO	sendAsync 66063412-f68a-47d2-9b84-11067c292f59
+1483530771336	Marionette	INFO	sendAsync 66063412-f68a-47d2-9b84-11067c292f59
+1483530771345	Marionette	INFO	sendAsync 66063412-f68a-47d2-9b84-11067c292f59
+1483530771355	Marionette	INFO	sendAsync 66063412-f68a-47d2-9b84-11067c292f59
+1483530771365	Marionette	INFO	sendAsync 66063412-f68a-47d2-9b84-11067c292f59
+1483530771379	Marionette	INFO	sendAsync 66063412-f68a-47d2-9b84-11067c292f59
+[Child 20328] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-beta-w64-0000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2046
+1483530778820	geckodriver	INFO	Listening on 127.0.0.1:60663
+1483530779314	mozprofile::profile	INFO	Using profile path C:\Users\Cute\AppData\Local\Temp\rust_mozprofile.A58OojdAKkyX
+1483530779319	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1483530779397	geckodriver::marionette	INFO	Connecting to Marionette on localhost:60667
+1483530780451	Marionette	INFO	Listening on port 60667
+1483530781713	Marionette	INFO	startBrowser 5e7bddfc-d80d-4fd0-b756-0e699ce96425
+1483530781725	Marionette	INFO	sendAsync 5e7bddfc-d80d-4fd0-b756-0e699ce96425
+1483530782079	Marionette	INFO	sendAsync 5e7bddfc-d80d-4fd0-b756-0e699ce96425
+1483530783459	Marionette	INFO	sendAsync 5e7bddfc-d80d-4fd0-b756-0e699ce96425
+1483530783469	Marionette	INFO	sendAsync 5e7bddfc-d80d-4fd0-b756-0e699ce96425
+1483530785514	Marionette	INFO	sendAsync 5e7bddfc-d80d-4fd0-b756-0e699ce96425
+1483530785522	Marionette	INFO	sendAsync 5e7bddfc-d80d-4fd0-b756-0e699ce96425
+1483530785588	Marionette	INFO	sendAsync 5e7bddfc-d80d-4fd0-b756-0e699ce96425
+1483530785597	Marionette	INFO	sendAsync 5e7bddfc-d80d-4fd0-b756-0e699ce96425
+1483530785655	Marionette	INFO	sendAsync 5e7bddfc-d80d-4fd0-b756-0e699ce96425
+1483530785662	Marionette	INFO	sendAsync 5e7bddfc-d80d-4fd0-b756-0e699ce96425
+1483530787699	Marionette	INFO	sendAsync 5e7bddfc-d80d-4fd0-b756-0e699ce96425
+1483530787712	Marionette	INFO	sendAsync 5e7bddfc-d80d-4fd0-b756-0e699ce96425
+1483530787721	Marionette	INFO	sendAsync 5e7bddfc-d80d-4fd0-b756-0e699ce96425
+1483530787732	Marionette	INFO	sendAsync 5e7bddfc-d80d-4fd0-b756-0e699ce96425
+1483530787740	Marionette	INFO	sendAsync 5e7bddfc-d80d-4fd0-b756-0e699ce96425
+1483530814413	geckodriver	INFO	Listening on 127.0.0.1:60732
+1483530815016	mozprofile::profile	INFO	Using profile path C:\Users\Cute\AppData\Local\Temp\rust_mozprofile.A69HlwKteqVt
+1483530815019	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1483530815114	geckodriver::marionette	INFO	Connecting to Marionette on localhost:60736
+1483530816236	Marionette	INFO	Listening on port 60736
+1483530818208	Marionette	INFO	startBrowser 2650c15e-04c3-429a-9041-452612b75bd4
+1483530818222	Marionette	INFO	sendAsync 2650c15e-04c3-429a-9041-452612b75bd4
+1483530818766	Marionette	INFO	sendAsync 2650c15e-04c3-429a-9041-452612b75bd4
+1483530819707	Marionette	INFO	sendAsync 2650c15e-04c3-429a-9041-452612b75bd4
+1483530820593	Marionette	INFO	sendAsync 2650c15e-04c3-429a-9041-452612b75bd4
+1483530820604	Marionette	INFO	sendAsync 2650c15e-04c3-429a-9041-452612b75bd4
+1483530820613	Marionette	INFO	sendAsync 2650c15e-04c3-429a-9041-452612b75bd4
+1483530820628	Marionette	INFO	sendAsync 2650c15e-04c3-429a-9041-452612b75bd4
+1483530820637	Marionette	INFO	sendAsync 2650c15e-04c3-429a-9041-452612b75bd4
+1483530820645	Marionette	INFO	sendAsync 2650c15e-04c3-429a-9041-452612b75bd4
+1483530820685	Marionette	INFO	sendAsync 2650c15e-04c3-429a-9041-452612b75bd4
+1483530824718	Marionette	INFO	sendAsync 2650c15e-04c3-429a-9041-452612b75bd4
+1483530824729	Marionette	INFO	sendAsync 2650c15e-04c3-429a-9041-452612b75bd4
+1483530824737	Marionette	INFO	sendAsync 2650c15e-04c3-429a-9041-452612b75bd4
+1483530824749	Marionette	INFO	sendAsync 2650c15e-04c3-429a-9041-452612b75bd4
+1483530824757	Marionette	INFO	sendAsync 2650c15e-04c3-429a-9041-452612b75bd4
+1483530824778	Marionette	INFO	sendAsync 2650c15e-04c3-429a-9041-452612b75bd4
+1483530824790	Marionette	INFO	sendAsync 2650c15e-04c3-429a-9041-452612b75bd4
+1483530824799	Marionette	INFO	sendAsync 2650c15e-04c3-429a-9041-452612b75bd4
+1483530824808	Marionette	INFO	sendAsync 2650c15e-04c3-429a-9041-452612b75bd4
+[Child 20724] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-beta-w64-0000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2046
+1483530911159	geckodriver	INFO	Listening on 127.0.0.1:60819
+1483530911691	mozprofile::profile	INFO	Using profile path C:\Users\Cute\AppData\Local\Temp\rust_mozprofile.Sn8YTiVDsONZ
+1483530911696	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1483530911808	geckodriver::marionette	INFO	Connecting to Marionette on localhost:60823
+1483530913119	Marionette	INFO	Listening on port 60823
+1483530914807	Marionette	INFO	startBrowser 1707012c-296e-48c9-b6b2-5c21326493f8
+1483530914823	Marionette	INFO	sendAsync 1707012c-296e-48c9-b6b2-5c21326493f8
+1483530915166	Marionette	INFO	sendAsync 1707012c-296e-48c9-b6b2-5c21326493f8
+1483530916193	Marionette	INFO	sendAsync 1707012c-296e-48c9-b6b2-5c21326493f8
+1483530916204	Marionette	INFO	sendAsync 1707012c-296e-48c9-b6b2-5c21326493f8
+1483530916213	Marionette	INFO	sendAsync 1707012c-296e-48c9-b6b2-5c21326493f8
+1483530916230	Marionette	INFO	sendAsync 1707012c-296e-48c9-b6b2-5c21326493f8
+1483530916240	Marionette	INFO	sendAsync 1707012c-296e-48c9-b6b2-5c21326493f8
+1483530916248	Marionette	INFO	sendAsync 1707012c-296e-48c9-b6b2-5c21326493f8
+1483530916299	Marionette	INFO	sendAsync 1707012c-296e-48c9-b6b2-5c21326493f8
+1483530920373	Marionette	INFO	sendAsync 1707012c-296e-48c9-b6b2-5c21326493f8
+1483530920382	Marionette	INFO	sendAsync 1707012c-296e-48c9-b6b2-5c21326493f8
+1483530920390	Marionette	INFO	sendAsync 1707012c-296e-48c9-b6b2-5c21326493f8
+1483530982967	geckodriver	INFO	Listening on 127.0.0.1:60885
+1483530983487	mozprofile::profile	INFO	Using profile path C:\Users\Cute\AppData\Local\Temp\rust_mozprofile.Vv4jfUMxs7Oz
+1483530983491	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1483530983587	geckodriver::marionette	INFO	Connecting to Marionette on localhost:60889
+1483530984540	Marionette	INFO	Listening on port 60889
+1483530985929	Marionette	INFO	startBrowser bfbd7c41-07fe-43dc-8a5e-8344ef143d12
+1483530985944	Marionette	INFO	sendAsync bfbd7c41-07fe-43dc-8a5e-8344ef143d12
+1483530986388	Marionette	INFO	sendAsync bfbd7c41-07fe-43dc-8a5e-8344ef143d12
+1483530986610	Marionette	INFO	sendAsync bfbd7c41-07fe-43dc-8a5e-8344ef143d12
+1483530987592	Marionette	INFO	sendAsync bfbd7c41-07fe-43dc-8a5e-8344ef143d12
+1483530987601	Marionette	INFO	sendAsync bfbd7c41-07fe-43dc-8a5e-8344ef143d12
+1483531087501	geckodriver	INFO	Listening on 127.0.0.1:60936
+1483531088105	mozprofile::profile	INFO	Using profile path C:\Users\Cute\AppData\Local\Temp\rust_mozprofile.ArVMJqYhh1ix
+1483531088110	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1483531088188	geckodriver::marionette	INFO	Connecting to Marionette on localhost:60940
+1483531089229	Marionette	INFO	Listening on port 60940
+1483531090590	Marionette	INFO	startBrowser 14d4ea29-0106-43ac-aa48-4dec9bcf1196
+1483531090604	Marionette	INFO	sendAsync 14d4ea29-0106-43ac-aa48-4dec9bcf1196
+1483531090934	Marionette	INFO	sendAsync 14d4ea29-0106-43ac-aa48-4dec9bcf1196
+1483531091272	Marionette	INFO	sendAsync 14d4ea29-0106-43ac-aa48-4dec9bcf1196
+1483531092256	Marionette	INFO	sendAsync 14d4ea29-0106-43ac-aa48-4dec9bcf1196
+1483531092271	Marionette	INFO	sendAsync 14d4ea29-0106-43ac-aa48-4dec9bcf1196
+1483531094311	Marionette	INFO	sendAsync 14d4ea29-0106-43ac-aa48-4dec9bcf1196
+1483531094322	Marionette	INFO	sendAsync 14d4ea29-0106-43ac-aa48-4dec9bcf1196
+1483531094392	Marionette	INFO	sendAsync 14d4ea29-0106-43ac-aa48-4dec9bcf1196
+1483531094400	Marionette	INFO	sendAsync 14d4ea29-0106-43ac-aa48-4dec9bcf1196
+1483531094455	Marionette	INFO	sendAsync 14d4ea29-0106-43ac-aa48-4dec9bcf1196
+1483531094467	Marionette	INFO	sendAsync 14d4ea29-0106-43ac-aa48-4dec9bcf1196
+1483531096502	Marionette	INFO	sendAsync 14d4ea29-0106-43ac-aa48-4dec9bcf1196
+1483531096516	Marionette	INFO	sendAsync 14d4ea29-0106-43ac-aa48-4dec9bcf1196
+1483531096525	Marionette	INFO	sendAsync 14d4ea29-0106-43ac-aa48-4dec9bcf1196
+1483531096538	Marionette	INFO	sendAsync 14d4ea29-0106-43ac-aa48-4dec9bcf1196
+1483531096545	Marionette	INFO	sendAsync 14d4ea29-0106-43ac-aa48-4dec9bcf1196
+1483531096557	Marionette	INFO	sendAsync 14d4ea29-0106-43ac-aa48-4dec9bcf1196
+1483531096567	Marionette	INFO	sendAsync 14d4ea29-0106-43ac-aa48-4dec9bcf1196
+1483531098599	Marionette	INFO	sendAsync 14d4ea29-0106-43ac-aa48-4dec9bcf1196
+1483531098611	Marionette	INFO	sendAsync 14d4ea29-0106-43ac-aa48-4dec9bcf1196
+1483531098680	Marionette	INFO	sendAsync 14d4ea29-0106-43ac-aa48-4dec9bcf1196
+1483531098691	Marionette	INFO	sendAsync 14d4ea29-0106-43ac-aa48-4dec9bcf1196
+1483531098765	Marionette	INFO	sendAsync 14d4ea29-0106-43ac-aa48-4dec9bcf1196
+1483531098776	Marionette	INFO	sendAsync 14d4ea29-0106-43ac-aa48-4dec9bcf1196
+1483531100812	Marionette	INFO	sendAsync 14d4ea29-0106-43ac-aa48-4dec9bcf1196
+1483531100820	Marionette	INFO	sendAsync 14d4ea29-0106-43ac-aa48-4dec9bcf1196
+1483531100829	Marionette	INFO	sendAsync 14d4ea29-0106-43ac-aa48-4dec9bcf1196
+1483531100839	Marionette	INFO	sendAsync 14d4ea29-0106-43ac-aa48-4dec9bcf1196
+1483531100847	Marionette	INFO	sendAsync 14d4ea29-0106-43ac-aa48-4dec9bcf1196
+1483531100859	Marionette	INFO	sendAsync 14d4ea29-0106-43ac-aa48-4dec9bcf1196
+1483531100867	Marionette	INFO	sendAsync 14d4ea29-0106-43ac-aa48-4dec9bcf1196
+1483531102895	Marionette	INFO	sendAsync 14d4ea29-0106-43ac-aa48-4dec9bcf1196
+1483531102904	Marionette	INFO	sendAsync 14d4ea29-0106-43ac-aa48-4dec9bcf1196
+1483531102972	Marionette	INFO	sendAsync 14d4ea29-0106-43ac-aa48-4dec9bcf1196
+1483531102984	Marionette	INFO	sendAsync 14d4ea29-0106-43ac-aa48-4dec9bcf1196
+1483531103045	Marionette	INFO	sendAsync 14d4ea29-0106-43ac-aa48-4dec9bcf1196
+1483531103056	Marionette	INFO	sendAsync 14d4ea29-0106-43ac-aa48-4dec9bcf1196
+1483531105088	Marionette	INFO	sendAsync 14d4ea29-0106-43ac-aa48-4dec9bcf1196
+1483531105096	Marionette	INFO	sendAsync 14d4ea29-0106-43ac-aa48-4dec9bcf1196
+1483531105105	Marionette	INFO	sendAsync 14d4ea29-0106-43ac-aa48-4dec9bcf1196
+1483531105114	Marionette	INFO	sendAsync 14d4ea29-0106-43ac-aa48-4dec9bcf1196
+1483531105122	Marionette	INFO	sendAsync 14d4ea29-0106-43ac-aa48-4dec9bcf1196
+1483531105133	Marionette	INFO	sendAsync 14d4ea29-0106-43ac-aa48-4dec9bcf1196
+1483531105141	Marionette	INFO	sendAsync 14d4ea29-0106-43ac-aa48-4dec9bcf1196
+1483531107165	Marionette	INFO	sendAsync 14d4ea29-0106-43ac-aa48-4dec9bcf1196
+1483531107175	Marionette	INFO	sendAsync 14d4ea29-0106-43ac-aa48-4dec9bcf1196
+1483531107223	Marionette	INFO	sendAsync 14d4ea29-0106-43ac-aa48-4dec9bcf1196
+1483531107231	Marionette	INFO	sendAsync 14d4ea29-0106-43ac-aa48-4dec9bcf1196
+1483531107291	Marionette	INFO	sendAsync 14d4ea29-0106-43ac-aa48-4dec9bcf1196
+1483531107302	Marionette	INFO	sendAsync 14d4ea29-0106-43ac-aa48-4dec9bcf1196
+1483531109335	Marionette	INFO	sendAsync 14d4ea29-0106-43ac-aa48-4dec9bcf1196
+1483531109342	Marionette	INFO	sendAsync 14d4ea29-0106-43ac-aa48-4dec9bcf1196
+1483531109364	Marionette	INFO	sendAsync 14d4ea29-0106-43ac-aa48-4dec9bcf1196
+1483531109377	Marionette	INFO	sendAsync 14d4ea29-0106-43ac-aa48-4dec9bcf1196
+1483531109384	Marionette	INFO	sendAsync 14d4ea29-0106-43ac-aa48-4dec9bcf1196
+[Child 15756] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-beta-w64-0000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2046
+1483531144388	geckodriver	INFO	Listening on 127.0.0.1:61074
+1483531144892	mozprofile::profile	INFO	Using profile path C:\Users\Cute\AppData\Local\Temp\rust_mozprofile.jHS4NOtpmXQG
+1483531144896	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1483531144976	geckodriver::marionette	INFO	Connecting to Marionette on localhost:61078
+1483531146076	Marionette	INFO	Listening on port 61078
+1483531147414	Marionette	INFO	startBrowser e92dfad2-82b6-42f3-9637-0304d0d4cfce
+1483531147433	Marionette	INFO	sendAsync e92dfad2-82b6-42f3-9637-0304d0d4cfce
+1483531147778	Marionette	INFO	sendAsync e92dfad2-82b6-42f3-9637-0304d0d4cfce
+1483531149010	Marionette	INFO	sendAsync e92dfad2-82b6-42f3-9637-0304d0d4cfce
+1483531149020	Marionette	INFO	sendAsync e92dfad2-82b6-42f3-9637-0304d0d4cfce
+1483531151086	Marionette	INFO	sendAsync e92dfad2-82b6-42f3-9637-0304d0d4cfce
+1483531151098	Marionette	INFO	sendAsync e92dfad2-82b6-42f3-9637-0304d0d4cfce
+1483531151182	Marionette	INFO	sendAsync e92dfad2-82b6-42f3-9637-0304d0d4cfce
+1483531151189	Marionette	INFO	sendAsync e92dfad2-82b6-42f3-9637-0304d0d4cfce
+1483531151269	Marionette	INFO	sendAsync e92dfad2-82b6-42f3-9637-0304d0d4cfce
+1483531151277	Marionette	INFO	sendAsync e92dfad2-82b6-42f3-9637-0304d0d4cfce
+1483531153317	Marionette	INFO	sendAsync e92dfad2-82b6-42f3-9637-0304d0d4cfce
+1483531153331	Marionette	INFO	sendAsync e92dfad2-82b6-42f3-9637-0304d0d4cfce
+1483531153341	Marionette	INFO	sendAsync e92dfad2-82b6-42f3-9637-0304d0d4cfce
+1483531153352	Marionette	INFO	sendAsync e92dfad2-82b6-42f3-9637-0304d0d4cfce
+1483531153360	Marionette	INFO	sendAsync e92dfad2-82b6-42f3-9637-0304d0d4cfce
+1483531153369	Marionette	INFO	sendAsync e92dfad2-82b6-42f3-9637-0304d0d4cfce
+1483531153376	Marionette	INFO	sendAsync e92dfad2-82b6-42f3-9637-0304d0d4cfce
+1483531155408	Marionette	INFO	sendAsync e92dfad2-82b6-42f3-9637-0304d0d4cfce
+1483531155416	Marionette	INFO	sendAsync e92dfad2-82b6-42f3-9637-0304d0d4cfce
+1483531155478	Marionette	INFO	sendAsync e92dfad2-82b6-42f3-9637-0304d0d4cfce
+1483531155490	Marionette	INFO	sendAsync e92dfad2-82b6-42f3-9637-0304d0d4cfce
+1483531155578	Marionette	INFO	sendAsync e92dfad2-82b6-42f3-9637-0304d0d4cfce
+1483531155590	Marionette	INFO	sendAsync e92dfad2-82b6-42f3-9637-0304d0d4cfce
+1483531157626	Marionette	INFO	sendAsync e92dfad2-82b6-42f3-9637-0304d0d4cfce
+1483531157635	Marionette	INFO	sendAsync e92dfad2-82b6-42f3-9637-0304d0d4cfce
+1483531157644	Marionette	INFO	sendAsync e92dfad2-82b6-42f3-9637-0304d0d4cfce
+1483531157654	Marionette	INFO	sendAsync e92dfad2-82b6-42f3-9637-0304d0d4cfce
+1483531157662	Marionette	INFO	sendAsync e92dfad2-82b6-42f3-9637-0304d0d4cfce
+1483531157675	Marionette	INFO	sendAsync e92dfad2-82b6-42f3-9637-0304d0d4cfce
+1483531157682	Marionette	INFO	sendAsync e92dfad2-82b6-42f3-9637-0304d0d4cfce
+1483531159726	Marionette	INFO	sendAsync e92dfad2-82b6-42f3-9637-0304d0d4cfce
+1483531159734	Marionette	INFO	sendAsync e92dfad2-82b6-42f3-9637-0304d0d4cfce
+1483531159804	Marionette	INFO	sendAsync e92dfad2-82b6-42f3-9637-0304d0d4cfce
+1483531159817	Marionette	INFO	sendAsync e92dfad2-82b6-42f3-9637-0304d0d4cfce
+1483531159895	Marionette	INFO	sendAsync e92dfad2-82b6-42f3-9637-0304d0d4cfce
+1483531159909	Marionette	INFO	sendAsync e92dfad2-82b6-42f3-9637-0304d0d4cfce
+1483531161950	Marionette	INFO	sendAsync e92dfad2-82b6-42f3-9637-0304d0d4cfce
+1483531161957	Marionette	INFO	sendAsync e92dfad2-82b6-42f3-9637-0304d0d4cfce
+1483531161964	Marionette	INFO	sendAsync e92dfad2-82b6-42f3-9637-0304d0d4cfce
+1483531161972	Marionette	INFO	sendAsync e92dfad2-82b6-42f3-9637-0304d0d4cfce
+1483531161981	Marionette	INFO	sendAsync e92dfad2-82b6-42f3-9637-0304d0d4cfce
+1483531161989	Marionette	INFO	sendAsync e92dfad2-82b6-42f3-9637-0304d0d4cfce
+1483531161995	Marionette	INFO	sendAsync e92dfad2-82b6-42f3-9637-0304d0d4cfce
+1483531164028	Marionette	INFO	sendAsync e92dfad2-82b6-42f3-9637-0304d0d4cfce
+1483531164034	Marionette	INFO	sendAsync e92dfad2-82b6-42f3-9637-0304d0d4cfce
+1483531164089	Marionette	INFO	sendAsync e92dfad2-82b6-42f3-9637-0304d0d4cfce
+1483531164095	Marionette	INFO	sendAsync e92dfad2-82b6-42f3-9637-0304d0d4cfce
+1483531164185	Marionette	INFO	sendAsync e92dfad2-82b6-42f3-9637-0304d0d4cfce
+1483531164193	Marionette	INFO	sendAsync e92dfad2-82b6-42f3-9637-0304d0d4cfce
+1483531166234	Marionette	INFO	sendAsync e92dfad2-82b6-42f3-9637-0304d0d4cfce
+1483531166244	Marionette	INFO	sendAsync e92dfad2-82b6-42f3-9637-0304d0d4cfce
+1483531166251	Marionette	INFO	sendAsync e92dfad2-82b6-42f3-9637-0304d0d4cfce
+1483531166259	Marionette	INFO	sendAsync e92dfad2-82b6-42f3-9637-0304d0d4cfce
+1483531166266	Marionette	INFO	sendAsync e92dfad2-82b6-42f3-9637-0304d0d4cfce
+1483531322265	geckodriver	INFO	Listening on 127.0.0.1:61195
+1483531322777	mozprofile::profile	INFO	Using profile path C:\Users\Cute\AppData\Local\Temp\rust_mozprofile.CwLjDGN4WWyN
+1483531322780	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1483531322856	geckodriver::marionette	INFO	Connecting to Marionette on localhost:61199
+1483531324943	Marionette	INFO	Listening on port 61199
+1483531326271	Marionette	INFO	startBrowser 395cf856-3804-4a23-a010-28c1b99f51b9
+1483531326284	Marionette	INFO	sendAsync 395cf856-3804-4a23-a010-28c1b99f51b9
+1483531326674	Marionette	INFO	sendAsync 395cf856-3804-4a23-a010-28c1b99f51b9
+1483531326876	Marionette	INFO	sendAsync 395cf856-3804-4a23-a010-28c1b99f51b9
+1483531327791	Marionette	INFO	sendAsync 395cf856-3804-4a23-a010-28c1b99f51b9
+1483531327805	Marionette	INFO	sendAsync 395cf856-3804-4a23-a010-28c1b99f51b9
+1483531327817	Marionette	INFO	sendAsync 395cf856-3804-4a23-a010-28c1b99f51b9
+1483531327832	Marionette	INFO	sendAsync 395cf856-3804-4a23-a010-28c1b99f51b9
+1483531327844	Marionette	INFO	sendAsync 395cf856-3804-4a23-a010-28c1b99f51b9
+1483531327851	Marionette	INFO	sendAsync 395cf856-3804-4a23-a010-28c1b99f51b9
+1483531327889	Marionette	INFO	sendAsync 395cf856-3804-4a23-a010-28c1b99f51b9
+1483531331914	Marionette	INFO	sendAsync 395cf856-3804-4a23-a010-28c1b99f51b9
+1483531331925	Marionette	INFO	sendAsync 395cf856-3804-4a23-a010-28c1b99f51b9
+1483531331932	Marionette	INFO	sendAsync 395cf856-3804-4a23-a010-28c1b99f51b9
+1483531331942	Marionette	INFO	sendAsync 395cf856-3804-4a23-a010-28c1b99f51b9
+1483531331949	Marionette	INFO	sendAsync 395cf856-3804-4a23-a010-28c1b99f51b9
+1483531331959	Marionette	INFO	sendAsync 395cf856-3804-4a23-a010-28c1b99f51b9
+1483531331966	Marionette	INFO	sendAsync 395cf856-3804-4a23-a010-28c1b99f51b9
+1483531331977	Marionette	INFO	sendAsync 395cf856-3804-4a23-a010-28c1b99f51b9
+1483531331985	Marionette	INFO	sendAsync 395cf856-3804-4a23-a010-28c1b99f51b9
+1483531331994	Marionette	INFO	sendAsync 395cf856-3804-4a23-a010-28c1b99f51b9
+1483531332000	Marionette	INFO	sendAsync 395cf856-3804-4a23-a010-28c1b99f51b9
+1483531332011	Marionette	INFO	sendAsync 395cf856-3804-4a23-a010-28c1b99f51b9
+1483531332019	Marionette	INFO	sendAsync 395cf856-3804-4a23-a010-28c1b99f51b9
+1483531332029	Marionette	INFO	sendAsync 395cf856-3804-4a23-a010-28c1b99f51b9
+1483531332036	Marionette	INFO	sendAsync 395cf856-3804-4a23-a010-28c1b99f51b9
+1483531332045	Marionette	INFO	sendAsync 395cf856-3804-4a23-a010-28c1b99f51b9
+1483531332054	Marionette	INFO	sendAsync 395cf856-3804-4a23-a010-28c1b99f51b9
+1483531332063	Marionette	INFO	sendAsync 395cf856-3804-4a23-a010-28c1b99f51b9
+1483531332070	Marionette	INFO	sendAsync 395cf856-3804-4a23-a010-28c1b99f51b9
+1483531332080	Marionette	INFO	sendAsync 395cf856-3804-4a23-a010-28c1b99f51b9
+1483531332086	Marionette	INFO	sendAsync 395cf856-3804-4a23-a010-28c1b99f51b9
+1483531332096	Marionette	INFO	sendAsync 395cf856-3804-4a23-a010-28c1b99f51b9
+1483531332103	Marionette	INFO	sendAsync 395cf856-3804-4a23-a010-28c1b99f51b9
+1483531332112	Marionette	INFO	sendAsync 395cf856-3804-4a23-a010-28c1b99f51b9
+1483531332120	Marionette	INFO	sendAsync 395cf856-3804-4a23-a010-28c1b99f51b9
+1483531332129	Marionette	INFO	sendAsync 395cf856-3804-4a23-a010-28c1b99f51b9
+1483531332136	Marionette	INFO	sendAsync 395cf856-3804-4a23-a010-28c1b99f51b9
+1483531332148	Marionette	INFO	sendAsync 395cf856-3804-4a23-a010-28c1b99f51b9
+1483531332156	Marionette	INFO	sendAsync 395cf856-3804-4a23-a010-28c1b99f51b9
+1483531332166	Marionette	INFO	sendAsync 395cf856-3804-4a23-a010-28c1b99f51b9
+1483531332172	Marionette	INFO	sendAsync 395cf856-3804-4a23-a010-28c1b99f51b9
+1483531332182	Marionette	INFO	sendAsync 395cf856-3804-4a23-a010-28c1b99f51b9
+1483531332188	Marionette	INFO	sendAsync 395cf856-3804-4a23-a010-28c1b99f51b9
+1483531332198	Marionette	INFO	sendAsync 395cf856-3804-4a23-a010-28c1b99f51b9
+1483531332204	Marionette	INFO	sendAsync 395cf856-3804-4a23-a010-28c1b99f51b9
+1483531332213	Marionette	INFO	sendAsync 395cf856-3804-4a23-a010-28c1b99f51b9
+1483531332219	Marionette	INFO	sendAsync 395cf856-3804-4a23-a010-28c1b99f51b9
+1483531332229	Marionette	INFO	sendAsync 395cf856-3804-4a23-a010-28c1b99f51b9
+1483531332235	Marionette	INFO	sendAsync 395cf856-3804-4a23-a010-28c1b99f51b9
+1483531332245	Marionette	INFO	sendAsync 395cf856-3804-4a23-a010-28c1b99f51b9
+1483531332252	Marionette	INFO	sendAsync 395cf856-3804-4a23-a010-28c1b99f51b9
+1483531332263	Marionette	INFO	sendAsync 395cf856-3804-4a23-a010-28c1b99f51b9
+1483531332272	Marionette	INFO	sendAsync 395cf856-3804-4a23-a010-28c1b99f51b9
+1483531332281	Marionette	INFO	sendAsync 395cf856-3804-4a23-a010-28c1b99f51b9
+1483531332287	Marionette	INFO	sendAsync 395cf856-3804-4a23-a010-28c1b99f51b9
+1483531332296	Marionette	INFO	sendAsync 395cf856-3804-4a23-a010-28c1b99f51b9
+1483531332303	Marionette	INFO	sendAsync 395cf856-3804-4a23-a010-28c1b99f51b9
+1483531332312	Marionette	INFO	sendAsync 395cf856-3804-4a23-a010-28c1b99f51b9
+1483531332322	Marionette	INFO	sendAsync 395cf856-3804-4a23-a010-28c1b99f51b9
+1483531332331	Marionette	INFO	sendAsync 395cf856-3804-4a23-a010-28c1b99f51b9
+1483531332338	Marionette	INFO	sendAsync 395cf856-3804-4a23-a010-28c1b99f51b9
+1483531332347	Marionette	INFO	sendAsync 395cf856-3804-4a23-a010-28c1b99f51b9
+1483531332355	Marionette	INFO	sendAsync 395cf856-3804-4a23-a010-28c1b99f51b9
+1483531332365	Marionette	INFO	sendAsync 395cf856-3804-4a23-a010-28c1b99f51b9
+1483531332372	Marionette	INFO	sendAsync 395cf856-3804-4a23-a010-28c1b99f51b9
+1483531332381	Marionette	INFO	sendAsync 395cf856-3804-4a23-a010-28c1b99f51b9
+1483531332388	Marionette	INFO	sendAsync 395cf856-3804-4a23-a010-28c1b99f51b9
+1483531332396	Marionette	INFO	sendAsync 395cf856-3804-4a23-a010-28c1b99f51b9
+1483531332402	Marionette	INFO	sendAsync 395cf856-3804-4a23-a010-28c1b99f51b9
+1483531332411	Marionette	INFO	sendAsync 395cf856-3804-4a23-a010-28c1b99f51b9
+1483531332418	Marionette	INFO	sendAsync 395cf856-3804-4a23-a010-28c1b99f51b9
+1483531332427	Marionette	INFO	sendAsync 395cf856-3804-4a23-a010-28c1b99f51b9
+1483531332436	Marionette	INFO	sendAsync 395cf856-3804-4a23-a010-28c1b99f51b9
+1483531332448	Marionette	INFO	sendAsync 395cf856-3804-4a23-a010-28c1b99f51b9
+1483531332455	Marionette	INFO	sendAsync 395cf856-3804-4a23-a010-28c1b99f51b9
+1483531332467	Marionette	INFO	sendAsync 395cf856-3804-4a23-a010-28c1b99f51b9
+1483531332477	Marionette	INFO	sendAsync 395cf856-3804-4a23-a010-28c1b99f51b9
+1483531332485	Marionette	INFO	sendAsync 395cf856-3804-4a23-a010-28c1b99f51b9
+1483531332491	Marionette	INFO	sendAsync 395cf856-3804-4a23-a010-28c1b99f51b9
+1483531332501	Marionette	INFO	sendAsync 395cf856-3804-4a23-a010-28c1b99f51b9
+1483531332509	Marionette	INFO	sendAsync 395cf856-3804-4a23-a010-28c1b99f51b9
+1483531332518	Marionette	INFO	sendAsync 395cf856-3804-4a23-a010-28c1b99f51b9
+1483531332525	Marionette	INFO	sendAsync 395cf856-3804-4a23-a010-28c1b99f51b9
+1483531332534	Marionette	INFO	sendAsync 395cf856-3804-4a23-a010-28c1b99f51b9
+1483531332541	Marionette	INFO	sendAsync 395cf856-3804-4a23-a010-28c1b99f51b9
+1483531332549	Marionette	INFO	sendAsync 395cf856-3804-4a23-a010-28c1b99f51b9
+1483531332556	Marionette	INFO	sendAsync 395cf856-3804-4a23-a010-28c1b99f51b9
+1483531332564	Marionette	INFO	sendAsync 395cf856-3804-4a23-a010-28c1b99f51b9
+1483531332571	Marionette	INFO	sendAsync 395cf856-3804-4a23-a010-28c1b99f51b9
+1483531332581	Marionette	INFO	sendAsync 395cf856-3804-4a23-a010-28c1b99f51b9
+1483531332587	Marionette	INFO	sendAsync 395cf856-3804-4a23-a010-28c1b99f51b9
+1483531332596	Marionette	INFO	sendAsync 395cf856-3804-4a23-a010-28c1b99f51b9
+1483531332602	Marionette	INFO	sendAsync 395cf856-3804-4a23-a010-28c1b99f51b9
+1483531332610	Marionette	INFO	sendAsync 395cf856-3804-4a23-a010-28c1b99f51b9
+1483531332617	Marionette	INFO	sendAsync 395cf856-3804-4a23-a010-28c1b99f51b9
+1483531332641	Marionette	INFO	sendAsync 395cf856-3804-4a23-a010-28c1b99f51b9
+1483531332652	Marionette	INFO	sendAsync 395cf856-3804-4a23-a010-28c1b99f51b9
+1483531332661	Marionette	INFO	sendAsync 395cf856-3804-4a23-a010-28c1b99f51b9
+1483531332668	Marionette	INFO	sendAsync 395cf856-3804-4a23-a010-28c1b99f51b9
+1483531332677	Marionette	INFO	sendAsync 395cf856-3804-4a23-a010-28c1b99f51b9
+1483531332684	Marionette	INFO	sendAsync 395cf856-3804-4a23-a010-28c1b99f51b9
+1483531332694	Marionette	INFO	sendAsync 395cf856-3804-4a23-a010-28c1b99f51b9
+1483531332701	Marionette	INFO	sendAsync 395cf856-3804-4a23-a010-28c1b99f51b9
+1483531332710	Marionette	INFO	sendAsync 395cf856-3804-4a23-a010-28c1b99f51b9
+1483531332716	Marionette	INFO	sendAsync 395cf856-3804-4a23-a010-28c1b99f51b9
+1483531332725	Marionette	INFO	sendAsync 395cf856-3804-4a23-a010-28c1b99f51b9
+1483531332732	Marionette	INFO	sendAsync 395cf856-3804-4a23-a010-28c1b99f51b9
+1483531332742	Marionette	INFO	sendAsync 395cf856-3804-4a23-a010-28c1b99f51b9
+1483531332748	Marionette	INFO	sendAsync 395cf856-3804-4a23-a010-28c1b99f51b9
+1483531332759	Marionette	INFO	sendAsync 395cf856-3804-4a23-a010-28c1b99f51b9
+1483531332767	Marionette	INFO	sendAsync 395cf856-3804-4a23-a010-28c1b99f51b9
+1483531332777	Marionette	INFO	sendAsync 395cf856-3804-4a23-a010-28c1b99f51b9
+1483531332783	Marionette	INFO	sendAsync 395cf856-3804-4a23-a010-28c1b99f51b9
+1483531332792	Marionette	INFO	sendAsync 395cf856-3804-4a23-a010-28c1b99f51b9
+1483531332798	Marionette	INFO	sendAsync 395cf856-3804-4a23-a010-28c1b99f51b9
+1483531332810	Marionette	INFO	sendAsync 395cf856-3804-4a23-a010-28c1b99f51b9
+1483531332817	Marionette	INFO	sendAsync 395cf856-3804-4a23-a010-28c1b99f51b9
+1483531332825	Marionette	INFO	sendAsync 395cf856-3804-4a23-a010-28c1b99f51b9
+1483531332833	Marionette	INFO	sendAsync 395cf856-3804-4a23-a010-28c1b99f51b9
+1483531332840	Marionette	INFO	sendAsync 395cf856-3804-4a23-a010-28c1b99f51b9
+1483531332848	Marionette	INFO	sendAsync 395cf856-3804-4a23-a010-28c1b99f51b9
+1483531332856	Marionette	INFO	sendAsync 395cf856-3804-4a23-a010-28c1b99f51b9
+1483531332863	Marionette	INFO	sendAsync 395cf856-3804-4a23-a010-28c1b99f51b9
+1483531332872	Marionette	INFO	sendAsync 395cf856-3804-4a23-a010-28c1b99f51b9
+1483531332880	Marionette	INFO	sendAsync 395cf856-3804-4a23-a010-28c1b99f51b9
+1483531332887	Marionette	INFO	sendAsync 395cf856-3804-4a23-a010-28c1b99f51b9
+1483531332895	Marionette	INFO	sendAsync 395cf856-3804-4a23-a010-28c1b99f51b9
+1483531332904	Marionette	INFO	sendAsync 395cf856-3804-4a23-a010-28c1b99f51b9
+1483531332911	Marionette	INFO	sendAsync 395cf856-3804-4a23-a010-28c1b99f51b9
+1483531332920	Marionette	INFO	sendAsync 395cf856-3804-4a23-a010-28c1b99f51b9
+1483531332928	Marionette	INFO	sendAsync 395cf856-3804-4a23-a010-28c1b99f51b9
+1483531332936	Marionette	INFO	sendAsync 395cf856-3804-4a23-a010-28c1b99f51b9
+1483531332943	Marionette	INFO	sendAsync 395cf856-3804-4a23-a010-28c1b99f51b9
+1483531332951	Marionette	INFO	sendAsync 395cf856-3804-4a23-a010-28c1b99f51b9
+1483531332960	Marionette	INFO	sendAsync 395cf856-3804-4a23-a010-28c1b99f51b9
+1483531332970	Marionette	INFO	sendAsync 395cf856-3804-4a23-a010-28c1b99f51b9
+1483531332980	Marionette	INFO	sendAsync 395cf856-3804-4a23-a010-28c1b99f51b9
+1483531332989	Marionette	INFO	sendAsync 395cf856-3804-4a23-a010-28c1b99f51b9
+1483531332996	Marionette	INFO	sendAsync 395cf856-3804-4a23-a010-28c1b99f51b9
+[Child 14484] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-beta-w64-0000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2046
+1483531419585	geckodriver	INFO	Listening on 127.0.0.1:61405
+1483531420091	mozprofile::profile	INFO	Using profile path C:\Users\Cute\AppData\Local\Temp\rust_mozprofile.cMnW4hA0vSTb
+1483531420094	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1483531420169	geckodriver::marionette	INFO	Connecting to Marionette on localhost:61409
+1483531421231	Marionette	INFO	Listening on port 61409
+1483531422486	Marionette	INFO	startBrowser 9328566c-9045-42de-9ff2-66562bb59fb2
+1483531422498	Marionette	INFO	sendAsync 9328566c-9045-42de-9ff2-66562bb59fb2
+1483531422821	Marionette	INFO	sendAsync 9328566c-9045-42de-9ff2-66562bb59fb2
+1483531424203	Marionette	INFO	sendAsync 9328566c-9045-42de-9ff2-66562bb59fb2
+1483531424215	Marionette	INFO	sendAsync 9328566c-9045-42de-9ff2-66562bb59fb2
+1483531424224	Marionette	INFO	sendAsync 9328566c-9045-42de-9ff2-66562bb59fb2
+1483531424238	Marionette	INFO	sendAsync 9328566c-9045-42de-9ff2-66562bb59fb2
+1483531424248	Marionette	INFO	sendAsync 9328566c-9045-42de-9ff2-66562bb59fb2
+1483531424256	Marionette	INFO	sendAsync 9328566c-9045-42de-9ff2-66562bb59fb2
+1483531424296	Marionette	INFO	sendAsync 9328566c-9045-42de-9ff2-66562bb59fb2
+1483531428351	Marionette	INFO	sendAsync 9328566c-9045-42de-9ff2-66562bb59fb2
+1483531428362	Marionette	INFO	sendAsync 9328566c-9045-42de-9ff2-66562bb59fb2
+1483531428371	Marionette	INFO	sendAsync 9328566c-9045-42de-9ff2-66562bb59fb2
+1483531428383	Marionette	INFO	sendAsync 9328566c-9045-42de-9ff2-66562bb59fb2
+1483531428390	Marionette	INFO	sendAsync 9328566c-9045-42de-9ff2-66562bb59fb2
+1483531428401	Marionette	INFO	sendAsync 9328566c-9045-42de-9ff2-66562bb59fb2
+1483531428408	Marionette	INFO	sendAsync 9328566c-9045-42de-9ff2-66562bb59fb2
+1483531428418	Marionette	INFO	sendAsync 9328566c-9045-42de-9ff2-66562bb59fb2
+1483531428427	Marionette	INFO	sendAsync 9328566c-9045-42de-9ff2-66562bb59fb2
+1483531428435	Marionette	INFO	sendAsync 9328566c-9045-42de-9ff2-66562bb59fb2
+1483531428448	Marionette	INFO	sendAsync 9328566c-9045-42de-9ff2-66562bb59fb2
+1483531428456	Marionette	INFO	sendAsync 9328566c-9045-42de-9ff2-66562bb59fb2
+1483531428465	Marionette	INFO	sendAsync 9328566c-9045-42de-9ff2-66562bb59fb2
+1483531428476	Marionette	INFO	sendAsync 9328566c-9045-42de-9ff2-66562bb59fb2
+1483531428483	Marionette	INFO	sendAsync 9328566c-9045-42de-9ff2-66562bb59fb2
+1483536531743	geckodriver	INFO	Listening on 127.0.0.1:64843
+1483536532255	mozprofile::profile	INFO	Using profile path C:\Users\Cute\AppData\Local\Temp\rust_mozprofile.E3SWcIqRgFmo
+1483536532259	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1483536532375	geckodriver::marionette	INFO	Connecting to Marionette on localhost:64851
+1483536533440	Marionette	INFO	Listening on port 64851
+1483536535037	Marionette	INFO	startBrowser cc5f6519-7542-40bb-9b50-422d65cf5ba8
+1483536535057	Marionette	INFO	sendAsync cc5f6519-7542-40bb-9b50-422d65cf5ba8
+1483536535647	Marionette	INFO	sendAsync cc5f6519-7542-40bb-9b50-422d65cf5ba8
+1483536536199	Marionette	INFO	sendAsync cc5f6519-7542-40bb-9b50-422d65cf5ba8
+1483536536936	Marionette	INFO	sendAsync cc5f6519-7542-40bb-9b50-422d65cf5ba8
+1483536536950	Marionette	INFO	sendAsync cc5f6519-7542-40bb-9b50-422d65cf5ba8
+[Child 18324] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-beta-w64-0000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2046
+1483537092034	geckodriver	INFO	Listening on 127.0.0.1:64989
+1483537092549	mozprofile::profile	INFO	Using profile path C:\Users\Cute\AppData\Local\Temp\rust_mozprofile.76VevACh6yxX
+1483537092553	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1483537092626	geckodriver::marionette	INFO	Connecting to Marionette on localhost:64993
+1483537093751	Marionette	INFO	Listening on port 64993
+1483537095207	Marionette	INFO	startBrowser 08bf5f73-2122-4f2e-8d66-614c6886a361
+1483537095227	Marionette	INFO	sendAsync 08bf5f73-2122-4f2e-8d66-614c6886a361
+1483537095580	Marionette	INFO	sendAsync 08bf5f73-2122-4f2e-8d66-614c6886a361
+1483537095799	Marionette	INFO	sendAsync 08bf5f73-2122-4f2e-8d66-614c6886a361
+[Child 20060] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-beta-w64-0000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2046
+1483537161203	geckodriver	INFO	Listening on 127.0.0.1:65036
+1483537161719	mozprofile::profile	INFO	Using profile path C:\Users\Cute\AppData\Local\Temp\rust_mozprofile.XT6fdUWtiX98
+1483537161723	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1483537161823	geckodriver::marionette	INFO	Connecting to Marionette on localhost:65040
+1483537162812	Marionette	INFO	Listening on port 65040
+1483537164105	Marionette	INFO	startBrowser 43a5305b-47b0-4fb9-8be1-669eca044790
+1483537164121	Marionette	INFO	sendAsync 43a5305b-47b0-4fb9-8be1-669eca044790
+1483537164466	Marionette	INFO	sendAsync 43a5305b-47b0-4fb9-8be1-669eca044790
+1483537165648	Marionette	INFO	sendAsync 43a5305b-47b0-4fb9-8be1-669eca044790
+1483537165660	Marionette	INFO	sendAsync 43a5305b-47b0-4fb9-8be1-669eca044790
+1483537165669	Marionette	INFO	sendAsync 43a5305b-47b0-4fb9-8be1-669eca044790
+1483537165685	Marionette	INFO	sendAsync 43a5305b-47b0-4fb9-8be1-669eca044790
+1483537165694	Marionette	INFO	sendAsync 43a5305b-47b0-4fb9-8be1-669eca044790
+1483537165708	Marionette	INFO	sendAsync 43a5305b-47b0-4fb9-8be1-669eca044790
+1483590152604	geckodriver	INFO	Listening on 127.0.0.1:56935
+1483590153113	mozprofile::profile	INFO	Using profile path C:\Users\Cute\AppData\Local\Temp\rust_mozprofile.vE9VIyeROeBB
+1483590153116	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1483590153347	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56940
+1483590155374	Marionette	INFO	Listening on port 56940
+1483590156826	Marionette	INFO	startBrowser 6ecaea14-46fe-4b36-b930-d105ebbf53a5
+1483590156837	Marionette	INFO	sendAsync 6ecaea14-46fe-4b36-b930-d105ebbf53a5
+1483590157263	Marionette	INFO	sendAsync 6ecaea14-46fe-4b36-b930-d105ebbf53a5
+1483590158444	Marionette	INFO	sendAsync 6ecaea14-46fe-4b36-b930-d105ebbf53a5
+1483590158455	Marionette	INFO	sendAsync 6ecaea14-46fe-4b36-b930-d105ebbf53a5
+1483590158466	Marionette	INFO	sendAsync 6ecaea14-46fe-4b36-b930-d105ebbf53a5
+1483590158481	Marionette	INFO	sendAsync 6ecaea14-46fe-4b36-b930-d105ebbf53a5
+1483590158492	Marionette	INFO	sendAsync 6ecaea14-46fe-4b36-b930-d105ebbf53a5
+1483590158502	Marionette	INFO	sendAsync 6ecaea14-46fe-4b36-b930-d105ebbf53a5
+1483590160551	Marionette	INFO	sendAsync 6ecaea14-46fe-4b36-b930-d105ebbf53a5
+1483590236224	geckodriver	INFO	Listening on 127.0.0.1:57024
+1483590236748	mozprofile::profile	INFO	Using profile path C:\Users\Cute\AppData\Local\Temp\rust_mozprofile.egli0hh3Kwpp
+1483590236753	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1483590236826	geckodriver::marionette	INFO	Connecting to Marionette on localhost:57028
+1483590238479	Marionette	INFO	Listening on port 57028
+1483590239940	Marionette	INFO	startBrowser 103fa0b6-5928-40e3-99d7-5e30a2d10863
+1483590239951	Marionette	INFO	sendAsync 103fa0b6-5928-40e3-99d7-5e30a2d10863
+1483590240261	Marionette	INFO	sendAsync 103fa0b6-5928-40e3-99d7-5e30a2d10863
+1483590240545	Marionette	INFO	sendAsync 103fa0b6-5928-40e3-99d7-5e30a2d10863
+1483590241508	Marionette	INFO	sendAsync 103fa0b6-5928-40e3-99d7-5e30a2d10863
+1483590241519	Marionette	INFO	sendAsync 103fa0b6-5928-40e3-99d7-5e30a2d10863
+1483590241528	Marionette	INFO	sendAsync 103fa0b6-5928-40e3-99d7-5e30a2d10863
+1483590241544	Marionette	INFO	sendAsync 103fa0b6-5928-40e3-99d7-5e30a2d10863
+1483590241554	Marionette	INFO	sendAsync 103fa0b6-5928-40e3-99d7-5e30a2d10863
+1483590241564	Marionette	INFO	sendAsync 103fa0b6-5928-40e3-99d7-5e30a2d10863
+1483590243592	Marionette	INFO	sendAsync 103fa0b6-5928-40e3-99d7-5e30a2d10863
+[Child 16924] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-beta-w64-0000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2046
+1483590254283	geckodriver	INFO	Listening on 127.0.0.1:57086
+1483590254787	mozprofile::profile	INFO	Using profile path C:\Users\Cute\AppData\Local\Temp\rust_mozprofile.G3MBeIE6NXaX
+1483590254790	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1483590254893	geckodriver::marionette	INFO	Connecting to Marionette on localhost:57090
+1483590256095	Marionette	INFO	Listening on port 57090
+1483590257552	Marionette	INFO	startBrowser 166f952b-4600-4729-bca8-85c64b4f355c
+1483590257564	Marionette	INFO	sendAsync 166f952b-4600-4729-bca8-85c64b4f355c
+1483590257899	Marionette	INFO	sendAsync 166f952b-4600-4729-bca8-85c64b4f355c
+1483590259941	Marionette	INFO	sendAsync 166f952b-4600-4729-bca8-85c64b4f355c
+1483590259964	Marionette	INFO	sendAsync 166f952b-4600-4729-bca8-85c64b4f355c
+1483590259974	Marionette	INFO	sendAsync 166f952b-4600-4729-bca8-85c64b4f355c
+1483590259990	Marionette	INFO	sendAsync 166f952b-4600-4729-bca8-85c64b4f355c
+1483590259999	Marionette	INFO	sendAsync 166f952b-4600-4729-bca8-85c64b4f355c
+1483590260007	Marionette	INFO	sendAsync 166f952b-4600-4729-bca8-85c64b4f355c
+1483590262050	Marionette	INFO	sendAsync 166f952b-4600-4729-bca8-85c64b4f355c
+1483590382107	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1483590434332	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+57773	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1483590357859	geckodriver::marionette	INFO	Connecting to Marionette on localhost:57197
+1483590358925	Marionette	INFO	Listening on port 57197
+1483590360446	Marionette	INFO	startBrowser 93b83585-9b3d-4e11-9abb-5f30d595a218
+1483590360468	Marionette	INFO	sendAsync 93b83585-9b3d-4e11-9abb-5f30d595a218
+1483590360883	Marionette	INFO	sendAsync 93b83585-9b3d-4e11-9abb-5f30d595a218
+1483590361172	Marionette	INFO	sendAsync 93b83585-9b3d-4e11-9abb-5f30d595a218
+1483590362338	Marionette	INFO	sendAsync 93b83585-9b3d-4e11-9abb-5f30d595a218
+1483590362348	Marionette	INFO	sendAsync 93b83585-9b3d-4e11-9abb-5f30d595a218
+1483590362356	Marionette	INFO	sendAsync 93b83585-9b3d-4e11-9abb-5f30d595a218
+1483590362371	Marionette	INFO	sendAsync 93b83585-9b3d-4e11-9abb-5f30d595a218
+1483590362381	Marionette	INFO	sendAsync 93b83585-9b3d-4e11-9abb-5f30d595a218
+1483590362389	Marionette	INFO	sendAsync 93b83585-9b3d-4e11-9abb-5f30d595a218
+1483590364441	Marionette	INFO	sendAsync 93b83585-9b3d-4e11-9abb-5f30d595a218
+1483590434176	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Child 17712] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-beta-w64-0000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 343
+la Firefox\firefox.exe
+1483590388777	geckodriver::marionette	INFO	Connecting to Marionette on localhost:57274
+1483590389779	Marionette	INFO	Listening on port 57274
+1483590391150	Marionette	INFO	startBrowser c62bd091-1b8d-4c59-a72d-99f2541c44a2
+1483590391162	Marionette	INFO	sendAsync c62bd091-1b8d-4c59-a72d-99f2541c44a2
+1483590391477	Marionette	INFO	sendAsync c62bd091-1b8d-4c59-a72d-99f2541c44a2
+1483590393139	Marionette	INFO	sendAsync c62bd091-1b8d-4c59-a72d-99f2541c44a2
+1483590393152	Marionette	INFO	sendAsync c62bd091-1b8d-4c59-a72d-99f2541c44a2
+1483590393167	Marionette	INFO	sendAsync c62bd091-1b8d-4c59-a72d-99f2541c44a2
+1483590393182	Marionette	INFO	sendAsync c62bd091-1b8d-4c59-a72d-99f2541c44a2
+1483590393192	Marionette	INFO	sendAsync c62bd091-1b8d-4c59-a72d-99f2541c44a2
+1483590393201	Marionette	INFO	sendAsync c62bd091-1b8d-4c59-a72d-99f2541c44a2
+1483590395251	Marionette	INFO	sendAsync c62bd091-1b8d-4c59-a72d-99f2541c44a2
+1483590442417	geckodriver	INFO	Listening on 127.0.0.1:57356
+1483590442976	mozprofile::profile	INFO	Using profile path C:\Users\Cute\AppData\Local\Temp\rust_mozprofile.alWC2Qy2EgYW
+1483590442979	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1483590443081	geckodriver::marionette	INFO	Connecting to Marionette on localhost:57360
+1483590444108	Marionette	INFO	Listening on port 57360
+1483590445413	Marionette	INFO	startBrowser cba1daba-4914-415e-887b-f6ccf75b18e8
+1483590445427	Marionette	INFO	sendAsync cba1daba-4914-415e-887b-f6ccf75b18e8
+1483590445759	Marionette	INFO	sendAsync cba1daba-4914-415e-887b-f6ccf75b18e8
+1483590446030	Marionette	INFO	sendAsync cba1daba-4914-415e-887b-f6ccf75b18e8
+1483590447664	Marionette	INFO	sendAsync cba1daba-4914-415e-887b-f6ccf75b18e8
+1483590447680	Marionette	INFO	sendAsync cba1daba-4914-415e-887b-f6ccf75b18e8
+1483590447689	Marionette	INFO	sendAsync cba1daba-4914-415e-887b-f6ccf75b18e8
+1483590447705	Marionette	INFO	sendAsync cba1daba-4914-415e-887b-f6ccf75b18e8
+1483590447714	Marionette	INFO	sendAsync cba1daba-4914-415e-887b-f6ccf75b18e8
+1483590447724	Marionette	INFO	sendAsync cba1daba-4914-415e-887b-f6ccf75b18e8
+1483590690077	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x10,name=PAPZ::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Parent][OnMaybeDequeueOne] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][OnMaybeDequeueOne] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][OnMaybeDequeueOne] Error: Channel error: cannot send/recv
+
+console.error: 
+  Message: Error: SessionFile is closed
+  Stack:
+    SessionFileInternal.write@resource://app/modules/sessionstore/SessionFile.jsm:315:29
+this.SessionFile.write@resource://app/modules/sessionstore/SessionFile.jsm:76:12
+SessionSaverInternal._writeState@resource://app/modules/sessionstore/SessionSaver.jsm:259:12
+SessionSaverInternal._saveState@resource://app/modules/sessionstore/SessionSaver.jsm:230:12
+SessionSaverInternal._saveStateAsync@resource://app/modules/sessionstore/SessionSaver.jsm:243:5
+SessionSaverInternal.runDelayed/this._timeoutID<@resource://app/modules/sessionstore/SessionSaver.jsm:147:40
+setTimeout_timer@resource://gre/modules/Timer.jsm:30:5
+Spinner.prototype.observe@resource://gre/modules/AsyncShutdown.jsm:551:9
+
+pe=0x48003F,name=PContent::Msg_Shutdown) Channel error: cannot send/recv
+
+console.error: 
+  Message: Error: SessionFile is closed
+  Stack:
+    SessionFileInternal.write@resource://app/modules/sessionstore/SessionFile.jsm:315:29
+this.SessionFile.write@resource://app/modules/sessionstore/SessionFile.jsm:76:12
+SessionSaverInternal._writeState@resource://app/modules/sessionstore/SessionSaver.jsm:259:12
+SessionSaverInternal._saveState@resource://app/modules/sessionstore/SessionSaver.jsm:230:12
+SessionSaverInternal._saveStateAsync@resource://app/modules/sessionstore/SessionSaver.jsm:243:5
+SessionSaverInternal.runDelayed/this._timeoutID<@resource://app/modules/sessionstore/SessionSaver.jsm:147:40
+setTimeout_timer@resource://gre/modules/Timer.jsm:30:5
+
+taddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1483592031523	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+console.error: 
+  Message: Error: SessionFile is closed
+  Stack:
+    SessionFileInternal.write@resource://app/modules/sessionstore/SessionFile.jsm:315:29
+this.SessionFile.write@resource://app/modules/sessionstore/SessionFile.jsm:76:12
+SessionSaverInternal._writeState@resource://app/modules/sessionstore/SessionSaver.jsm:259:12
+SessionSaverInternal._saveState@resource://app/modules/sessionstore/SessionSaver.jsm:230:12
+SessionSaverInternal._saveStateAsync@resource://app/modules/sessionstore/SessionSaver.jsm:243:5
+SessionSaverInternal.runDelayed/this._timeoutID<@resource://app/modules/sessionstore/SessionSaver.jsm:147:40
+setTimeout_timer@resource://gre/modules/Timer.jsm:30:5
+
+
+###!!! [Parent][OnMaybeDequeueOne] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][OnMaybeDequeueOne] Error: Channel error: cannot send/recv
+
+3-49717398e98a
+1483590716144	Marionette	INFO	sendAsync 01f31e66-ba2b-4d17-8d43-49717398e98a
+1483590944698	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1483591008047	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x48003F,name=PContent::Msg_Shutdown) Channel error: cannot send/recv
+
+console.error: 
+  Message: Error: SessionFile is closed
+  Stack:
+    SessionFileInternal.write@resource://app/modules/sessionstore/SessionFile.jsm:315:29
+this.SessionFile.write@resource://app/modules/sessionstore/SessionFile.jsm:76:12
+SessionSaverInternal._writeState@resource://app/modules/sessionstore/SessionSaver.jsm:259:12
+SessionSaverInternal._saveState@resource://app/modules/sessionstore/SessionSaver.jsm:230:12
+SessionSaverInternal._saveStateAsync@resource://app/modules/sessionstore/SessionSaver.jsm:243:5
+SessionSaverInternal.runDelayed/this._timeoutID<@resource://app/modules/sessionstore/SessionSaver.jsm:147:40
+setTimeout_timer@resource://gre/modules/Timer.jsm:30:5
+
+FO	sendAsync 2f4d87b8-0679-4d03-a1ed-199dba07ee3e
+1483590749689	Marionette	INFO	sendAsync 2f4d87b8-0679-4d03-a1ed-199dba07ee3e
+1483590749698	Marionette	INFO	sendAsync 2f4d87b8-0679-4d03-a1ed-199dba07ee3e
+1483590966260	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1483591029699	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+
+###!!! [Parent][OnMaybeDequeueOne] Error: Channel error: cannot send/recv
+
+console.error: 
+  Message: Error: SessionFile is closed
+  Stack:
+    SessionFileInternal.write@resource://app/modules/sessionstore/SessionFile.jsm:315:29
+this.SessionFile.write@resource://app/modules/sessionstore/SessionFile.jsm:76:12
+SessionSaverInternal._writeState@resource://app/modules/sessionstore/SessionSaver.jsm:259:12
+SessionSaverInternal._saveState@resource://app/modules/sessionstore/SessionSaver.jsm:230:12
+SessionSaverInternal._saveStateAsync@resource://app/modules/sessionstore/SessionSaver.jsm:243:5
+SessionSaverInternal.runDelayed/this._timeoutID<@resource://app/modules/sessionstore/SessionSaver.jsm:147:40
+setTimeout_timer@resource://gre/modules/Timer.jsm:30:5
+
+	sendAsync ba710de5-135b-4a21-b01c-1e14a2d4b391
+1483591413438	Marionette	INFO	sendAsync ba710de5-135b-4a21-b01c-1e14a2d4b391
+1483591413447	Marionette	INFO	sendAsync ba710de5-135b-4a21-b01c-1e14a2d4b391
+1483591413462	Marionette	INFO	sendAsync ba710de5-135b-4a21-b01c-1e14a2d4b391
+1483591413472	Marionette	INFO	sendAsync ba710de5-135b-4a21-b01c-1e14a2d4b391
+1483591413482	Marionette	INFO	sendAsync ba710de5-135b-4a21-b01c-1e14a2d4b391
+1483591415514	Marionette	INFO	sendAsync ba710de5-135b-4a21-b01c-1e14a2d4b391
+1483591415522	Marionette	INFO	sendAsync ba710de5-135b-4a21-b01c-1e14a2d4b391
+1483591415532	Marionette	INFO	sendAsync ba710de5-135b-4a21-b01c-1e14a2d4b391
+1483591415593	Marionette	INFO	sendAsync ba710de5-135b-4a21-b01c-1e14a2d4b391
+1483591556942	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1483591620279	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+console.error: 
+  Message: Error: SessionFile is closed
+  Stack:
+    SessionFileInternal.write@resource://app/modules/sessionstore/SessionFile.jsm:315:29
+this.SessionFile.write@resource://app/modules/sessionstore/SessionFile.jsm:76:12
+SessionSaverInternal._writeState@resource://app/modules/sessionstore/SessionSaver.jsm:259:12
+SessionSaverInternal._saveState@resource://app/modules/sessionstore/SessionSaver.jsm:230:12
+SessionSaverInternal._saveStateAsync@resource://app/modules/sessionstore/SessionSaver.jsm:243:5
+SessionSaverInternal.runDelayed/this._timeoutID<@resource://app/modules/sessionstore/SessionSaver.jsm:147:40
+setTimeout_timer@resource://gre/modules/Timer.jsm:30:5
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x48003F,name=PContent::Msg_Shutdown) Channel error: cannot send/recv
+
+e08
+1483591644133	Marionette	INFO	sendAsync 9e7ba4d3-1523-433a-acb5-c22589405e08
+1483591644151	Marionette	INFO	sendAsync 9e7ba4d3-1523-433a-acb5-c22589405e08
+1483591644173	Marionette	INFO	sendAsync 9e7ba4d3-1523-433a-acb5-c22589405e08
+1483591644188	Marionette	INFO	sendAsync 9e7ba4d3-1523-433a-acb5-c22589405e08
+1483591644201	Marionette	INFO	sendAsync 9e7ba4d3-1523-433a-acb5-c22589405e08
+1483591646246	Marionette	INFO	sendAsync 9e7ba4d3-1523-433a-acb5-c22589405e08
+1483591646260	Marionette	INFO	sendAsync 9e7ba4d3-1523-433a-acb5-c22589405e08
+1483591646273	Marionette	INFO	sendAsync 9e7ba4d3-1523-433a-acb5-c22589405e08
+1483591646288	Marionette	INFO	sendAsync 9e7ba4d3-1523-433a-acb5-c22589405e08
+1483591784360	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1483591847720	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+console.error: 
+  Message: Error: SessionFile is closed
+  Stack:
+    SessionFileInternal.write@resource://app/modules/sessionstore/SessionFile.jsm:315:29
+this.SessionFile.write@resource://app/modules/sessionstore/SessionFile.jsm:76:12
+SessionSaverInternal._writeState@resource://app/modules/sessionstore/SessionSaver.jsm:259:12
+SessionSaverInternal._saveState@resource://app/modules/sessionstore/SessionSaver.jsm:230:12
+SessionSaverInternal._saveStateAsync@resource://app/modules/sessionstore/SessionSaver.jsm:243:5
+SessionSaverInternal.runDelayed/this._timeoutID<@resource://app/modules/sessionstore/SessionSaver.jsm:147:40
+setTimeout_timer@resource://gre/modules/Timer.jsm:30:5
+
+53c-00460574c29f
+1483591761745	Marionette	INFO	sendAsync 63e64437-799e-483c-853c-00460574c29f
+1483591761784	Marionette	INFO	sendAsync 63e64437-799e-483c-853c-00460574c29f
+1483591761808	Marionette	INFO	sendAsync 63e64437-799e-483c-853c-00460574c29f
+1483591761826	Marionette	INFO	sendAsync 63e64437-799e-483c-853c-00460574c29f
+1483591763885	Marionette	INFO	sendAsync 63e64437-799e-483c-853c-00460574c29f
+1483591763896	Marionette	INFO	sendAsync 63e64437-799e-483c-853c-00460574c29f
+1483591763915	Marionette	INFO	sendAsync 63e64437-799e-483c-853c-00460574c29f
+1483591763928	Marionette	INFO	sendAsync 63e64437-799e-483c-853c-00460574c29f
+1483591905993	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1483591969499	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+
+###!!! [Parent][OnMaybeDequeueOne] Error: Channel error: cannot send/recv
+
+console.error: 
+  Message: Error: SessionFile is closed
+  Stack:
+    SessionFileInternal.write@resource://app/modules/sessionstore/SessionFile.jsm:315:29
+this.SessionFile.write@resource://app/modules/sessionstore/SessionFile.jsm:76:12
+SessionSaverInternal._writeState@resource://app/modules/sessionstore/SessionSaver.jsm:259:12
+SessionSaverInternal._saveState@resource://app/modules/sessionstore/SessionSaver.jsm:230:12
+SessionSaverInternal._saveStateAsync@resource://app/modules/sessionstore/SessionSaver.jsm:243:5
+SessionSaverInternal.runDelayed/this._timeoutID<@resource://app/modules/sessionstore/SessionSaver.jsm:147:40
+setTimeout_timer@resource://gre/modules/Timer.jsm:30:5
+
+4b7c-beeb-bfd8f7d60821
+1483592022866	Marionette	INFO	sendAsync 429272a3-8af2-4b7c-beeb-bfd8f7d60821
+1483592024609	Marionette	INFO	sendAsync 429272a3-8af2-4b7c-beeb-bfd8f7d60821
+1483592024622	Marionette	INFO	sendAsync 429272a3-8af2-4b7c-beeb-bfd8f7d60821
+1483592024632	Marionette	INFO	sendAsync 429272a3-8af2-4b7c-beeb-bfd8f7d60821
+1483592024648	Marionette	INFO	sendAsync 429272a3-8af2-4b7c-beeb-bfd8f7d60821
+1483592024657	Marionette	INFO	sendAsync 429272a3-8af2-4b7c-beeb-bfd8f7d60821
+1483592024664	Marionette	INFO	sendAsync 429272a3-8af2-4b7c-beeb-bfd8f7d60821
+1483592026697	Marionette	INFO	sendAsync 429272a3-8af2-4b7c-beeb-bfd8f7d60821
+1483592026706	Marionette	INFO	sendAsync 429272a3-8af2-4b7c-beeb-bfd8f7d60821
+1483592026716	Marionette	INFO	sendAsync 429272a3-8af2-4b7c-beeb-bfd8f7d60821
+1483592026727	Marionette	INFO	sendAsync 429272a3-8af2-4b7c-beeb-bfd8f7d60821
+
+###!!! [Parent][OnMaybeDequeueOne] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][OnMaybeDequeueOne] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][OnMaybeDequeueOne] Error: Channel error: cannot send/recv
+
+1483592244926	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+
+###!!! [Parent][OnMaybeDequeueOne] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][OnMaybeDequeueOne] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x10,name=PAPZ::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xDA000D,name=PServiceWorkerManager::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+1-9d64-aed241c23f12
+console.error: 
+  Message: Error: SessionFile is closed
+  Stack:
+    SessionFileInternal.write@resource://app/modules/sessionstore/SessionFile.jsm:315:29
+this.SessionFile.write@resource://app/modules/sessionstore/SessionFile.jsm:76:12
+SessionSaverInternal._writeState@resource://app/modules/sessionstore/SessionSaver.jsm:259:12
+SessionSaverInternal._saveState@resource://app/modules/sessionstore/SessionSaver.jsm:230:12
+SessionSaverInternal._saveStateAsync@resource://app/modules/sessionstore/SessionSaver.jsm:243:5
+SessionSaverInternal.runDelayed/this._timeoutID<@resource://app/modules/sessionstore/SessionSaver.jsm:147:40
+setTimeout_timer@resource://gre/modules/Timer.jsm:30:5
+
+1483592256782	geckodriver	INFO	Listening on 127.0.0.1:59249
+1483592257285	mozprofile::profile	INFO	Using profile path C:\Users\Cute\AppData\Local\Temp\rust_mozprofile.wAO8wHJGOcjK
+1483592257288	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1483592257445	geckodriver::marionette	INFO	Connecting to Marionette on localhost:59253
+1483592259014	Marionette	INFO	Listening on port 59253
+1483592260653	Marionette	INFO	startBrowser 54be4c2c-0866-4d39-bee6-30687ba79910
+1483592260667	Marionette	INFO	sendAsync 54be4c2c-0866-4d39-bee6-30687ba79910
+1483592260986	Marionette	INFO	sendAsync 54be4c2c-0866-4d39-bee6-30687ba79910
+1483592262314	Marionette	INFO	sendAsync 54be4c2c-0866-4d39-bee6-30687ba79910
+1483592262325	Marionette	INFO	sendAsync 54be4c2c-0866-4d39-bee6-30687ba79910
+1483592262332	Marionette	INFO	sendAsync 54be4c2c-0866-4d39-bee6-30687ba79910
+1483592262344	Marionette	INFO	sendAsync 54be4c2c-0866-4d39-bee6-30687ba79910
+1483592262354	Marionette	INFO	sendAsync 54be4c2c-0866-4d39-bee6-30687ba79910
+1483592262361	Marionette	INFO	sendAsync 54be4c2c-0866-4d39-bee6-30687ba79910
+1483592262496	Marionette	INFO	sendAsync 54be4c2c-0866-4d39-bee6-30687ba79910
+1483592266572	Marionette	INFO	sendAsync 54be4c2c-0866-4d39-bee6-30687ba79910
+1483592266583	Marionette	INFO	sendAsync 54be4c2c-0866-4d39-bee6-30687ba79910
+1483592266590	Marionette	INFO	sendAsync 54be4c2c-0866-4d39-bee6-30687ba79910
+1483592266600	Marionette	INFO	sendAsync 54be4c2c-0866-4d39-bee6-30687ba79910
+1483592266610	Marionette	INFO	sendAsync 54be4c2c-0866-4d39-bee6-30687ba79910
+1483592266618	Marionette	INFO	sendAsync 54be4c2c-0866-4d39-bee6-30687ba79910
+1483592266624	Marionette	INFO	sendAsync 54be4c2c-0866-4d39-bee6-30687ba79910
+1483592266632	Marionette	INFO	sendAsync 54be4c2c-0866-4d39-bee6-30687ba79910
+1483592266638	Marionette	INFO	sendAsync 54be4c2c-0866-4d39-bee6-30687ba79910
+1483592266646	Marionette	INFO	sendAsync 54be4c2c-0866-4d39-bee6-30687ba79910
+1483592266652	Marionette	INFO	sendAsync 54be4c2c-0866-4d39-bee6-30687ba79910
+1483592266659	Marionette	INFO	sendAsync 54be4c2c-0866-4d39-bee6-30687ba79910
+1483592266665	Marionette	INFO	sendAsync 54be4c2c-0866-4d39-bee6-30687ba79910
+1483592290289	geckodriver	INFO	Listening on 127.0.0.1:59325
+1483592290846	mozprofile::profile	INFO	Using profile path C:\Users\Cute\AppData\Local\Temp\rust_mozprofile.hq9c8X76uto9
+1483592290853	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1483592290930	geckodriver::marionette	INFO	Connecting to Marionette on localhost:59329
+1483592291991	Marionette	INFO	Listening on port 59329
+1483592293279	Marionette	INFO	startBrowser 0b1bc4b9-5b44-4e45-a719-8db58e099ab0
+1483592293292	Marionette	INFO	sendAsync 0b1bc4b9-5b44-4e45-a719-8db58e099ab0
+1483592293660	Marionette	INFO	sendAsync 0b1bc4b9-5b44-4e45-a719-8db58e099ab0
+1483592293920	Marionette	INFO	sendAsync 0b1bc4b9-5b44-4e45-a719-8db58e099ab0
+1483592295435	Marionette	INFO	sendAsync 0b1bc4b9-5b44-4e45-a719-8db58e099ab0
+1483592295462	Marionette	INFO	sendAsync 0b1bc4b9-5b44-4e45-a719-8db58e099ab0
+1483592295528	Marionette	INFO	sendAsync 0b1bc4b9-5b44-4e45-a719-8db58e099ab0
+1483592295585	Marionette	INFO	sendAsync 0b1bc4b9-5b44-4e45-a719-8db58e099ab0
+1483592295606	Marionette	INFO	sendAsync 0b1bc4b9-5b44-4e45-a719-8db58e099ab0
+1483592295619	Marionette	INFO	sendAsync 0b1bc4b9-5b44-4e45-a719-8db58e099ab0
+1483592295703	Marionette	INFO	sendAsync 0b1bc4b9-5b44-4e45-a719-8db58e099ab0
+1483592299750	Marionette	INFO	sendAsync 0b1bc4b9-5b44-4e45-a719-8db58e099ab0
+1483592299761	Marionette	INFO	sendAsync 0b1bc4b9-5b44-4e45-a719-8db58e099ab0
+1483592299769	Marionette	INFO	sendAsync 0b1bc4b9-5b44-4e45-a719-8db58e099ab0
+1483592299779	Marionette	INFO	sendAsync 0b1bc4b9-5b44-4e45-a719-8db58e099ab0
+1483592299788	Marionette	INFO	sendAsync 0b1bc4b9-5b44-4e45-a719-8db58e099ab0
+1483592299797	Marionette	INFO	sendAsync 0b1bc4b9-5b44-4e45-a719-8db58e099ab0
+1483592299806	Marionette	INFO	sendAsync 0b1bc4b9-5b44-4e45-a719-8db58e099ab0
+1483592299815	Marionette	INFO	sendAsync 0b1bc4b9-5b44-4e45-a719-8db58e099ab0
+1483592299823	Marionette	INFO	sendAsync 0b1bc4b9-5b44-4e45-a719-8db58e099ab0
+1483592299831	Marionette	INFO	sendAsync 0b1bc4b9-5b44-4e45-a719-8db58e099ab0
+1483592299838	Marionette	INFO	sendAsync 0b1bc4b9-5b44-4e45-a719-8db58e099ab0
+[Child 18264] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-beta-w64-0000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 343
+[Child 18264] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-beta-w64-0000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 343

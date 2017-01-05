@@ -1,0 +1,1277 @@
+1483152424676	geckodriver	INFO	Listening on 127.0.0.1:60536
+1483152425191	mozprofile::profile	INFO	Using profile path C:\Users\Cute\AppData\Local\Temp\rust_mozprofile.jtRHm6noJ8WQ
+1483152425197	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1483152425353	geckodriver::marionette	INFO	Connecting to Marionette on localhost:60541
+1483152427022	Marionette	INFO	Listening on port 60541
+1483152428721	Marionette	INFO	startBrowser 3463955e-47b8-4c51-8e39-f32718c79a07
+1483152428735	Marionette	INFO	sendAsync 3463955e-47b8-4c51-8e39-f32718c79a07
+1483152429159	Marionette	INFO	sendAsync 3463955e-47b8-4c51-8e39-f32718c79a07
+1483152441247	Marionette	INFO	sendAsync 3463955e-47b8-4c51-8e39-f32718c79a07
+1483152441282	Marionette	INFO	sendAsync 3463955e-47b8-4c51-8e39-f32718c79a07
+1483152441293	Marionette	INFO	sendAsync 3463955e-47b8-4c51-8e39-f32718c79a07
+1483152441310	Marionette	INFO	sendAsync 3463955e-47b8-4c51-8e39-f32718c79a07
+1483152441324	Marionette	INFO	sendAsync 3463955e-47b8-4c51-8e39-f32718c79a07
+1483153035696	geckodriver	INFO	Listening on 127.0.0.1:61318
+1483153036206	mozprofile::profile	INFO	Using profile path C:\Users\Cute\AppData\Local\Temp\rust_mozprofile.ZdeOWbUJZ79G
+1483153036211	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1483153036415	geckodriver::marionette	INFO	Connecting to Marionette on localhost:61322
+1483153037597	Marionette	INFO	Listening on port 61322
+1483153039561	Marionette	INFO	startBrowser d47d79ee-20dd-443c-b08a-cee3d198a666
+1483153039577	Marionette	INFO	sendAsync d47d79ee-20dd-443c-b08a-cee3d198a666
+1483153041067	Marionette	INFO	sendAsync d47d79ee-20dd-443c-b08a-cee3d198a666
+1483153041280	Marionette	INFO	sendAsync d47d79ee-20dd-443c-b08a-cee3d198a666
+1483153054680	Marionette	INFO	sendAsync d47d79ee-20dd-443c-b08a-cee3d198a666
+1483153054690	Marionette	INFO	sendAsync d47d79ee-20dd-443c-b08a-cee3d198a666
+1483153054700	Marionette	INFO	sendAsync d47d79ee-20dd-443c-b08a-cee3d198a666
+1483153054715	Marionette	INFO	sendAsync d47d79ee-20dd-443c-b08a-cee3d198a666
+1483153054727	Marionette	INFO	sendAsync d47d79ee-20dd-443c-b08a-cee3d198a666
+1483153054760	Marionette	INFO	sendAsync d47d79ee-20dd-443c-b08a-cee3d198a666
+1483153056934	Marionette	INFO	sendAsync d47d79ee-20dd-443c-b08a-cee3d198a666
+1483153056944	Marionette	INFO	sendAsync d47d79ee-20dd-443c-b08a-cee3d198a666
+1483153056992	Marionette	INFO	sendAsync d47d79ee-20dd-443c-b08a-cee3d198a666
+1483153057000	Marionette	INFO	sendAsync d47d79ee-20dd-443c-b08a-cee3d198a666
+1483153057174	Marionette	INFO	sendAsync d47d79ee-20dd-443c-b08a-cee3d198a666
+1483153057197	Marionette	INFO	sendAsync d47d79ee-20dd-443c-b08a-cee3d198a666
+1483153057216	Marionette	INFO	sendAsync d47d79ee-20dd-443c-b08a-cee3d198a666
+1483153057224	Marionette	INFO	sendAsync d47d79ee-20dd-443c-b08a-cee3d198a666
+1483153057245	Marionette	INFO	sendAsync d47d79ee-20dd-443c-b08a-cee3d198a666
+1483153057273	Marionette	INFO	sendAsync d47d79ee-20dd-443c-b08a-cee3d198a666
+1483153060360	Marionette	INFO	sendAsync d47d79ee-20dd-443c-b08a-cee3d198a666
+1483153064620	Marionette	INFO	sendAsync d47d79ee-20dd-443c-b08a-cee3d198a666
+1483153064680	Marionette	INFO	sendAsync d47d79ee-20dd-443c-b08a-cee3d198a666
+1483153064753	Marionette	INFO	sendAsync d47d79ee-20dd-443c-b08a-cee3d198a666
+[Child 45456] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-beta-w64-0000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 462
+[Child 45456] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-beta-w64-0000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2046
+1483153160971	geckodriver	INFO	Listening on 127.0.0.1:61501
+1483153161511	mozprofile::profile	INFO	Using profile path C:\Users\Cute\AppData\Local\Temp\rust_mozprofile.Lxbbe8R4vFms
+1483153161515	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1483153161603	geckodriver::marionette	INFO	Connecting to Marionette on localhost:61505
+1483153163052	Marionette	INFO	Listening on port 61505
+1483153164849	Marionette	INFO	startBrowser 82d88dc1-b80a-42ca-9455-4b2dfb35c84a
+1483153164864	Marionette	INFO	sendAsync 82d88dc1-b80a-42ca-9455-4b2dfb35c84a
+1483153165286	Marionette	INFO	sendAsync 82d88dc1-b80a-42ca-9455-4b2dfb35c84a
+1483153165659	Marionette	INFO	sendAsync 82d88dc1-b80a-42ca-9455-4b2dfb35c84a
+1483153177331	Marionette	INFO	sendAsync 82d88dc1-b80a-42ca-9455-4b2dfb35c84a
+1483153177342	Marionette	INFO	sendAsync 82d88dc1-b80a-42ca-9455-4b2dfb35c84a
+1483153177353	Marionette	INFO	sendAsync 82d88dc1-b80a-42ca-9455-4b2dfb35c84a
+1483153177369	Marionette	INFO	sendAsync 82d88dc1-b80a-42ca-9455-4b2dfb35c84a
+1483153177384	Marionette	INFO	sendAsync 82d88dc1-b80a-42ca-9455-4b2dfb35c84a
+1483153177404	Marionette	INFO	sendAsync 82d88dc1-b80a-42ca-9455-4b2dfb35c84a
+1483153178060	Marionette	INFO	sendAsync 82d88dc1-b80a-42ca-9455-4b2dfb35c84a
+1483153178071	Marionette	INFO	sendAsync 82d88dc1-b80a-42ca-9455-4b2dfb35c84a
+1483153178086	Marionette	INFO	sendAsync 82d88dc1-b80a-42ca-9455-4b2dfb35c84a
+1483153178100	Marionette	INFO	sendAsync 82d88dc1-b80a-42ca-9455-4b2dfb35c84a
+1483153178132	Marionette	INFO	sendAsync 82d88dc1-b80a-42ca-9455-4b2dfb35c84a
+1483153178149	Marionette	INFO	sendAsync 82d88dc1-b80a-42ca-9455-4b2dfb35c84a
+1483153178161	Marionette	INFO	sendAsync 82d88dc1-b80a-42ca-9455-4b2dfb35c84a
+1483153178171	Marionette	INFO	sendAsync 82d88dc1-b80a-42ca-9455-4b2dfb35c84a
+1483153178203	Marionette	INFO	sendAsync 82d88dc1-b80a-42ca-9455-4b2dfb35c84a
+1483153178214	Marionette	INFO	sendAsync 82d88dc1-b80a-42ca-9455-4b2dfb35c84a
+1483153181294	Marionette	INFO	sendAsync 82d88dc1-b80a-42ca-9455-4b2dfb35c84a
+1483153183493	Marionette	INFO	sendAsync 82d88dc1-b80a-42ca-9455-4b2dfb35c84a
+1483153183509	Marionette	INFO	sendAsync 82d88dc1-b80a-42ca-9455-4b2dfb35c84a
+1483153183674	Marionette	INFO	sendAsync 82d88dc1-b80a-42ca-9455-4b2dfb35c84a
+[Child 30980] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-beta-w64-0000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2046
+1483153299672	geckodriver	INFO	Listening on 127.0.0.1:61714
+1483153300179	mozprofile::profile	INFO	Using profile path C:\Users\Cute\AppData\Local\Temp\rust_mozprofile.fyuB6pxZygEO
+1483153300184	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1483153300309	geckodriver::marionette	INFO	Connecting to Marionette on localhost:61718
+1483153301533	Marionette	INFO	Listening on port 61718
+1483153303375	Marionette	INFO	startBrowser 5b478c97-38d6-480c-9b6e-f4904ad88588
+1483153303388	Marionette	INFO	sendAsync 5b478c97-38d6-480c-9b6e-f4904ad88588
+1483153304290	Marionette	INFO	sendAsync 5b478c97-38d6-480c-9b6e-f4904ad88588
+1483153314075	Marionette	INFO	sendAsync 5b478c97-38d6-480c-9b6e-f4904ad88588
+1483153314090	Marionette	INFO	sendAsync 5b478c97-38d6-480c-9b6e-f4904ad88588
+1483153314104	Marionette	INFO	sendAsync 5b478c97-38d6-480c-9b6e-f4904ad88588
+1483153314131	Marionette	INFO	sendAsync 5b478c97-38d6-480c-9b6e-f4904ad88588
+1483153314145	Marionette	INFO	sendAsync 5b478c97-38d6-480c-9b6e-f4904ad88588
+1483153314171	Marionette	INFO	sendAsync 5b478c97-38d6-480c-9b6e-f4904ad88588
+1483153314939	Marionette	INFO	sendAsync 5b478c97-38d6-480c-9b6e-f4904ad88588
+1483153314949	Marionette	INFO	sendAsync 5b478c97-38d6-480c-9b6e-f4904ad88588
+1483153314964	Marionette	INFO	sendAsync 5b478c97-38d6-480c-9b6e-f4904ad88588
+1483153314978	Marionette	INFO	sendAsync 5b478c97-38d6-480c-9b6e-f4904ad88588
+1483153315014	Marionette	INFO	sendAsync 5b478c97-38d6-480c-9b6e-f4904ad88588
+1483153315024	Marionette	INFO	sendAsync 5b478c97-38d6-480c-9b6e-f4904ad88588
+1483153315039	Marionette	INFO	sendAsync 5b478c97-38d6-480c-9b6e-f4904ad88588
+1483153315048	Marionette	INFO	sendAsync 5b478c97-38d6-480c-9b6e-f4904ad88588
+1483153315086	Marionette	INFO	sendAsync 5b478c97-38d6-480c-9b6e-f4904ad88588
+1483153315099	Marionette	INFO	sendAsync 5b478c97-38d6-480c-9b6e-f4904ad88588
+1483153318193	Marionette	INFO	sendAsync 5b478c97-38d6-480c-9b6e-f4904ad88588
+1483153320069	Marionette	INFO	sendAsync 5b478c97-38d6-480c-9b6e-f4904ad88588
+1483153320098	Marionette	INFO	sendAsync 5b478c97-38d6-480c-9b6e-f4904ad88588
+1483153320177	Marionette	INFO	sendAsync 5b478c97-38d6-480c-9b6e-f4904ad88588
+1483153320271	Marionette	INFO	sendAsync 5b478c97-38d6-480c-9b6e-f4904ad88588
+1483153320287	Marionette	INFO	sendAsync 5b478c97-38d6-480c-9b6e-f4904ad88588
+1483153683143	geckodriver	INFO	Listening on 127.0.0.1:62146
+1483153683642	mozprofile::profile	INFO	Using profile path C:\Users\Cute\AppData\Local\Temp\rust_mozprofile.cLHsAmSBhvfm
+1483153683646	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1483153683725	geckodriver::marionette	INFO	Connecting to Marionette on localhost:62150
+1483153684707	Marionette	INFO	Listening on port 62150
+1483153686578	Marionette	INFO	startBrowser 50078a43-6192-42f5-a70b-600df9f1632c
+1483153686592	Marionette	INFO	sendAsync 50078a43-6192-42f5-a70b-600df9f1632c
+1483153687013	Marionette	INFO	sendAsync 50078a43-6192-42f5-a70b-600df9f1632c
+1483153700055	Marionette	INFO	sendAsync 50078a43-6192-42f5-a70b-600df9f1632c
+1483153700069	Marionette	INFO	sendAsync 50078a43-6192-42f5-a70b-600df9f1632c
+1483153700080	Marionette	INFO	sendAsync 50078a43-6192-42f5-a70b-600df9f1632c
+1483153700099	Marionette	INFO	sendAsync 50078a43-6192-42f5-a70b-600df9f1632c
+1483153700111	Marionette	INFO	sendAsync 50078a43-6192-42f5-a70b-600df9f1632c
+1483153700134	Marionette	INFO	sendAsync 50078a43-6192-42f5-a70b-600df9f1632c
+1483153700857	Marionette	INFO	sendAsync 50078a43-6192-42f5-a70b-600df9f1632c
+1483153700873	Marionette	INFO	sendAsync 50078a43-6192-42f5-a70b-600df9f1632c
+1483153700904	Marionette	INFO	sendAsync 50078a43-6192-42f5-a70b-600df9f1632c
+1483153700913	Marionette	INFO	sendAsync 50078a43-6192-42f5-a70b-600df9f1632c
+1483153700957	Marionette	INFO	sendAsync 50078a43-6192-42f5-a70b-600df9f1632c
+1483153700970	Marionette	INFO	sendAsync 50078a43-6192-42f5-a70b-600df9f1632c
+1483153700997	Marionette	INFO	sendAsync 50078a43-6192-42f5-a70b-600df9f1632c
+1483153701014	Marionette	INFO	sendAsync 50078a43-6192-42f5-a70b-600df9f1632c
+1483153701045	Marionette	INFO	sendAsync 50078a43-6192-42f5-a70b-600df9f1632c
+1483153701056	Marionette	INFO	sendAsync 50078a43-6192-42f5-a70b-600df9f1632c
+1483153704139	Marionette	INFO	sendAsync 50078a43-6192-42f5-a70b-600df9f1632c
+1483153706301	Marionette	INFO	sendAsync 50078a43-6192-42f5-a70b-600df9f1632c
+1483153706337	Marionette	INFO	sendAsync 50078a43-6192-42f5-a70b-600df9f1632c
+1483153706427	Marionette	INFO	sendAsync 50078a43-6192-42f5-a70b-600df9f1632c
+1483153733929	geckodriver	INFO	Listening on 127.0.0.1:62281
+1483153734427	mozprofile::profile	INFO	Using profile path C:\Users\Cute\AppData\Local\Temp\rust_mozprofile.NvA6mhwsarZJ
+1483153734431	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1483153734542	geckodriver::marionette	INFO	Connecting to Marionette on localhost:62288
+1483153735765	Marionette	INFO	Listening on port 62288
+1483153737980	Marionette	INFO	startBrowser 45ace4bb-425c-457a-8776-a7b353b78d27
+1483153737994	Marionette	INFO	sendAsync 45ace4bb-425c-457a-8776-a7b353b78d27
+1483153738399	Marionette	INFO	sendAsync 45ace4bb-425c-457a-8776-a7b353b78d27
+1483153747568	Marionette	INFO	sendAsync 45ace4bb-425c-457a-8776-a7b353b78d27
+1483153747584	Marionette	INFO	sendAsync 45ace4bb-425c-457a-8776-a7b353b78d27
+1483153747599	Marionette	INFO	sendAsync 45ace4bb-425c-457a-8776-a7b353b78d27
+1483153747618	Marionette	INFO	sendAsync 45ace4bb-425c-457a-8776-a7b353b78d27
+1483153747632	Marionette	INFO	sendAsync 45ace4bb-425c-457a-8776-a7b353b78d27
+1483153761090	geckodriver	INFO	Listening on 127.0.0.1:62353
+1483153761604	mozprofile::profile	INFO	Using profile path C:\Users\Cute\AppData\Local\Temp\rust_mozprofile.hf1dneKU3oD9
+1483153761609	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1483153761701	geckodriver::marionette	INFO	Connecting to Marionette on localhost:62357
+1483153762852	Marionette	INFO	Listening on port 62357
+1483153764305	Marionette	INFO	startBrowser da52df06-779c-41bc-9daa-9e71637e392d
+1483153764322	Marionette	INFO	sendAsync da52df06-779c-41bc-9daa-9e71637e392d
+1483153764764	Marionette	INFO	sendAsync da52df06-779c-41bc-9daa-9e71637e392d
+1483153764991	Marionette	INFO	sendAsync da52df06-779c-41bc-9daa-9e71637e392d
+1483153775603	Marionette	INFO	sendAsync da52df06-779c-41bc-9daa-9e71637e392d
+1483153775623	Marionette	INFO	sendAsync da52df06-779c-41bc-9daa-9e71637e392d
+1483153775635	Marionette	INFO	sendAsync da52df06-779c-41bc-9daa-9e71637e392d
+1483153775657	Marionette	INFO	sendAsync da52df06-779c-41bc-9daa-9e71637e392d
+1483153775673	Marionette	INFO	sendAsync da52df06-779c-41bc-9daa-9e71637e392d
+[Child 46344] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-beta-w64-0000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2046
+1483153805797	geckodriver	INFO	Listening on 127.0.0.1:62456
+1483153806305	mozprofile::profile	INFO	Using profile path C:\Users\Cute\AppData\Local\Temp\rust_mozprofile.QKwDfKOMs0yE
+1483153806310	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1483153806396	geckodriver::marionette	INFO	Connecting to Marionette on localhost:62460
+1483153807635	Marionette	INFO	Listening on port 62460
+1483153809286	Marionette	INFO	startBrowser d5543306-f578-4b00-a120-8f7a189555bf
+1483153809299	Marionette	INFO	sendAsync d5543306-f578-4b00-a120-8f7a189555bf
+1483153809680	Marionette	INFO	sendAsync d5543306-f578-4b00-a120-8f7a189555bf
+1483153810077	Marionette	INFO	sendAsync d5543306-f578-4b00-a120-8f7a189555bf
+1483153822707	Marionette	INFO	sendAsync d5543306-f578-4b00-a120-8f7a189555bf
+1483153822720	Marionette	INFO	sendAsync d5543306-f578-4b00-a120-8f7a189555bf
+1483153822733	Marionette	INFO	sendAsync d5543306-f578-4b00-a120-8f7a189555bf
+1483153822753	Marionette	INFO	sendAsync d5543306-f578-4b00-a120-8f7a189555bf
+1483153822770	Marionette	INFO	sendAsync d5543306-f578-4b00-a120-8f7a189555bf
+[Child 46964] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-beta-w64-0000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2046
+1483153858223	geckodriver	INFO	Listening on 127.0.0.1:62568
+1483153858782	mozprofile::profile	INFO	Using profile path C:\Users\Cute\AppData\Local\Temp\rust_mozprofile.8a5DHNrDNFDR
+1483153858785	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1483153858863	geckodriver::marionette	INFO	Connecting to Marionette on localhost:62572
+1483153859922	Marionette	INFO	Listening on port 62572
+1483153861537	Marionette	INFO	startBrowser 0e7f512d-a7d7-4c13-bc06-e2f7269aa99e
+1483153861552	Marionette	INFO	sendAsync 0e7f512d-a7d7-4c13-bc06-e2f7269aa99e
+1483153862020	Marionette	INFO	sendAsync 0e7f512d-a7d7-4c13-bc06-e2f7269aa99e
+1483153873260	Marionette	INFO	sendAsync 0e7f512d-a7d7-4c13-bc06-e2f7269aa99e
+1483153873272	Marionette	INFO	sendAsync 0e7f512d-a7d7-4c13-bc06-e2f7269aa99e
+1483153873281	Marionette	INFO	sendAsync 0e7f512d-a7d7-4c13-bc06-e2f7269aa99e
+1483153873298	Marionette	INFO	sendAsync 0e7f512d-a7d7-4c13-bc06-e2f7269aa99e
+1483153873309	Marionette	INFO	sendAsync 0e7f512d-a7d7-4c13-bc06-e2f7269aa99e
+1483153949419	geckodriver	INFO	Listening on 127.0.0.1:62648
+1483153949930	mozprofile::profile	INFO	Using profile path C:\Users\Cute\AppData\Local\Temp\rust_mozprofile.ySnI54uFIqBb
+1483153949933	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1483153950054	geckodriver::marionette	INFO	Connecting to Marionette on localhost:62652
+1483153951082	Marionette	INFO	Listening on port 62652
+1483153952495	Marionette	INFO	startBrowser aa5f5c97-8aca-4ac0-ba05-0098538ca3df
+1483153952509	Marionette	INFO	sendAsync aa5f5c97-8aca-4ac0-ba05-0098538ca3df
+1483153952904	Marionette	INFO	sendAsync aa5f5c97-8aca-4ac0-ba05-0098538ca3df
+1483153953225	Marionette	INFO	sendAsync aa5f5c97-8aca-4ac0-ba05-0098538ca3df
+1483153958936	Marionette	INFO	sendAsync aa5f5c97-8aca-4ac0-ba05-0098538ca3df
+1483153958949	Marionette	INFO	sendAsync aa5f5c97-8aca-4ac0-ba05-0098538ca3df
+1483153958961	Marionette	INFO	sendAsync aa5f5c97-8aca-4ac0-ba05-0098538ca3df
+1483153958980	Marionette	INFO	sendAsync aa5f5c97-8aca-4ac0-ba05-0098538ca3df
+1483153958992	Marionette	INFO	sendAsync aa5f5c97-8aca-4ac0-ba05-0098538ca3df
+[Child 47544] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-beta-w64-0000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2046
+1483153995740	geckodriver	INFO	Listening on 127.0.0.1:62732
+1483153996268	mozprofile::profile	INFO	Using profile path C:\Users\Cute\AppData\Local\Temp\rust_mozprofile.KLIbYFomC7ML
+1483153996272	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1483153996355	geckodriver::marionette	INFO	Connecting to Marionette on localhost:62736
+1483153998078	Marionette	INFO	Listening on port 62736
+1483153999555	Marionette	INFO	startBrowser 4e5bd0bd-6307-400e-b81c-62ffb6de2652
+1483153999572	Marionette	INFO	sendAsync 4e5bd0bd-6307-400e-b81c-62ffb6de2652
+1483154000167	Marionette	INFO	sendAsync 4e5bd0bd-6307-400e-b81c-62ffb6de2652
+1483154006015	Marionette	INFO	sendAsync 4e5bd0bd-6307-400e-b81c-62ffb6de2652
+1483154006027	Marionette	INFO	sendAsync 4e5bd0bd-6307-400e-b81c-62ffb6de2652
+1483154006036	Marionette	INFO	sendAsync 4e5bd0bd-6307-400e-b81c-62ffb6de2652
+1483154006051	Marionette	INFO	sendAsync 4e5bd0bd-6307-400e-b81c-62ffb6de2652
+1483154006060	Marionette	INFO	sendAsync 4e5bd0bd-6307-400e-b81c-62ffb6de2652
+1483154037879	geckodriver	INFO	Listening on 127.0.0.1:63095
+1483154038399	mozprofile::profile	INFO	Using profile path C:\Users\Cute\AppData\Local\Temp\rust_mozprofile.59VkaXQElBVM
+1483154038405	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1483154038564	geckodriver::marionette	INFO	Connecting to Marionette on localhost:63100
+1483154041096	Marionette	INFO	Listening on port 63100
+1483154042876	Marionette	INFO	startBrowser 57d137db-bac4-441d-93c7-59c40b53babd
+1483154042889	Marionette	INFO	sendAsync 57d137db-bac4-441d-93c7-59c40b53babd
+1483154043301	Marionette	INFO	sendAsync 57d137db-bac4-441d-93c7-59c40b53babd
+1483154043629	Marionette	INFO	sendAsync 57d137db-bac4-441d-93c7-59c40b53babd
+1483154050458	Marionette	INFO	sendAsync 57d137db-bac4-441d-93c7-59c40b53babd
+1483154050475	Marionette	INFO	sendAsync 57d137db-bac4-441d-93c7-59c40b53babd
+1483154050491	Marionette	INFO	sendAsync 57d137db-bac4-441d-93c7-59c40b53babd
+1483154050511	Marionette	INFO	sendAsync 57d137db-bac4-441d-93c7-59c40b53babd
+1483154050527	Marionette	INFO	sendAsync 57d137db-bac4-441d-93c7-59c40b53babd
+1483154050561	Marionette	INFO	sendAsync 57d137db-bac4-441d-93c7-59c40b53babd
+1483154051475	Marionette	INFO	sendAsync 57d137db-bac4-441d-93c7-59c40b53babd
+1483154051496	Marionette	INFO	sendAsync 57d137db-bac4-441d-93c7-59c40b53babd
+1483154051518	Marionette	INFO	sendAsync 57d137db-bac4-441d-93c7-59c40b53babd
+1483154051530	Marionette	INFO	sendAsync 57d137db-bac4-441d-93c7-59c40b53babd
+1483154051563	Marionette	INFO	sendAsync 57d137db-bac4-441d-93c7-59c40b53babd
+1483154051578	Marionette	INFO	sendAsync 57d137db-bac4-441d-93c7-59c40b53babd
+1483154051594	Marionette	INFO	sendAsync 57d137db-bac4-441d-93c7-59c40b53babd
+1483154051604	Marionette	INFO	sendAsync 57d137db-bac4-441d-93c7-59c40b53babd
+1483154051645	Marionette	INFO	sendAsync 57d137db-bac4-441d-93c7-59c40b53babd
+1483154051663	Marionette	INFO	sendAsync 57d137db-bac4-441d-93c7-59c40b53babd
+1483154054765	Marionette	INFO	sendAsync 57d137db-bac4-441d-93c7-59c40b53babd
+1483154056526	Marionette	INFO	sendAsync 57d137db-bac4-441d-93c7-59c40b53babd
+1483154056554	Marionette	INFO	sendAsync 57d137db-bac4-441d-93c7-59c40b53babd
+1483154056628	Marionette	INFO	sendAsync 57d137db-bac4-441d-93c7-59c40b53babd
+[Child 48356] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-beta-w64-0000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2046
+1483154356311	geckodriver	INFO	Listening on 127.0.0.1:63332
+1483154356813	mozprofile::profile	INFO	Using profile path C:\Users\Cute\AppData\Local\Temp\rust_mozprofile.Qfbknzkmv0Vs
+1483154356816	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1483154356886	geckodriver::marionette	INFO	Connecting to Marionette on localhost:63336
+1483154358393	Marionette	INFO	Listening on port 63336
+1483154359857	Marionette	INFO	startBrowser 932750fd-c38a-453e-b49b-ba26b8750ee7
+1483154359871	Marionette	INFO	sendAsync 932750fd-c38a-453e-b49b-ba26b8750ee7
+1483154360252	Marionette	INFO	sendAsync 932750fd-c38a-453e-b49b-ba26b8750ee7
+1483154360594	Marionette	INFO	sendAsync 932750fd-c38a-453e-b49b-ba26b8750ee7
+JavaScript warning: http://mat1.gtimg.com/www/asset/seajs/sea.js, line 25: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1483154365585	Marionette	INFO	sendAsync 932750fd-c38a-453e-b49b-ba26b8750ee7
+1483154365602	Marionette	INFO	sendAsync 932750fd-c38a-453e-b49b-ba26b8750ee7
+1483154365621	Marionette	INFO	sendAsync 932750fd-c38a-453e-b49b-ba26b8750ee7
+JavaScript warning: http://mat1.gtimg.com/libs/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://mat1.gtimg.com/www/asset/seajs/sea.js, line 25: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1483154367006	Marionette	INFO	sendAsync 932750fd-c38a-453e-b49b-ba26b8750ee7
+1483154367021	Marionette	INFO	sendAsync 932750fd-c38a-453e-b49b-ba26b8750ee7
+1483154367041	Marionette	INFO	sendAsync 932750fd-c38a-453e-b49b-ba26b8750ee7
+1483154367061	Marionette	INFO	sendAsync 932750fd-c38a-453e-b49b-ba26b8750ee7
+1483154367084	Marionette	INFO	sendAsync 932750fd-c38a-453e-b49b-ba26b8750ee7
+1483154367952	Marionette	INFO	sendAsync 932750fd-c38a-453e-b49b-ba26b8750ee7
+1483154367961	Marionette	INFO	sendAsync 932750fd-c38a-453e-b49b-ba26b8750ee7
+1483154367994	Marionette	INFO	sendAsync 932750fd-c38a-453e-b49b-ba26b8750ee7
+1483154368002	Marionette	INFO	sendAsync 932750fd-c38a-453e-b49b-ba26b8750ee7
+1483154368027	Marionette	INFO	sendAsync 932750fd-c38a-453e-b49b-ba26b8750ee7
+1483154368036	Marionette	INFO	sendAsync 932750fd-c38a-453e-b49b-ba26b8750ee7
+1483154368106	Marionette	INFO	sendAsync 932750fd-c38a-453e-b49b-ba26b8750ee7
+1483154369803	Marionette	INFO	sendAsync 932750fd-c38a-453e-b49b-ba26b8750ee7
+1483154439866	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: timeout
+[Child 37952] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-beta-w64-0000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 343
+[Parent 48364] WARNING: pipe error: 232: file c:/builds/moz2_slave/m-beta-w64-0000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 497
+83154439169	Marionette	INFO	startBrowser bf67b0c0-3cbc-4fde-af49-d4bcbb89c531
+1483154439183	Marionette	INFO	sendAsync bf67b0c0-3cbc-4fde-af49-d4bcbb89c531
+1483154439556	Marionette	INFO	sendAsync bf67b0c0-3cbc-4fde-af49-d4bcbb89c531
+1483154439758	Marionette	INFO	sendAsync bf67b0c0-3cbc-4fde-af49-d4bcbb89c531
+JavaScript warning: http://mat1.gtimg.com/www/asset/seajs/sea.js, line 25: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1483154444457	Marionette	INFO	sendAsync bf67b0c0-3cbc-4fde-af49-d4bcbb89c531
+1483154444492	Marionette	INFO	sendAsync bf67b0c0-3cbc-4fde-af49-d4bcbb89c531
+1483154444532	Marionette	INFO	sendAsync bf67b0c0-3cbc-4fde-af49-d4bcbb89c531
+JavaScript warning: http://mat1.gtimg.com/libs/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://mat1.gtimg.com/www/asset/seajs/sea.js, line 25: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1483154445633	Marionette	INFO	sendAsync bf67b0c0-3cbc-4fde-af49-d4bcbb89c531
+1483154445643	Marionette	INFO	sendAsync bf67b0c0-3cbc-4fde-af49-d4bcbb89c531
+1483154445655	Marionette	INFO	sendAsync bf67b0c0-3cbc-4fde-af49-d4bcbb89c531
+1483154445664	Marionette	INFO	sendAsync bf67b0c0-3cbc-4fde-af49-d4bcbb89c531
+1483154445682	Marionette	INFO	sendAsync bf67b0c0-3cbc-4fde-af49-d4bcbb89c531
+1483154446378	Marionette	INFO	sendAsync bf67b0c0-3cbc-4fde-af49-d4bcbb89c531
+1483154446396	Marionette	INFO	sendAsync bf67b0c0-3cbc-4fde-af49-d4bcbb89c531
+1483154446432	Marionette	INFO	sendAsync bf67b0c0-3cbc-4fde-af49-d4bcbb89c531
+1483154446441	Marionette	INFO	sendAsync bf67b0c0-3cbc-4fde-af49-d4bcbb89c531
+1483154446466	Marionette	INFO	sendAsync bf67b0c0-3cbc-4fde-af49-d4bcbb89c531
+1483154446478	Marionette	INFO	sendAsync bf67b0c0-3cbc-4fde-af49-d4bcbb89c531
+1483154446543	Marionette	INFO	sendAsync bf67b0c0-3cbc-4fde-af49-d4bcbb89c531
+1483154451451	Marionette	INFO	sendAsync bf67b0c0-3cbc-4fde-af49-d4bcbb89c531
+1483154519180	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: timeout
+[Child 46448] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-beta-w64-0000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 343
+[Child 46448] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-beta-w64-0000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 343
+483154486874	Marionette	INFO	startBrowser 58279b4e-a0b4-4ca8-958d-15ed0adcae80
+1483154486891	Marionette	INFO	sendAsync 58279b4e-a0b4-4ca8-958d-15ed0adcae80
+1483154487605	Marionette	INFO	sendAsync 58279b4e-a0b4-4ca8-958d-15ed0adcae80
+JavaScript warning: http://mat1.gtimg.com/www/asset/seajs/sea.js, line 25: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1483154492631	Marionette	INFO	sendAsync 58279b4e-a0b4-4ca8-958d-15ed0adcae80
+1483154492655	Marionette	INFO	sendAsync 58279b4e-a0b4-4ca8-958d-15ed0adcae80
+1483154492678	Marionette	INFO	sendAsync 58279b4e-a0b4-4ca8-958d-15ed0adcae80
+JavaScript warning: http://mat1.gtimg.com/libs/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://mat1.gtimg.com/www/asset/seajs/sea.js, line 25: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1483154493726	Marionette	INFO	sendAsync 58279b4e-a0b4-4ca8-958d-15ed0adcae80
+1483154493734	Marionette	INFO	sendAsync 58279b4e-a0b4-4ca8-958d-15ed0adcae80
+1483154493745	Marionette	INFO	sendAsync 58279b4e-a0b4-4ca8-958d-15ed0adcae80
+1483154493754	Marionette	INFO	sendAsync 58279b4e-a0b4-4ca8-958d-15ed0adcae80
+1483154493768	Marionette	INFO	sendAsync 58279b4e-a0b4-4ca8-958d-15ed0adcae80
+1483154497438	Marionette	INFO	sendAsync 58279b4e-a0b4-4ca8-958d-15ed0adcae80
+1483154497451	Marionette	INFO	sendAsync 58279b4e-a0b4-4ca8-958d-15ed0adcae80
+1483154497494	Marionette	INFO	sendAsync 58279b4e-a0b4-4ca8-958d-15ed0adcae80
+1483154497508	Marionette	INFO	sendAsync 58279b4e-a0b4-4ca8-958d-15ed0adcae80
+1483154497551	Marionette	INFO	sendAsync 58279b4e-a0b4-4ca8-958d-15ed0adcae80
+1483154497564	Marionette	INFO	sendAsync 58279b4e-a0b4-4ca8-958d-15ed0adcae80
+1483154497665	Marionette	INFO	sendAsync 58279b4e-a0b4-4ca8-958d-15ed0adcae80
+1483154502257	Marionette	INFO	sendAsync 58279b4e-a0b4-4ca8-958d-15ed0adcae80
+1483154566883	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: timeout
+1483154932611	geckodriver	INFO	Listening on 127.0.0.1:64226
+1483154933125	mozprofile::profile	INFO	Using profile path C:\Users\Cute\AppData\Local\Temp\rust_mozprofile.Z6orCWYTks7T
+1483154933129	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1483154933237	geckodriver::marionette	INFO	Connecting to Marionette on localhost:64230
+1483154934388	Marionette	INFO	Listening on port 64230
+1483154936407	Marionette	INFO	startBrowser 681d9f23-27be-41da-88ed-7d8a06a12c11
+1483154936426	Marionette	INFO	sendAsync 681d9f23-27be-41da-88ed-7d8a06a12c11
+1483154936926	Marionette	INFO	sendAsync 681d9f23-27be-41da-88ed-7d8a06a12c11
+1483154937260	Marionette	INFO	sendAsync 681d9f23-27be-41da-88ed-7d8a06a12c11
+JavaScript warning: http://mat1.gtimg.com/www/asset/seajs/sea.js, line 25: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1483154941651	Marionette	INFO	sendAsync 681d9f23-27be-41da-88ed-7d8a06a12c11
+1483154941669	Marionette	INFO	sendAsync 681d9f23-27be-41da-88ed-7d8a06a12c11
+1483154941698	Marionette	INFO	sendAsync 681d9f23-27be-41da-88ed-7d8a06a12c11
+JavaScript error: http://ra.gtimg.com/web/crystal/v2.8Beta07Build071/crystal-min.js, line 78: NS_ERROR_FAILURE: 
+JavaScript warning: http://mat1.gtimg.com/libs/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://mat1.gtimg.com/www/asset/seajs/sea.js, line 25: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1483154943640	Marionette	INFO	sendAsync 681d9f23-27be-41da-88ed-7d8a06a12c11
+1483154943650	Marionette	INFO	sendAsync 681d9f23-27be-41da-88ed-7d8a06a12c11
+1483154943669	Marionette	INFO	sendAsync 681d9f23-27be-41da-88ed-7d8a06a12c11
+1483154943678	Marionette	INFO	sendAsync 681d9f23-27be-41da-88ed-7d8a06a12c11
+1483154943693	Marionette	INFO	sendAsync 681d9f23-27be-41da-88ed-7d8a06a12c11
+1483154947416	Marionette	INFO	sendAsync 681d9f23-27be-41da-88ed-7d8a06a12c11
+1483154947436	Marionette	INFO	sendAsync 681d9f23-27be-41da-88ed-7d8a06a12c11
+1483154947466	Marionette	INFO	sendAsync 681d9f23-27be-41da-88ed-7d8a06a12c11
+1483154947477	Marionette	INFO	sendAsync 681d9f23-27be-41da-88ed-7d8a06a12c11
+1483154947502	Marionette	INFO	sendAsync 681d9f23-27be-41da-88ed-7d8a06a12c11
+1483154947515	Marionette	INFO	sendAsync 681d9f23-27be-41da-88ed-7d8a06a12c11
+1483154947922	Marionette	INFO	sendAsync 681d9f23-27be-41da-88ed-7d8a06a12c11
+1483154954491	Marionette	INFO	sendAsync 681d9f23-27be-41da-88ed-7d8a06a12c11
+[Child 50092] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-beta-w64-0000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 343
+[Child 50092] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-beta-w64-0000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 343
+1483155018403	geckodriver	INFO	Listening on 127.0.0.1:64441
+1483155018969	mozprofile::profile	INFO	Using profile path C:\Users\Cute\AppData\Local\Temp\rust_mozprofile.r14s5fEHkglA
+1483155018974	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1483155019052	geckodriver::marionette	INFO	Connecting to Marionette on localhost:64445
+1483155020270	Marionette	INFO	Listening on port 64445
+1483155021757	Marionette	INFO	startBrowser 873fe0de-8910-47a1-97ff-99cf610cb5b3
+1483155021776	Marionette	INFO	sendAsync 873fe0de-8910-47a1-97ff-99cf610cb5b3
+1483155022216	Marionette	INFO	sendAsync 873fe0de-8910-47a1-97ff-99cf610cb5b3
+1483155022528	Marionette	INFO	sendAsync 873fe0de-8910-47a1-97ff-99cf610cb5b3
+JavaScript warning: http://mat1.gtimg.com/www/asset/seajs/sea.js, line 25: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1483155067105	Marionette	INFO	sendAsync 873fe0de-8910-47a1-97ff-99cf610cb5b3
+1483155067132	Marionette	INFO	sendAsync 873fe0de-8910-47a1-97ff-99cf610cb5b3
+1483155067199	Marionette	INFO	sendAsync 873fe0de-8910-47a1-97ff-99cf610cb5b3
+JavaScript warning: http://mat1.gtimg.com/libs/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://mat1.gtimg.com/www/asset/seajs/sea.js, line 25: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1483155068403	Marionette	INFO	sendAsync 873fe0de-8910-47a1-97ff-99cf610cb5b3
+1483155068418	Marionette	INFO	sendAsync 873fe0de-8910-47a1-97ff-99cf610cb5b3
+1483155068437	Marionette	INFO	sendAsync 873fe0de-8910-47a1-97ff-99cf610cb5b3
+1483155068450	Marionette	INFO	sendAsync 873fe0de-8910-47a1-97ff-99cf610cb5b3
+1483155068466	Marionette	INFO	sendAsync 873fe0de-8910-47a1-97ff-99cf610cb5b3
+1483155072213	Marionette	INFO	sendAsync 873fe0de-8910-47a1-97ff-99cf610cb5b3
+1483155072925	Marionette	INFO	sendAsync 873fe0de-8910-47a1-97ff-99cf610cb5b3
+1483155072939	Marionette	INFO	sendAsync 873fe0de-8910-47a1-97ff-99cf610cb5b3
+1483155072956	Marionette	INFO	sendAsync 873fe0de-8910-47a1-97ff-99cf610cb5b3
+1483155261097	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Child 49244] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-beta-w64-0000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 343
+la Firefox\firefox.exe
+1483155106498	geckodriver::marionette	INFO	Connecting to Marionette on localhost:64700
+1483155108350	Marionette	INFO	Listening on port 64700
+1483155111064	Marionette	INFO	startBrowser 7ce9ee5b-ec24-4546-aa02-c3fcedb06f15
+1483155111078	Marionette	INFO	sendAsync 7ce9ee5b-ec24-4546-aa02-c3fcedb06f15
+1483155111670	Marionette	INFO	sendAsync 7ce9ee5b-ec24-4546-aa02-c3fcedb06f15
+JavaScript warning: http://mat1.gtimg.com/www/asset/seajs/sea.js, line 25: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1483155157894	Marionette	INFO	sendAsync 7ce9ee5b-ec24-4546-aa02-c3fcedb06f15
+1483155157916	Marionette	INFO	sendAsync 7ce9ee5b-ec24-4546-aa02-c3fcedb06f15
+1483155157941	Marionette	INFO	sendAsync 7ce9ee5b-ec24-4546-aa02-c3fcedb06f15
+JavaScript warning: http://mat1.gtimg.com/libs/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://mat1.gtimg.com/www/asset/seajs/sea.js, line 25: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1483155159022	Marionette	INFO	sendAsync 7ce9ee5b-ec24-4546-aa02-c3fcedb06f15
+1483155159039	Marionette	INFO	sendAsync 7ce9ee5b-ec24-4546-aa02-c3fcedb06f15
+1483155159064	Marionette	INFO	sendAsync 7ce9ee5b-ec24-4546-aa02-c3fcedb06f15
+1483155159078	Marionette	INFO	sendAsync 7ce9ee5b-ec24-4546-aa02-c3fcedb06f15
+1483155159097	Marionette	INFO	sendAsync 7ce9ee5b-ec24-4546-aa02-c3fcedb06f15
+1483155162859	Marionette	INFO	sendAsync 7ce9ee5b-ec24-4546-aa02-c3fcedb06f15
+1483155163484	Marionette	INFO	sendAsync 7ce9ee5b-ec24-4546-aa02-c3fcedb06f15
+1483155163497	Marionette	INFO	sendAsync 7ce9ee5b-ec24-4546-aa02-c3fcedb06f15
+1483155163527	Marionette	INFO	sendAsync 7ce9ee5b-ec24-4546-aa02-c3fcedb06f15
+1483155163536	Marionette	INFO	sendAsync 7ce9ee5b-ec24-4546-aa02-c3fcedb06f15
+1483155163577	Marionette	INFO	sendAsync 7ce9ee5b-ec24-4546-aa02-c3fcedb06f15
+1483155163586	Marionette	INFO	sendAsync 7ce9ee5b-ec24-4546-aa02-c3fcedb06f15
+1483155163612	Marionette	INFO	sendAsync 7ce9ee5b-ec24-4546-aa02-c3fcedb06f15
+1483155163622	Marionette	INFO	sendAsync 7ce9ee5b-ec24-4546-aa02-c3fcedb06f15
+1483155163659	Marionette	INFO	sendAsync 7ce9ee5b-ec24-4546-aa02-c3fcedb06f15
+1483155163668	Marionette	INFO	sendAsync 7ce9ee5b-ec24-4546-aa02-c3fcedb06f15
+1483155167046	Marionette	INFO	sendAsync 7ce9ee5b-ec24-4546-aa02-c3fcedb06f15
+1483155173982	Marionette	INFO	sendAsync 7ce9ee5b-ec24-4546-aa02-c3fcedb06f15
+1483155173997	Marionette	INFO	sendAsync 7ce9ee5b-ec24-4546-aa02-c3fcedb06f15
+1483155174085	Marionette	INFO	sendAsync 7ce9ee5b-ec24-4546-aa02-c3fcedb06f15
+1483155398837	geckodriver	INFO	Listening on 127.0.0.1:65142
+1483155399343	mozprofile::profile	INFO	Using profile path C:\Users\Cute\AppData\Local\Temp\rust_mozprofile.InK7HLYeHhBc
+1483155399351	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1483155399444	geckodriver::marionette	INFO	Connecting to Marionette on localhost:65146
+1483155400634	Marionette	INFO	Listening on port 65146
+1483155402534	Marionette	INFO	startBrowser 564b9866-413e-444b-b4f1-398ab95dec9d
+1483155402549	Marionette	INFO	sendAsync 564b9866-413e-444b-b4f1-398ab95dec9d
+1483155403133	Marionette	INFO	sendAsync 564b9866-413e-444b-b4f1-398ab95dec9d
+1483155413050	Marionette	INFO	sendAsync 564b9866-413e-444b-b4f1-398ab95dec9d
+1483155413073	Marionette	INFO	sendAsync 564b9866-413e-444b-b4f1-398ab95dec9d
+1483155413089	Marionette	INFO	sendAsync 564b9866-413e-444b-b4f1-398ab95dec9d
+1483155413113	Marionette	INFO	sendAsync 564b9866-413e-444b-b4f1-398ab95dec9d
+1483155413128	Marionette	INFO	sendAsync 564b9866-413e-444b-b4f1-398ab95dec9d
+1483155413156	Marionette	INFO	sendAsync 564b9866-413e-444b-b4f1-398ab95dec9d
+1483155414049	Marionette	INFO	sendAsync 564b9866-413e-444b-b4f1-398ab95dec9d
+1483155414067	Marionette	INFO	sendAsync 564b9866-413e-444b-b4f1-398ab95dec9d
+1483155414090	Marionette	INFO	sendAsync 564b9866-413e-444b-b4f1-398ab95dec9d
+1483155414104	Marionette	INFO	sendAsync 564b9866-413e-444b-b4f1-398ab95dec9d
+1483155414152	Marionette	INFO	sendAsync 564b9866-413e-444b-b4f1-398ab95dec9d
+1483155414162	Marionette	INFO	sendAsync 564b9866-413e-444b-b4f1-398ab95dec9d
+1483155414178	Marionette	INFO	sendAsync 564b9866-413e-444b-b4f1-398ab95dec9d
+1483155414191	Marionette	INFO	sendAsync 564b9866-413e-444b-b4f1-398ab95dec9d
+1483155414218	Marionette	INFO	sendAsync 564b9866-413e-444b-b4f1-398ab95dec9d
+1483155414227	Marionette	INFO	sendAsync 564b9866-413e-444b-b4f1-398ab95dec9d
+1483155417344	Marionette	INFO	sendAsync 564b9866-413e-444b-b4f1-398ab95dec9d
+1483155420054	Marionette	INFO	sendAsync 564b9866-413e-444b-b4f1-398ab95dec9d
+1483155420069	Marionette	INFO	sendAsync 564b9866-413e-444b-b4f1-398ab95dec9d
+1483155420213	Marionette	INFO	sendAsync 564b9866-413e-444b-b4f1-398ab95dec9d
+1483165455004	geckodriver	INFO	Listening on 127.0.0.1:61656
+1483165455189	mozprofile::profile	INFO	Using profile path C:\Users\Cute\AppData\Local\Temp\rust_mozprofile.C9pMXP7wa7Ma
+1483165455195	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1483165455437	geckodriver::marionette	INFO	Connecting to Marionette on localhost:61660
+1483165456660	Marionette	INFO	Listening on port 61660
+1483165459101	Marionette	INFO	startBrowser 7d99e3de-d42b-4d72-8dd0-c982b8d2bd15
+1483165459117	Marionette	INFO	sendAsync 7d99e3de-d42b-4d72-8dd0-c982b8d2bd15
+1483165459859	Marionette	INFO	sendAsync 7d99e3de-d42b-4d72-8dd0-c982b8d2bd15
+1483165467543	Marionette	INFO	sendAsync 7d99e3de-d42b-4d72-8dd0-c982b8d2bd15
+1483165467567	Marionette	INFO	sendAsync 7d99e3de-d42b-4d72-8dd0-c982b8d2bd15
+1483165467579	Marionette	INFO	sendAsync 7d99e3de-d42b-4d72-8dd0-c982b8d2bd15
+1483165467603	Marionette	INFO	sendAsync 7d99e3de-d42b-4d72-8dd0-c982b8d2bd15
+1483165467614	Marionette	INFO	sendAsync 7d99e3de-d42b-4d72-8dd0-c982b8d2bd15
+1483165535058	geckodriver	INFO	Listening on 127.0.0.1:61737
+1483165535569	mozprofile::profile	INFO	Using profile path C:\Users\Cute\AppData\Local\Temp\rust_mozprofile.jK5sIL61WaPZ
+1483165535572	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1483165535666	geckodriver::marionette	INFO	Connecting to Marionette on localhost:61741
+1483165536801	Marionette	INFO	Listening on port 61741
+1483165539230	Marionette	INFO	startBrowser b86b02ca-8cf6-4f60-ab04-c67bb6c8be9f
+1483165539248	Marionette	INFO	sendAsync b86b02ca-8cf6-4f60-ab04-c67bb6c8be9f
+1483165540471	Marionette	INFO	sendAsync b86b02ca-8cf6-4f60-ab04-c67bb6c8be9f
+1483165546853	Marionette	INFO	sendAsync b86b02ca-8cf6-4f60-ab04-c67bb6c8be9f
+1483165546866	Marionette	INFO	sendAsync b86b02ca-8cf6-4f60-ab04-c67bb6c8be9f
+1483165546880	Marionette	INFO	sendAsync b86b02ca-8cf6-4f60-ab04-c67bb6c8be9f
+1483165546899	Marionette	INFO	sendAsync b86b02ca-8cf6-4f60-ab04-c67bb6c8be9f
+1483165546911	Marionette	INFO	sendAsync b86b02ca-8cf6-4f60-ab04-c67bb6c8be9f
+1483165617491	geckodriver	INFO	Listening on 127.0.0.1:61813
+1483165617527	mozprofile::profile	INFO	Using profile path C:\Users\Cute\AppData\Local\Temp\rust_mozprofile.G3Hql5Flx3ZP
+1483165617533	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1483165617645	geckodriver::marionette	INFO	Connecting to Marionette on localhost:61817
+1483165619090	Marionette	INFO	Listening on port 61817
+1483165620556	Marionette	INFO	startBrowser ec106050-55db-4518-855c-a7cba1ce59d2
+1483165620570	Marionette	INFO	sendAsync ec106050-55db-4518-855c-a7cba1ce59d2
+1483165621202	Marionette	INFO	sendAsync ec106050-55db-4518-855c-a7cba1ce59d2
+1483165627320	Marionette	INFO	sendAsync ec106050-55db-4518-855c-a7cba1ce59d2
+1483165627336	Marionette	INFO	sendAsync ec106050-55db-4518-855c-a7cba1ce59d2
+1483165627348	Marionette	INFO	sendAsync ec106050-55db-4518-855c-a7cba1ce59d2
+1483165627365	Marionette	INFO	sendAsync ec106050-55db-4518-855c-a7cba1ce59d2
+1483165627376	Marionette	INFO	sendAsync ec106050-55db-4518-855c-a7cba1ce59d2
+1483165669638	geckodriver	INFO	Listening on 127.0.0.1:61883
+1483165670150	mozprofile::profile	INFO	Using profile path C:\Users\Cute\AppData\Local\Temp\rust_mozprofile.TpqzVlRrMLhJ
+1483165670154	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1483165670316	geckodriver::marionette	INFO	Connecting to Marionette on localhost:61887
+1483165671452	Marionette	INFO	Listening on port 61887
+1483165673218	Marionette	INFO	startBrowser 4f060105-473f-4727-b9d9-93a4899c1805
+1483165673235	Marionette	INFO	sendAsync 4f060105-473f-4727-b9d9-93a4899c1805
+1483165673649	Marionette	INFO	sendAsync 4f060105-473f-4727-b9d9-93a4899c1805
+1483165674100	Marionette	INFO	sendAsync 4f060105-473f-4727-b9d9-93a4899c1805
+1483165679561	Marionette	INFO	sendAsync 4f060105-473f-4727-b9d9-93a4899c1805
+1483165679575	Marionette	INFO	sendAsync 4f060105-473f-4727-b9d9-93a4899c1805
+1483165679587	Marionette	INFO	sendAsync 4f060105-473f-4727-b9d9-93a4899c1805
+1483165679605	Marionette	INFO	sendAsync 4f060105-473f-4727-b9d9-93a4899c1805
+1483165679616	Marionette	INFO	sendAsync 4f060105-473f-4727-b9d9-93a4899c1805
+[Child 10096] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-beta-w64-0000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2046
+1483165781403	geckodriver	INFO	Listening on 127.0.0.1:61983
+1483165781918	mozprofile::profile	INFO	Using profile path C:\Users\Cute\AppData\Local\Temp\rust_mozprofile.mZmMVi1IRkLP
+1483165781923	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1483165781996	geckodriver::marionette	INFO	Connecting to Marionette on localhost:61987
+1483165783248	Marionette	INFO	Listening on port 61987
+1483165785077	Marionette	INFO	startBrowser 25453c1c-0c58-4395-8105-55d8fb4fac2d
+1483165785093	Marionette	INFO	sendAsync 25453c1c-0c58-4395-8105-55d8fb4fac2d
+1483165785641	Marionette	INFO	sendAsync 25453c1c-0c58-4395-8105-55d8fb4fac2d
+1483165793028	Marionette	INFO	sendAsync 25453c1c-0c58-4395-8105-55d8fb4fac2d
+1483165793068	Marionette	INFO	sendAsync 25453c1c-0c58-4395-8105-55d8fb4fac2d
+1483165793079	Marionette	INFO	sendAsync 25453c1c-0c58-4395-8105-55d8fb4fac2d
+1483165793097	Marionette	INFO	sendAsync 25453c1c-0c58-4395-8105-55d8fb4fac2d
+1483165793109	Marionette	INFO	sendAsync 25453c1c-0c58-4395-8105-55d8fb4fac2d
+1483165880238	geckodriver	INFO	Listening on 127.0.0.1:62064
+1483165880764	mozprofile::profile	INFO	Using profile path C:\Users\Cute\AppData\Local\Temp\rust_mozprofile.gDWdrFXshewe
+1483165880770	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1483165880912	geckodriver::marionette	INFO	Connecting to Marionette on localhost:62068
+1483165882058	Marionette	INFO	Listening on port 62068
+1483165895009	geckodriver	INFO	Listening on 127.0.0.1:62076
+1483165895563	mozprofile::profile	INFO	Using profile path C:\Users\Cute\AppData\Local\Temp\rust_mozprofile.QemRutSXLodo
+1483165895568	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1483165895642	geckodriver::marionette	INFO	Connecting to Marionette on localhost:62080
+1483165896913	Marionette	INFO	Listening on port 62080
+1483165898698	Marionette	INFO	startBrowser 78eb3fd7-6f09-4ffb-a6d1-7caaeaab7d14
+1483165898712	Marionette	INFO	sendAsync 78eb3fd7-6f09-4ffb-a6d1-7caaeaab7d14
+1483165899247	Marionette	INFO	sendAsync 78eb3fd7-6f09-4ffb-a6d1-7caaeaab7d14
+1483165906780	Marionette	INFO	sendAsync 78eb3fd7-6f09-4ffb-a6d1-7caaeaab7d14
+1483165906811	Marionette	INFO	sendAsync 78eb3fd7-6f09-4ffb-a6d1-7caaeaab7d14
+1483165906822	Marionette	INFO	sendAsync 78eb3fd7-6f09-4ffb-a6d1-7caaeaab7d14
+1483165906845	Marionette	INFO	sendAsync 78eb3fd7-6f09-4ffb-a6d1-7caaeaab7d14
+1483165906855	Marionette	INFO	sendAsync 78eb3fd7-6f09-4ffb-a6d1-7caaeaab7d14
+1483165977340	geckodriver	INFO	Listening on 127.0.0.1:62158
+1483165978007	mozprofile::profile	INFO	Using profile path C:\Users\Cute\AppData\Local\Temp\rust_mozprofile.wQGiVGW9amcH
+1483165978013	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1483165978918	geckodriver::marionette	INFO	Connecting to Marionette on localhost:62162
+1483165980262	Marionette	INFO	Listening on port 62162
+1483165981976	Marionette	INFO	startBrowser db3d1e82-1306-4418-a79b-eea3cd0d8646
+1483165981992	Marionette	INFO	sendAsync db3d1e82-1306-4418-a79b-eea3cd0d8646
+1483165982503	Marionette	INFO	sendAsync db3d1e82-1306-4418-a79b-eea3cd0d8646
+1483165982838	Marionette	INFO	sendAsync db3d1e82-1306-4418-a79b-eea3cd0d8646
+1483165991810	Marionette	INFO	sendAsync db3d1e82-1306-4418-a79b-eea3cd0d8646
+1483165991826	Marionette	INFO	sendAsync db3d1e82-1306-4418-a79b-eea3cd0d8646
+1483165991845	Marionette	INFO	sendAsync db3d1e82-1306-4418-a79b-eea3cd0d8646
+1483165991863	Marionette	INFO	sendAsync db3d1e82-1306-4418-a79b-eea3cd0d8646
+1483165991876	Marionette	INFO	sendAsync db3d1e82-1306-4418-a79b-eea3cd0d8646
+1483165991905	Marionette	INFO	sendAsync db3d1e82-1306-4418-a79b-eea3cd0d8646
+1483165992751	Marionette	INFO	sendAsync db3d1e82-1306-4418-a79b-eea3cd0d8646
+1483165992764	Marionette	INFO	sendAsync db3d1e82-1306-4418-a79b-eea3cd0d8646
+1483165992785	Marionette	INFO	sendAsync db3d1e82-1306-4418-a79b-eea3cd0d8646
+1483165992796	Marionette	INFO	sendAsync db3d1e82-1306-4418-a79b-eea3cd0d8646
+1483165992842	Marionette	INFO	sendAsync db3d1e82-1306-4418-a79b-eea3cd0d8646
+1483165992886	Marionette	INFO	sendAsync db3d1e82-1306-4418-a79b-eea3cd0d8646
+1483165992899	Marionette	INFO	sendAsync db3d1e82-1306-4418-a79b-eea3cd0d8646
+1483165992911	Marionette	INFO	sendAsync db3d1e82-1306-4418-a79b-eea3cd0d8646
+1483165992943	Marionette	INFO	sendAsync db3d1e82-1306-4418-a79b-eea3cd0d8646
+1483165992959	Marionette	INFO	sendAsync db3d1e82-1306-4418-a79b-eea3cd0d8646
+1483165996042	Marionette	INFO	sendAsync db3d1e82-1306-4418-a79b-eea3cd0d8646
+1483165998264	Marionette	INFO	sendAsync db3d1e82-1306-4418-a79b-eea3cd0d8646
+1483165998276	Marionette	INFO	sendAsync db3d1e82-1306-4418-a79b-eea3cd0d8646
+1483165998323	Marionette	INFO	sendAsync db3d1e82-1306-4418-a79b-eea3cd0d8646
+1483165998874	Marionette	INFO	sendAsync db3d1e82-1306-4418-a79b-eea3cd0d8646
+1483165998995	Marionette	INFO	sendAsync db3d1e82-1306-4418-a79b-eea3cd0d8646
+[Child 13928] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-beta-w64-0000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2046
+1483166675797	geckodriver	INFO	Listening on 127.0.0.1:62481
+1483166676320	mozprofile::profile	INFO	Using profile path C:\Users\Cute\AppData\Local\Temp\rust_mozprofile.KFO6XWsMiyos
+1483166676326	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1483166676409	geckodriver::marionette	INFO	Connecting to Marionette on localhost:62485
+1483166677480	Marionette	INFO	Listening on port 62485
+1483166679050	Marionette	INFO	startBrowser 4e2bda5b-ab0a-46ef-9508-5f7645ab0c67
+1483166679066	Marionette	INFO	sendAsync 4e2bda5b-ab0a-46ef-9508-5f7645ab0c67
+1483166679761	Marionette	INFO	sendAsync 4e2bda5b-ab0a-46ef-9508-5f7645ab0c67
+1483166687906	Marionette	INFO	sendAsync 4e2bda5b-ab0a-46ef-9508-5f7645ab0c67
+1483166687922	Marionette	INFO	sendAsync 4e2bda5b-ab0a-46ef-9508-5f7645ab0c67
+1483166687937	Marionette	INFO	sendAsync 4e2bda5b-ab0a-46ef-9508-5f7645ab0c67
+1483166687961	Marionette	INFO	sendAsync 4e2bda5b-ab0a-46ef-9508-5f7645ab0c67
+1483166687974	Marionette	INFO	sendAsync 4e2bda5b-ab0a-46ef-9508-5f7645ab0c67
+1483166688009	Marionette	INFO	sendAsync 4e2bda5b-ab0a-46ef-9508-5f7645ab0c67
+1483166688797	Marionette	INFO	sendAsync 4e2bda5b-ab0a-46ef-9508-5f7645ab0c67
+1483166688806	Marionette	INFO	sendAsync 4e2bda5b-ab0a-46ef-9508-5f7645ab0c67
+1483166688831	Marionette	INFO	sendAsync 4e2bda5b-ab0a-46ef-9508-5f7645ab0c67
+1483166688854	Marionette	INFO	sendAsync 4e2bda5b-ab0a-46ef-9508-5f7645ab0c67
+1483166688899	Marionette	INFO	sendAsync 4e2bda5b-ab0a-46ef-9508-5f7645ab0c67
+1483166688921	Marionette	INFO	sendAsync 4e2bda5b-ab0a-46ef-9508-5f7645ab0c67
+1483166688957	Marionette	INFO	sendAsync 4e2bda5b-ab0a-46ef-9508-5f7645ab0c67
+1483166688967	Marionette	INFO	sendAsync 4e2bda5b-ab0a-46ef-9508-5f7645ab0c67
+1483166688997	Marionette	INFO	sendAsync 4e2bda5b-ab0a-46ef-9508-5f7645ab0c67
+1483166689009	Marionette	INFO	sendAsync 4e2bda5b-ab0a-46ef-9508-5f7645ab0c67
+1483166692115	Marionette	INFO	sendAsync 4e2bda5b-ab0a-46ef-9508-5f7645ab0c67
+1483166694531	Marionette	INFO	sendAsync 4e2bda5b-ab0a-46ef-9508-5f7645ab0c67
+1483166694561	Marionette	INFO	sendAsync 4e2bda5b-ab0a-46ef-9508-5f7645ab0c67
+1483166694663	Marionette	INFO	sendAsync 4e2bda5b-ab0a-46ef-9508-5f7645ab0c67
+1483166694988	Marionette	INFO	sendAsync 4e2bda5b-ab0a-46ef-9508-5f7645ab0c67
+1483166695514	Marionette	INFO	sendAsync 4e2bda5b-ab0a-46ef-9508-5f7645ab0c67
+1483166825847	geckodriver	INFO	Listening on 127.0.0.1:62657
+1483166826350	mozprofile::profile	INFO	Using profile path C:\Users\Cute\AppData\Local\Temp\rust_mozprofile.GE7wqYvHt9oX
+1483166826356	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1483166826650	geckodriver::marionette	INFO	Connecting to Marionette on localhost:62661
+1483166827948	Marionette	INFO	Listening on port 62661
+1483166836958	geckodriver	INFO	Listening on 127.0.0.1:62667
+1483166837471	mozprofile::profile	INFO	Using profile path C:\Users\Cute\AppData\Local\Temp\rust_mozprofile.CNLIaEBjA86d
+1483166837477	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1483166837548	geckodriver::marionette	INFO	Connecting to Marionette on localhost:62671
+1483166838719	Marionette	INFO	Listening on port 62671
+1483166840201	Marionette	INFO	startBrowser e5337181-357d-48bb-aa5c-0f9736dee2e8
+1483166840218	Marionette	INFO	sendAsync e5337181-357d-48bb-aa5c-0f9736dee2e8
+1483166840677	Marionette	INFO	sendAsync e5337181-357d-48bb-aa5c-0f9736dee2e8
+1483166846440	Marionette	INFO	sendAsync e5337181-357d-48bb-aa5c-0f9736dee2e8
+1483166846453	Marionette	INFO	sendAsync e5337181-357d-48bb-aa5c-0f9736dee2e8
+1483166846467	Marionette	INFO	sendAsync e5337181-357d-48bb-aa5c-0f9736dee2e8
+1483166846492	Marionette	INFO	sendAsync e5337181-357d-48bb-aa5c-0f9736dee2e8
+1483166846510	Marionette	INFO	sendAsync e5337181-357d-48bb-aa5c-0f9736dee2e8
+1483166846553	Marionette	INFO	sendAsync e5337181-357d-48bb-aa5c-0f9736dee2e8
+1483166847346	Marionette	INFO	sendAsync e5337181-357d-48bb-aa5c-0f9736dee2e8
+1483166847372	Marionette	INFO	sendAsync e5337181-357d-48bb-aa5c-0f9736dee2e8
+1483166847410	Marionette	INFO	sendAsync e5337181-357d-48bb-aa5c-0f9736dee2e8
+1483166847427	Marionette	INFO	sendAsync e5337181-357d-48bb-aa5c-0f9736dee2e8
+1483166847479	Marionette	INFO	sendAsync e5337181-357d-48bb-aa5c-0f9736dee2e8
+1483166847494	Marionette	INFO	sendAsync e5337181-357d-48bb-aa5c-0f9736dee2e8
+1483166847543	Marionette	INFO	sendAsync e5337181-357d-48bb-aa5c-0f9736dee2e8
+1483166847559	Marionette	INFO	sendAsync e5337181-357d-48bb-aa5c-0f9736dee2e8
+1483166847600	Marionette	INFO	sendAsync e5337181-357d-48bb-aa5c-0f9736dee2e8
+1483166847611	Marionette	INFO	sendAsync e5337181-357d-48bb-aa5c-0f9736dee2e8
+1483166850698	Marionette	INFO	sendAsync e5337181-357d-48bb-aa5c-0f9736dee2e8
+1483166866727	geckodriver	INFO	Listening on 127.0.0.1:62764
+1483166867320	mozprofile::profile	INFO	Using profile path C:\Users\Cute\AppData\Local\Temp\rust_mozprofile.YHj56WZjmUkX
+1483166867325	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1483166867401	geckodriver::marionette	INFO	Connecting to Marionette on localhost:62768
+1483166868593	Marionette	INFO	Listening on port 62768
+1483166872698	geckodriver	INFO	Listening on 127.0.0.1:62780
+1483166873221	mozprofile::profile	INFO	Using profile path C:\Users\Cute\AppData\Local\Temp\rust_mozprofile.0lw97OBflVwi
+1483166873227	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1483166873298	geckodriver::marionette	INFO	Connecting to Marionette on localhost:62784
+1483166874408	Marionette	INFO	Listening on port 62784
+1483166876028	Marionette	INFO	startBrowser b7a82e2d-1631-41dd-8080-ac8bfbffe7a5
+1483166876043	Marionette	INFO	sendAsync b7a82e2d-1631-41dd-8080-ac8bfbffe7a5
+1483166876466	Marionette	INFO	sendAsync b7a82e2d-1631-41dd-8080-ac8bfbffe7a5
+1483166876819	Marionette	INFO	sendAsync b7a82e2d-1631-41dd-8080-ac8bfbffe7a5
+1483166883102	Marionette	INFO	sendAsync b7a82e2d-1631-41dd-8080-ac8bfbffe7a5
+1483166883132	Marionette	INFO	sendAsync b7a82e2d-1631-41dd-8080-ac8bfbffe7a5
+1483166883147	Marionette	INFO	sendAsync b7a82e2d-1631-41dd-8080-ac8bfbffe7a5
+1483166883171	Marionette	INFO	sendAsync b7a82e2d-1631-41dd-8080-ac8bfbffe7a5
+1483166883186	Marionette	INFO	sendAsync b7a82e2d-1631-41dd-8080-ac8bfbffe7a5
+[Child 7196] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-beta-w64-0000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2046
+1483166905231	geckodriver	INFO	Listening on 127.0.0.1:62855
+1483166905754	mozprofile::profile	INFO	Using profile path C:\Users\Cute\AppData\Local\Temp\rust_mozprofile.HBMjC4qiGTA0
+1483166905760	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1483166905855	geckodriver::marionette	INFO	Connecting to Marionette on localhost:62859
+1483166906967	Marionette	INFO	Listening on port 62859
+1483166908658	Marionette	INFO	startBrowser 1f3f5972-c14f-4334-ab70-59ceae6a01b7
+1483166908673	Marionette	INFO	sendAsync 1f3f5972-c14f-4334-ab70-59ceae6a01b7
+1483166909065	Marionette	INFO	sendAsync 1f3f5972-c14f-4334-ab70-59ceae6a01b7
+1483166909423	Marionette	INFO	sendAsync 1f3f5972-c14f-4334-ab70-59ceae6a01b7
+1483166918011	Marionette	INFO	sendAsync 1f3f5972-c14f-4334-ab70-59ceae6a01b7
+1483166918033	Marionette	INFO	sendAsync 1f3f5972-c14f-4334-ab70-59ceae6a01b7
+1483166918050	Marionette	INFO	sendAsync 1f3f5972-c14f-4334-ab70-59ceae6a01b7
+1483166918071	Marionette	INFO	sendAsync 1f3f5972-c14f-4334-ab70-59ceae6a01b7
+1483166918085	Marionette	INFO	sendAsync 1f3f5972-c14f-4334-ab70-59ceae6a01b7
+[Child 29240] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-beta-w64-0000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2046
+1483168319661	geckodriver	INFO	Listening on 127.0.0.1:63523
+1483168319696	mozprofile::profile	INFO	Using profile path C:\Users\Cute\AppData\Local\Temp\rust_mozprofile.K8uUBQo4JUDb
+1483168319702	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1483168319825	geckodriver::marionette	INFO	Connecting to Marionette on localhost:63528
+1483168321112	Marionette	INFO	Listening on port 63528
+1483168323517	Marionette	INFO	startBrowser 17e6c21d-9824-481b-8a1d-1c2665f70f2e
+1483168323535	Marionette	INFO	sendAsync 17e6c21d-9824-481b-8a1d-1c2665f70f2e
+1483168325428	Marionette	INFO	sendAsync 17e6c21d-9824-481b-8a1d-1c2665f70f2e
+1483168337264	Marionette	INFO	sendAsync 17e6c21d-9824-481b-8a1d-1c2665f70f2e
+1483168337278	Marionette	INFO	sendAsync 17e6c21d-9824-481b-8a1d-1c2665f70f2e
+1483168337316	Marionette	INFO	sendAsync 17e6c21d-9824-481b-8a1d-1c2665f70f2e
+1483168337339	Marionette	INFO	sendAsync 17e6c21d-9824-481b-8a1d-1c2665f70f2e
+1483168337356	Marionette	INFO	sendAsync 17e6c21d-9824-481b-8a1d-1c2665f70f2e
+1483169073505	geckodriver	INFO	Listening on 127.0.0.1:63922
+1483169074013	mozprofile::profile	INFO	Using profile path C:\Users\Cute\AppData\Local\Temp\rust_mozprofile.pNNSwXCkpVFv
+1483169074018	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1483169074095	geckodriver::marionette	INFO	Connecting to Marionette on localhost:63926
+1483169075345	Marionette	INFO	Listening on port 63926
+1483169077068	Marionette	INFO	startBrowser f5e781ea-a5ff-4ae7-9e04-27e14f840c60
+1483169077082	Marionette	INFO	sendAsync f5e781ea-a5ff-4ae7-9e04-27e14f840c60
+1483169077491	Marionette	INFO	sendAsync f5e781ea-a5ff-4ae7-9e04-27e14f840c60
+1483169077940	Marionette	INFO	sendAsync f5e781ea-a5ff-4ae7-9e04-27e14f840c60
+1483169090371	Marionette	INFO	sendAsync f5e781ea-a5ff-4ae7-9e04-27e14f840c60
+1483169090383	Marionette	INFO	sendAsync f5e781ea-a5ff-4ae7-9e04-27e14f840c60
+1483169090397	Marionette	INFO	sendAsync f5e781ea-a5ff-4ae7-9e04-27e14f840c60
+1483169090414	Marionette	INFO	sendAsync f5e781ea-a5ff-4ae7-9e04-27e14f840c60
+1483169090427	Marionette	INFO	sendAsync f5e781ea-a5ff-4ae7-9e04-27e14f840c60
+[Child 49428] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-beta-w64-0000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2046
+1483169171306	geckodriver	INFO	Listening on 127.0.0.1:64021
+1483169171819	mozprofile::profile	INFO	Using profile path C:\Users\Cute\AppData\Local\Temp\rust_mozprofile.icVrUuT0PTNA
+1483169171825	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1483169171900	geckodriver::marionette	INFO	Connecting to Marionette on localhost:64025
+1483169173154	Marionette	INFO	Listening on port 64025
+1483169174775	Marionette	INFO	startBrowser d90fc634-b05b-4ac5-b3f0-73b4d89b18eb
+1483169174791	Marionette	INFO	sendAsync d90fc634-b05b-4ac5-b3f0-73b4d89b18eb
+1483169175343	Marionette	INFO	sendAsync d90fc634-b05b-4ac5-b3f0-73b4d89b18eb
+1483169184947	Marionette	INFO	sendAsync d90fc634-b05b-4ac5-b3f0-73b4d89b18eb
+1483169184970	Marionette	INFO	sendAsync d90fc634-b05b-4ac5-b3f0-73b4d89b18eb
+1483169184987	Marionette	INFO	sendAsync d90fc634-b05b-4ac5-b3f0-73b4d89b18eb
+1483169185016	Marionette	INFO	sendAsync d90fc634-b05b-4ac5-b3f0-73b4d89b18eb
+1483169185029	Marionette	INFO	sendAsync d90fc634-b05b-4ac5-b3f0-73b4d89b18eb
+1483169206088	geckodriver	INFO	Listening on 127.0.0.1:64094
+1483169206604	mozprofile::profile	INFO	Using profile path C:\Users\Cute\AppData\Local\Temp\rust_mozprofile.iRaQNHVeruZR
+1483169206610	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1483169206689	geckodriver::marionette	INFO	Connecting to Marionette on localhost:64098
+1483169207848	Marionette	INFO	Listening on port 64098
+1483169209442	Marionette	INFO	startBrowser f549edca-2748-424d-85f5-de56d18b8041
+1483169209458	Marionette	INFO	sendAsync f549edca-2748-424d-85f5-de56d18b8041
+1483169209992	Marionette	INFO	sendAsync f549edca-2748-424d-85f5-de56d18b8041
+1483169219585	Marionette	INFO	sendAsync f549edca-2748-424d-85f5-de56d18b8041
+1483169219598	Marionette	INFO	sendAsync f549edca-2748-424d-85f5-de56d18b8041
+1483169219613	Marionette	INFO	sendAsync f549edca-2748-424d-85f5-de56d18b8041
+1483169219631	Marionette	INFO	sendAsync f549edca-2748-424d-85f5-de56d18b8041
+1483169219655	Marionette	INFO	sendAsync f549edca-2748-424d-85f5-de56d18b8041
+1483169271337	geckodriver	INFO	Listening on 127.0.0.1:64208
+1483169271853	mozprofile::profile	INFO	Using profile path C:\Users\Cute\AppData\Local\Temp\rust_mozprofile.daUH3LiP8kD7
+1483169271858	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1483169271939	geckodriver::marionette	INFO	Connecting to Marionette on localhost:64212
+1483169273087	Marionette	INFO	Listening on port 64212
+1483169274853	Marionette	INFO	startBrowser 4a5dff8d-986b-4d50-83a7-bec17e0039ad
+1483169274871	Marionette	INFO	sendAsync 4a5dff8d-986b-4d50-83a7-bec17e0039ad
+1483169275311	Marionette	INFO	sendAsync 4a5dff8d-986b-4d50-83a7-bec17e0039ad
+1483169275745	Marionette	INFO	sendAsync 4a5dff8d-986b-4d50-83a7-bec17e0039ad
+1483169287855	Marionette	INFO	sendAsync 4a5dff8d-986b-4d50-83a7-bec17e0039ad
+1483169287871	Marionette	INFO	sendAsync 4a5dff8d-986b-4d50-83a7-bec17e0039ad
+1483169287891	Marionette	INFO	sendAsync 4a5dff8d-986b-4d50-83a7-bec17e0039ad
+1483169287911	Marionette	INFO	sendAsync 4a5dff8d-986b-4d50-83a7-bec17e0039ad
+1483169287927	Marionette	INFO	sendAsync 4a5dff8d-986b-4d50-83a7-bec17e0039ad
+[Child 52580] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-beta-w64-0000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2046
+1483169368836	geckodriver	INFO	Listening on 127.0.0.1:64316
+1483169369346	mozprofile::profile	INFO	Using profile path C:\Users\Cute\AppData\Local\Temp\rust_mozprofile.IAY6JxsaZbDg
+1483169369350	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1483169369671	geckodriver::marionette	INFO	Connecting to Marionette on localhost:64320
+1483169371093	Marionette	INFO	Listening on port 64320
+1483169372944	Marionette	INFO	startBrowser 4f56fac2-a313-4199-b063-4072a67cc3b8
+1483169372961	Marionette	INFO	sendAsync 4f56fac2-a313-4199-b063-4072a67cc3b8
+1483169373559	Marionette	INFO	sendAsync 4f56fac2-a313-4199-b063-4072a67cc3b8
+1483169386843	Marionette	INFO	sendAsync 4f56fac2-a313-4199-b063-4072a67cc3b8
+1483169386855	Marionette	INFO	sendAsync 4f56fac2-a313-4199-b063-4072a67cc3b8
+1483169386865	Marionette	INFO	sendAsync 4f56fac2-a313-4199-b063-4072a67cc3b8
+1483169386879	Marionette	INFO	sendAsync 4f56fac2-a313-4199-b063-4072a67cc3b8
+1483169386891	Marionette	INFO	sendAsync 4f56fac2-a313-4199-b063-4072a67cc3b8
+1483169528603	geckodriver	INFO	Listening on 127.0.0.1:64473
+1483169529121	mozprofile::profile	INFO	Using profile path C:\Users\Cute\AppData\Local\Temp\rust_mozprofile.Nw6HLFhbaLix
+1483169529127	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1483169529209	geckodriver::marionette	INFO	Connecting to Marionette on localhost:64477
+1483169530401	Marionette	INFO	Listening on port 64477
+1483169532130	Marionette	INFO	startBrowser 84c59508-89dd-4727-ac9d-8b1e9389eb03
+1483169532149	Marionette	INFO	sendAsync 84c59508-89dd-4727-ac9d-8b1e9389eb03
+1483169532666	Marionette	INFO	sendAsync 84c59508-89dd-4727-ac9d-8b1e9389eb03
+1483169544817	Marionette	INFO	sendAsync 84c59508-89dd-4727-ac9d-8b1e9389eb03
+1483169544831	Marionette	INFO	sendAsync 84c59508-89dd-4727-ac9d-8b1e9389eb03
+1483169544842	Marionette	INFO	sendAsync 84c59508-89dd-4727-ac9d-8b1e9389eb03
+1483169544858	Marionette	INFO	sendAsync 84c59508-89dd-4727-ac9d-8b1e9389eb03
+1483169544868	Marionette	INFO	sendAsync 84c59508-89dd-4727-ac9d-8b1e9389eb03
+1483169562938	geckodriver	INFO	Listening on 127.0.0.1:64557
+1483169563448	mozprofile::profile	INFO	Using profile path C:\Users\Cute\AppData\Local\Temp\rust_mozprofile.nKPdEA7sTssI
+1483169563454	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1483169563668	geckodriver::marionette	INFO	Connecting to Marionette on localhost:64561
+1483169565143	Marionette	INFO	Listening on port 64561
+1483169566541	Marionette	INFO	startBrowser 0d805fa6-3277-4645-930b-376f8cd016f5
+1483169566556	Marionette	INFO	sendAsync 0d805fa6-3277-4645-930b-376f8cd016f5
+1483169566944	Marionette	INFO	sendAsync 0d805fa6-3277-4645-930b-376f8cd016f5
+1483169579724	Marionette	INFO	sendAsync 0d805fa6-3277-4645-930b-376f8cd016f5
+1483169579736	Marionette	INFO	sendAsync 0d805fa6-3277-4645-930b-376f8cd016f5
+1483169579747	Marionette	INFO	sendAsync 0d805fa6-3277-4645-930b-376f8cd016f5
+1483169579766	Marionette	INFO	sendAsync 0d805fa6-3277-4645-930b-376f8cd016f5
+1483169579778	Marionette	INFO	sendAsync 0d805fa6-3277-4645-930b-376f8cd016f5
+1483169871265	geckodriver	INFO	Listening on 127.0.0.1:64764
+1483169871781	mozprofile::profile	INFO	Using profile path C:\Users\Cute\AppData\Local\Temp\rust_mozprofile.e1td8Pc96mDZ
+1483169871786	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1483169871862	geckodriver::marionette	INFO	Connecting to Marionette on localhost:64768
+1483169873084	Marionette	INFO	Listening on port 64768
+1483169874658	Marionette	INFO	startBrowser 9906f22d-4f88-405c-99fe-03e756f1dfac
+1483169874672	Marionette	INFO	sendAsync 9906f22d-4f88-405c-99fe-03e756f1dfac
+1483169875080	Marionette	INFO	sendAsync 9906f22d-4f88-405c-99fe-03e756f1dfac
+1483169875367	Marionette	INFO	sendAsync 9906f22d-4f88-405c-99fe-03e756f1dfac
+JavaScript error: http://cdn2.infoqstatic.com/statics_s1_20161220-0322/scripts/combinedJs.js, line 705: TypeError: a.ownerDocument.defaultView is null
+JavaScript error: chrome://marionette/content/listener.js, line 899: TypeError: can't access dead object
+1483169965000	geckodriver	INFO	Listening on 127.0.0.1:64866
+1483169965031	mozprofile::profile	INFO	Using profile path C:\Users\Cute\AppData\Local\Temp\rust_mozprofile.MEdCUPo39klv
+1483169965035	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1483169965110	geckodriver::marionette	INFO	Connecting to Marionette on localhost:64870
+1483169966308	Marionette	INFO	Listening on port 64870
+1483169968045	Marionette	INFO	startBrowser 1573f967-f488-4ed5-811b-e9ec2a9ecca9
+1483169968059	Marionette	INFO	sendAsync 1573f967-f488-4ed5-811b-e9ec2a9ecca9
+1483169968457	Marionette	INFO	sendAsync 1573f967-f488-4ed5-811b-e9ec2a9ecca9
+JavaScript warning: http://mat1.gtimg.com/www/asset/seajs/sea.js, line 25: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1483169975005	Marionette	INFO	sendAsync 1573f967-f488-4ed5-811b-e9ec2a9ecca9
+1483169975037	Marionette	INFO	sendAsync 1573f967-f488-4ed5-811b-e9ec2a9ecca9
+1483169975062	Marionette	INFO	sendAsync 1573f967-f488-4ed5-811b-e9ec2a9ecca9
+JavaScript warning: http://mat1.gtimg.com/libs/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://mat1.gtimg.com/www/asset/seajs/sea.js, line 25: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1483169976577	Marionette	INFO	sendAsync 1573f967-f488-4ed5-811b-e9ec2a9ecca9
+1483169976596	Marionette	INFO	sendAsync 1573f967-f488-4ed5-811b-e9ec2a9ecca9
+1483169976648	Marionette	INFO	sendAsync 1573f967-f488-4ed5-811b-e9ec2a9ecca9
+1483169976665	Marionette	INFO	sendAsync 1573f967-f488-4ed5-811b-e9ec2a9ecca9
+1483169976701	Marionette	INFO	sendAsync 1573f967-f488-4ed5-811b-e9ec2a9ecca9
+1483169977675	Marionette	INFO	sendAsync 1573f967-f488-4ed5-811b-e9ec2a9ecca9
+1483169977686	Marionette	INFO	sendAsync 1573f967-f488-4ed5-811b-e9ec2a9ecca9
+1483169977716	Marionette	INFO	sendAsync 1573f967-f488-4ed5-811b-e9ec2a9ecca9
+1483169977727	Marionette	INFO	sendAsync 1573f967-f488-4ed5-811b-e9ec2a9ecca9
+1483169977763	Marionette	INFO	sendAsync 1573f967-f488-4ed5-811b-e9ec2a9ecca9
+1483169977779	Marionette	INFO	sendAsync 1573f967-f488-4ed5-811b-e9ec2a9ecca9
+1483169977801	Marionette	INFO	sendAsync 1573f967-f488-4ed5-811b-e9ec2a9ecca9
+1483169977814	Marionette	INFO	sendAsync 1573f967-f488-4ed5-811b-e9ec2a9ecca9
+1483169977849	Marionette	INFO	sendAsync 1573f967-f488-4ed5-811b-e9ec2a9ecca9
+1483169977859	Marionette	INFO	sendAsync 1573f967-f488-4ed5-811b-e9ec2a9ecca9
+1483169980938	Marionette	INFO	sendAsync 1573f967-f488-4ed5-811b-e9ec2a9ecca9
+1483169983036	Marionette	INFO	sendAsync 1573f967-f488-4ed5-811b-e9ec2a9ecca9
+1483169983047	Marionette	INFO	sendAsync 1573f967-f488-4ed5-811b-e9ec2a9ecca9
+1483169983119	Marionette	INFO	sendAsync 1573f967-f488-4ed5-811b-e9ec2a9ecca9
+1483169983205	Marionette	INFO	sendAsync 1573f967-f488-4ed5-811b-e9ec2a9ecca9
+1483169983217	Marionette	INFO	sendAsync 1573f967-f488-4ed5-811b-e9ec2a9ecca9
+1483170163403	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1483170228686	geckodriver	INFO	Listening on 127.0.0.1:65379
+1483170229187	mozprofile::profile	INFO	Using profile path C:\Users\Cute\AppData\Local\Temp\rust_mozprofile.JPtS4NKlwzHb
+1483170229193	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1483170229301	geckodriver::marionette	INFO	Connecting to Marionette on localhost:65383
+1483170230481	Marionette	INFO	Listening on port 65383
+1483170232244	Marionette	INFO	startBrowser ad0dcaec-88b7-402e-b79e-194e9d035874
+1483170232259	Marionette	INFO	sendAsync ad0dcaec-88b7-402e-b79e-194e9d035874
+1483170232730	Marionette	INFO	sendAsync ad0dcaec-88b7-402e-b79e-194e9d035874
+1483170233063	Marionette	INFO	sendAsync ad0dcaec-88b7-402e-b79e-194e9d035874
+JavaScript warning: http://mat1.gtimg.com/www/asset/seajs/sea.js, line 25: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1483170237548	Marionette	INFO	sendAsync ad0dcaec-88b7-402e-b79e-194e9d035874
+1483170237778	Marionette	INFO	sendAsync ad0dcaec-88b7-402e-b79e-194e9d035874
+1483170237817	Marionette	INFO	sendAsync ad0dcaec-88b7-402e-b79e-194e9d035874
+JavaScript warning: http://mat1.gtimg.com/libs/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://mat1.gtimg.com/www/asset/seajs/sea.js, line 25: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1483170239211	Marionette	INFO	sendAsync ad0dcaec-88b7-402e-b79e-194e9d035874
+1483170239249	Marionette	INFO	sendAsync ad0dcaec-88b7-402e-b79e-194e9d035874
+1483170239266	Marionette	INFO	sendAsync ad0dcaec-88b7-402e-b79e-194e9d035874
+1483170239282	Marionette	INFO	sendAsync ad0dcaec-88b7-402e-b79e-194e9d035874
+1483170239306	Marionette	INFO	sendAsync ad0dcaec-88b7-402e-b79e-194e9d035874
+1483170240270	Marionette	INFO	sendAsync ad0dcaec-88b7-402e-b79e-194e9d035874
+1483170240312	Marionette	INFO	sendAsync ad0dcaec-88b7-402e-b79e-194e9d035874
+1483170240344	Marionette	INFO	sendAsync ad0dcaec-88b7-402e-b79e-194e9d035874
+1483170240360	Marionette	INFO	sendAsync ad0dcaec-88b7-402e-b79e-194e9d035874
+1483170240446	Marionette	INFO	sendAsync ad0dcaec-88b7-402e-b79e-194e9d035874
+1483170240465	Marionette	INFO	sendAsync ad0dcaec-88b7-402e-b79e-194e9d035874
+1483170240494	Marionette	INFO	sendAsync ad0dcaec-88b7-402e-b79e-194e9d035874
+1483170240519	Marionette	INFO	sendAsync ad0dcaec-88b7-402e-b79e-194e9d035874
+1483170240612	Marionette	INFO	sendAsync ad0dcaec-88b7-402e-b79e-194e9d035874
+1483170240624	Marionette	INFO	sendAsync ad0dcaec-88b7-402e-b79e-194e9d035874
+1483170243806	Marionette	INFO	sendAsync ad0dcaec-88b7-402e-b79e-194e9d035874
+1483170257211	Marionette	INFO	sendAsync ad0dcaec-88b7-402e-b79e-194e9d035874
+1483170257246	Marionette	INFO	sendAsync ad0dcaec-88b7-402e-b79e-194e9d035874
+JavaScript warning: http://mat1.gtimg.com/libs/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://mat1.gtimg.com/www/asset/seajs/sea.js, line 25: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://mat1.gtimg.com/www/asset/seajs/sea.js, line 25: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+
+###!!! [Child][OnMaybeDequeueOne] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][OnMaybeDequeueOne] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][OnMaybeDequeueOne] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Child 34596] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-beta-w64-0000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 343
+
+###!!! [Child][OnMaybeDequeueOne] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4800B6,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][OnMaybeDequeueOne] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4800B6,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][OnMaybeDequeueOne] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][OnMaybeDequeueOne] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][OnMaybeDequeueOne] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4800B6,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4800B6,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][OnMaybeDequeueOne] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][OnMaybeDequeueOne] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4800B6,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][OnMaybeDequeueOne] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4800B6,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][OnMaybeDequeueOne] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][OnMaybeDequeueOne] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4800B6,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4800B6,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][OnMaybeDequeueOne] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][OnMaybeDequeueOne] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][OnMaybeDequeueOne] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][OnMaybeDequeueOne] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][OnMaybeDequeueOne] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x48010C,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 30: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x48010C,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 30: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x48010C,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 30: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x48010C,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 30: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2C0042,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x48010C,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: resource://gre/modules/PerformanceWatcher-content.js, line 49: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x820007,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x820007,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x820007,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x820007,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x820007,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][OnMaybeDequeueOne] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][OnMaybeDequeueOne] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][OnMaybeDequeueOne] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x48010C,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 30: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x48010C,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 30: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x48010C,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 30: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x48010C,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 30: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x48010C,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 30: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x48010C,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 30: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x48010C,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 30: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x48010C,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 30: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x48010C,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 30: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x48010C,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 30: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x48010C,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 30: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x48010C,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 30: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x48010C,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 30: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x48010C,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 30: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x48010C,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 30: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x48010C,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 30: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x48010C,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 30: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2C0042,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][OnMaybeDequeueOne] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/backgroundPageThumbsContent.js, line 59: TypeError: docShell is null
+1483170296477	geckodriver	INFO	Listening on 127.0.0.1:49457
+1483170297014	mozprofile::profile	INFO	Using profile path C:\Users\Cute\AppData\Local\Temp\rust_mozprofile.yV2nxxBtiTVu
+1483170297019	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1483170297115	geckodriver::marionette	INFO	Connecting to Marionette on localhost:49465
+1483170298473	Marionette	INFO	Listening on port 49465
+1483170300349	Marionette	INFO	startBrowser 3f6285b9-3b41-4e83-a010-9d48d0104187
+1483170300370	Marionette	INFO	sendAsync 3f6285b9-3b41-4e83-a010-9d48d0104187
+1483170300899	Marionette	INFO	sendAsync 3f6285b9-3b41-4e83-a010-9d48d0104187
+JavaScript warning: http://mat1.gtimg.com/www/asset/seajs/sea.js, line 25: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1483170308581	Marionette	INFO	sendAsync 3f6285b9-3b41-4e83-a010-9d48d0104187
+1483170308700	Marionette	INFO	sendAsync 3f6285b9-3b41-4e83-a010-9d48d0104187
+1483170308747	Marionette	INFO	sendAsync 3f6285b9-3b41-4e83-a010-9d48d0104187
+JavaScript warning: http://mat1.gtimg.com/libs/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://mat1.gtimg.com/www/asset/seajs/sea.js, line 25: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1483170310183	Marionette	INFO	sendAsync 3f6285b9-3b41-4e83-a010-9d48d0104187
+1483170310212	Marionette	INFO	sendAsync 3f6285b9-3b41-4e83-a010-9d48d0104187
+1483170310232	Marionette	INFO	sendAsync 3f6285b9-3b41-4e83-a010-9d48d0104187
+1483170310247	Marionette	INFO	sendAsync 3f6285b9-3b41-4e83-a010-9d48d0104187
+1483170310271	Marionette	INFO	sendAsync 3f6285b9-3b41-4e83-a010-9d48d0104187
+1483170311172	Marionette	INFO	sendAsync 3f6285b9-3b41-4e83-a010-9d48d0104187
+1483170311198	Marionette	INFO	sendAsync 3f6285b9-3b41-4e83-a010-9d48d0104187
+1483170311225	Marionette	INFO	sendAsync 3f6285b9-3b41-4e83-a010-9d48d0104187
+1483170311236	Marionette	INFO	sendAsync 3f6285b9-3b41-4e83-a010-9d48d0104187
+1483170311277	Marionette	INFO	sendAsync 3f6285b9-3b41-4e83-a010-9d48d0104187
+1483170311295	Marionette	INFO	sendAsync 3f6285b9-3b41-4e83-a010-9d48d0104187
+1483170311312	Marionette	INFO	sendAsync 3f6285b9-3b41-4e83-a010-9d48d0104187
+1483170311325	Marionette	INFO	sendAsync 3f6285b9-3b41-4e83-a010-9d48d0104187
+1483170311358	Marionette	INFO	sendAsync 3f6285b9-3b41-4e83-a010-9d48d0104187
+1483170311369	Marionette	INFO	sendAsync 3f6285b9-3b41-4e83-a010-9d48d0104187
+1483170314466	Marionette	INFO	sendAsync 3f6285b9-3b41-4e83-a010-9d48d0104187
+1483170317346	Marionette	INFO	sendAsync 3f6285b9-3b41-4e83-a010-9d48d0104187
+1483170317361	Marionette	INFO	sendAsync 3f6285b9-3b41-4e83-a010-9d48d0104187
+1483170317428	Marionette	INFO	sendAsync 3f6285b9-3b41-4e83-a010-9d48d0104187
+1483170317535	Marionette	INFO	sendAsync 3f6285b9-3b41-4e83-a010-9d48d0104187
+1483170317547	Marionette	INFO	sendAsync 3f6285b9-3b41-4e83-a010-9d48d0104187
+1483170368276	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1483170687094	geckodriver	INFO	Listening on 127.0.0.1:49905
+1483170687600	mozprofile::profile	INFO	Using profile path C:\Users\Cute\AppData\Local\Temp\rust_mozprofile.AyeV0uNT2BGN
+1483170687605	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1483170687688	geckodriver::marionette	INFO	Connecting to Marionette on localhost:49909
+1483170688981	Marionette	INFO	Listening on port 49909
+1483170690620	Marionette	INFO	startBrowser 7d767b3d-04ab-4c14-b5ff-cdd664b14ef3
+1483170690646	Marionette	INFO	sendAsync 7d767b3d-04ab-4c14-b5ff-cdd664b14ef3
+1483170691220	Marionette	INFO	sendAsync 7d767b3d-04ab-4c14-b5ff-cdd664b14ef3
+1483170691585	Marionette	INFO	sendAsync 7d767b3d-04ab-4c14-b5ff-cdd664b14ef3
+JavaScript warning: http://mat1.gtimg.com/www/asset/seajs/sea.js, line 25: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1483170697142	Marionette	INFO	sendAsync 7d767b3d-04ab-4c14-b5ff-cdd664b14ef3
+1483170697180	Marionette	INFO	sendAsync 7d767b3d-04ab-4c14-b5ff-cdd664b14ef3
+1483170697202	Marionette	INFO	sendAsync 7d767b3d-04ab-4c14-b5ff-cdd664b14ef3
+JavaScript warning: http://mat1.gtimg.com/libs/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://mat1.gtimg.com/www/asset/seajs/sea.js, line 25: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1483170698509	Marionette	INFO	sendAsync 7d767b3d-04ab-4c14-b5ff-cdd664b14ef3
+1483170698522	Marionette	INFO	sendAsync 7d767b3d-04ab-4c14-b5ff-cdd664b14ef3
+1483170698544	Marionette	INFO	sendAsync 7d767b3d-04ab-4c14-b5ff-cdd664b14ef3
+1483170698557	Marionette	INFO	sendAsync 7d767b3d-04ab-4c14-b5ff-cdd664b14ef3
+1483171129800	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Child 54088] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-beta-w64-0000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 343
+[Child 54088] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-beta-w64-0000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 343
+3170832279	Marionette	INFO	startBrowser 4a6bfda2-c6e7-4fbe-9045-4d6c21258609
+1483170832297	Marionette	INFO	sendAsync 4a6bfda2-c6e7-4fbe-9045-4d6c21258609
+1483170832754	Marionette	INFO	sendAsync 4a6bfda2-c6e7-4fbe-9045-4d6c21258609
+1483170833177	Marionette	INFO	sendAsync 4a6bfda2-c6e7-4fbe-9045-4d6c21258609
+JavaScript warning: http://mat1.gtimg.com/www/asset/seajs/sea.js, line 25: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1483170838305	Marionette	INFO	sendAsync 4a6bfda2-c6e7-4fbe-9045-4d6c21258609
+1483170838335	Marionette	INFO	sendAsync 4a6bfda2-c6e7-4fbe-9045-4d6c21258609
+1483170838362	Marionette	INFO	sendAsync 4a6bfda2-c6e7-4fbe-9045-4d6c21258609
+JavaScript warning: http://mat1.gtimg.com/libs/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://mat1.gtimg.com/www/asset/seajs/sea.js, line 25: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1483170839876	Marionette	INFO	sendAsync 4a6bfda2-c6e7-4fbe-9045-4d6c21258609
+1483170839886	Marionette	INFO	sendAsync 4a6bfda2-c6e7-4fbe-9045-4d6c21258609
+1483170839901	Marionette	INFO	sendAsync 4a6bfda2-c6e7-4fbe-9045-4d6c21258609
+1483170839913	Marionette	INFO	sendAsync 4a6bfda2-c6e7-4fbe-9045-4d6c21258609
+1483171041247	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Child 54160] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-beta-w64-0000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 343
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4800B5,name=PContent::Msg_ConsoleMessage) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xDA000D,name=PServiceWorkerManager::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+83170891354	Marionette	INFO	sendAsync 2cd8250a-8e56-4680-b3ee-9805c66a579e
+1483170891620	Marionette	INFO	sendAsync 2cd8250a-8e56-4680-b3ee-9805c66a579e
+JavaScript warning: http://mat1.gtimg.com/www/asset/seajs/sea.js, line 25: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1483170897290	Marionette	INFO	sendAsync 2cd8250a-8e56-4680-b3ee-9805c66a579e
+1483170897344	Marionette	INFO	sendAsync 2cd8250a-8e56-4680-b3ee-9805c66a579e
+1483170897380	Marionette	INFO	sendAsync 2cd8250a-8e56-4680-b3ee-9805c66a579e
+JavaScript warning: http://mat1.gtimg.com/libs/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://mat1.gtimg.com/www/asset/seajs/sea.js, line 25: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1483170899485	Marionette	INFO	sendAsync 2cd8250a-8e56-4680-b3ee-9805c66a579e
+1483170899501	Marionette	INFO	sendAsync 2cd8250a-8e56-4680-b3ee-9805c66a579e
+1483170899543	Marionette	INFO	sendAsync 2cd8250a-8e56-4680-b3ee-9805c66a579e
+1483170899560	Marionette	INFO	sendAsync 2cd8250a-8e56-4680-b3ee-9805c66a579e
+1483171100914	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Child 54640] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-beta-w64-0000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 343
+[Child 54640] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-beta-w64-0000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 343
+3170954073	Marionette	INFO	startBrowser 7b688c77-2b56-466c-9a33-45f9674e638c
+1483170954088	Marionette	INFO	sendAsync 7b688c77-2b56-466c-9a33-45f9674e638c
+1483170954526	Marionette	INFO	sendAsync 7b688c77-2b56-466c-9a33-45f9674e638c
+1483170955029	Marionette	INFO	sendAsync 7b688c77-2b56-466c-9a33-45f9674e638c
+JavaScript warning: http://mat1.gtimg.com/www/asset/seajs/sea.js, line 25: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1483170960082	Marionette	INFO	sendAsync 7b688c77-2b56-466c-9a33-45f9674e638c
+1483170960105	Marionette	INFO	sendAsync 7b688c77-2b56-466c-9a33-45f9674e638c
+1483170960142	Marionette	INFO	sendAsync 7b688c77-2b56-466c-9a33-45f9674e638c
+JavaScript warning: http://mat1.gtimg.com/libs/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://mat1.gtimg.com/www/asset/seajs/sea.js, line 25: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1483170961553	Marionette	INFO	sendAsync 7b688c77-2b56-466c-9a33-45f9674e638c
+1483170961564	Marionette	INFO	sendAsync 7b688c77-2b56-466c-9a33-45f9674e638c
+1483170961591	Marionette	INFO	sendAsync 7b688c77-2b56-466c-9a33-45f9674e638c
+1483170961605	Marionette	INFO	sendAsync 7b688c77-2b56-466c-9a33-45f9674e638c
+1483171111192	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Child 20320] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-beta-w64-0000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 343
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xDA000D,name=PServiceWorkerManager::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+3171072954	Marionette	INFO	startBrowser fa26f9e8-9f03-4a62-a905-84e8488b0935
+1483171072976	Marionette	INFO	sendAsync fa26f9e8-9f03-4a62-a905-84e8488b0935
+1483171073423	Marionette	INFO	sendAsync fa26f9e8-9f03-4a62-a905-84e8488b0935
+1483171073819	Marionette	INFO	sendAsync fa26f9e8-9f03-4a62-a905-84e8488b0935
+JavaScript warning: http://mat1.gtimg.com/www/asset/seajs/sea.js, line 25: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1483171080326	Marionette	INFO	sendAsync fa26f9e8-9f03-4a62-a905-84e8488b0935
+1483171080345	Marionette	INFO	sendAsync fa26f9e8-9f03-4a62-a905-84e8488b0935
+1483171080374	Marionette	INFO	sendAsync fa26f9e8-9f03-4a62-a905-84e8488b0935
+JavaScript warning: http://mat1.gtimg.com/libs/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://mat1.gtimg.com/www/asset/seajs/sea.js, line 25: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1483171081678	Marionette	INFO	sendAsync fa26f9e8-9f03-4a62-a905-84e8488b0935
+1483171081694	Marionette	INFO	sendAsync fa26f9e8-9f03-4a62-a905-84e8488b0935
+1483171081714	Marionette	INFO	sendAsync fa26f9e8-9f03-4a62-a905-84e8488b0935
+1483171081731	Marionette	INFO	sendAsync fa26f9e8-9f03-4a62-a905-84e8488b0935
+[Child 52408] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-beta-w64-0000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 343
+K67PaKj5gmT
+1483171091020	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1483171091185	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51424
+1483171092918	Marionette	INFO	Listening on port 51424
+1483171095527	Marionette	INFO	startBrowser 49f6b019-921b-4cad-889f-c069d51c49eb
+1483171095546	Marionette	INFO	sendAsync 49f6b019-921b-4cad-889f-c069d51c49eb
+1483171096101	Marionette	INFO	sendAsync 49f6b019-921b-4cad-889f-c069d51c49eb
+1483171096499	Marionette	INFO	sendAsync 49f6b019-921b-4cad-889f-c069d51c49eb
+JavaScript warning: http://mat1.gtimg.com/www/asset/seajs/sea.js, line 25: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1483171101906	Marionette	INFO	sendAsync 49f6b019-921b-4cad-889f-c069d51c49eb
+1483171101983	Marionette	INFO	sendAsync 49f6b019-921b-4cad-889f-c069d51c49eb
+1483171102048	Marionette	INFO	sendAsync 49f6b019-921b-4cad-889f-c069d51c49eb
+JavaScript warning: http://mat1.gtimg.com/libs/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://mat1.gtimg.com/www/asset/seajs/sea.js, line 25: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1483171108042	Marionette	INFO	sendAsync 49f6b019-921b-4cad-889f-c069d51c49eb
+1483171108061	Marionette	INFO	sendAsync 49f6b019-921b-4cad-889f-c069d51c49eb
+1483171108075	Marionette	INFO	sendAsync 49f6b019-921b-4cad-889f-c069d51c49eb
+1483171108089	Marionette	INFO	sendAsync 49f6b019-921b-4cad-889f-c069d51c49eb
+1483171138557	geckodriver	INFO	Listening on 127.0.0.1:51633
+1483171139070	mozprofile::profile	INFO	Using profile path C:\Users\Cute\AppData\Local\Temp\rust_mozprofile.UyLTvCAvJ1l5
+1483171139077	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1483171139158	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51637
+1483171140834	Marionette	INFO	Listening on port 51637
+1483171142441	Marionette	INFO	startBrowser 7bae6e5b-6fe4-4178-85ed-de1daaadc98a
+1483171142457	Marionette	INFO	sendAsync 7bae6e5b-6fe4-4178-85ed-de1daaadc98a
+1483171142980	Marionette	INFO	sendAsync 7bae6e5b-6fe4-4178-85ed-de1daaadc98a
+JavaScript warning: http://mat1.gtimg.com/www/asset/seajs/sea.js, line 25: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1483171147689	Marionette	INFO	sendAsync 7bae6e5b-6fe4-4178-85ed-de1daaadc98a
+1483171147725	Marionette	INFO	sendAsync 7bae6e5b-6fe4-4178-85ed-de1daaadc98a
+1483171147755	Marionette	INFO	sendAsync 7bae6e5b-6fe4-4178-85ed-de1daaadc98a
+JavaScript warning: http://mat1.gtimg.com/libs/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://mat1.gtimg.com/www/asset/seajs/sea.js, line 25: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1483171149022	Marionette	INFO	sendAsync 7bae6e5b-6fe4-4178-85ed-de1daaadc98a
+1483171149035	Marionette	INFO	sendAsync 7bae6e5b-6fe4-4178-85ed-de1daaadc98a
+1483171149048	Marionette	INFO	sendAsync 7bae6e5b-6fe4-4178-85ed-de1daaadc98a
+1483171149060	Marionette	INFO	sendAsync 7bae6e5b-6fe4-4178-85ed-de1daaadc98a
+1483171360285	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+INFO	Using profile path C:\Users\Cute\AppData\Local\Temp\rust_mozprofile.Sgi2cYdzoWa9
+1483171177912	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1483171177992	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51819
+1483171179143	Marionette	INFO	Listening on port 51819
+1483171180753	Marionette	INFO	startBrowser 7a13ee5e-17b5-4aee-86e0-ea84a4003912
+1483171180768	Marionette	INFO	sendAsync 7a13ee5e-17b5-4aee-86e0-ea84a4003912
+1483171181182	Marionette	INFO	sendAsync 7a13ee5e-17b5-4aee-86e0-ea84a4003912
+1483171181618	Marionette	INFO	sendAsync 7a13ee5e-17b5-4aee-86e0-ea84a4003912
+JavaScript warning: http://mat1.gtimg.com/www/asset/seajs/sea.js, line 25: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1483171187806	Marionette	INFO	sendAsync 7a13ee5e-17b5-4aee-86e0-ea84a4003912
+1483171187834	Marionette	INFO	sendAsync 7a13ee5e-17b5-4aee-86e0-ea84a4003912
+1483171187860	Marionette	INFO	sendAsync 7a13ee5e-17b5-4aee-86e0-ea84a4003912
+JavaScript warning: http://mat1.gtimg.com/libs/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://mat1.gtimg.com/www/asset/seajs/sea.js, line 25: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1483171189587	Marionette	INFO	sendAsync 7a13ee5e-17b5-4aee-86e0-ea84a4003912
+1483171189600	Marionette	INFO	sendAsync 7a13ee5e-17b5-4aee-86e0-ea84a4003912
+1483171189618	Marionette	INFO	sendAsync 7a13ee5e-17b5-4aee-86e0-ea84a4003912
+1483171189635	Marionette	INFO	sendAsync 7a13ee5e-17b5-4aee-86e0-ea84a4003912
+1483171260761	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: timeout
+1483171607427	geckodriver	INFO	Listening on 127.0.0.1:52111
+1483171607952	mozprofile::profile	INFO	Using profile path C:\Users\Cute\AppData\Local\Temp\rust_mozprofile.kAk2qwhsv79R
+1483171607957	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1483171608033	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52115
+1483171609173	Marionette	INFO	Listening on port 52115
+1483171610802	Marionette	INFO	startBrowser da650672-2936-46ec-bfb3-bf6e0cbc8f07
+1483171610817	Marionette	INFO	sendAsync da650672-2936-46ec-bfb3-bf6e0cbc8f07
+1483171611416	Marionette	INFO	sendAsync da650672-2936-46ec-bfb3-bf6e0cbc8f07
+1483171690812	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: timeout
+1483172396927	Marionette	INFO	sendAsync da650672-2936-46ec-bfb3-bf6e0cbc8f07
+1483172396951	Marionette	INFO	sendAsync da650672-2936-46ec-bfb3-bf6e0cbc8f07
+1483172396982	Marionette	INFO	sendAsync da650672-2936-46ec-bfb3-bf6e0cbc8f07
+1483172397019	Marionette	INFO	sendAsync da650672-2936-46ec-bfb3-bf6e0cbc8f07
+1483172397037	Marionette	INFO	sendAsync da650672-2936-46ec-bfb3-bf6e0cbc8f07
+1483172397068	Marionette	INFO	sendAsync da650672-2936-46ec-bfb3-bf6e0cbc8f07
+1483177077615	Marionette	INFO	sendAsync da650672-2936-46ec-bfb3-bf6e0cbc8f07
+1483177077636	Marionette	INFO	sendAsync da650672-2936-46ec-bfb3-bf6e0cbc8f07
+1483177077910	Marionette	INFO	sendAsync da650672-2936-46ec-bfb3-bf6e0cbc8f07
+1483177079807	Marionette	INFO	sendAsync da650672-2936-46ec-bfb3-bf6e0cbc8f07
+1483177079838	Marionette	INFO	sendAsync da650672-2936-46ec-bfb3-bf6e0cbc8f07
+1483177079883	Marionette	INFO	sendAsync da650672-2936-46ec-bfb3-bf6e0cbc8f07
+1483177079904	Marionette	INFO	sendAsync da650672-2936-46ec-bfb3-bf6e0cbc8f07
+1483177080668	Marionette	INFO	sendAsync da650672-2936-46ec-bfb3-bf6e0cbc8f07
+1483177080703	Marionette	INFO	sendAsync da650672-2936-46ec-bfb3-bf6e0cbc8f07
+1483177080737	Marionette	INFO	sendAsync da650672-2936-46ec-bfb3-bf6e0cbc8f07
+1483177080767	Marionette	INFO	sendAsync da650672-2936-46ec-bfb3-bf6e0cbc8f07
+1483177080806	Marionette	INFO	sendAsync da650672-2936-46ec-bfb3-bf6e0cbc8f07
+1483177080822	Marionette	INFO	sendAsync da650672-2936-46ec-bfb3-bf6e0cbc8f07
+1483177084109	Marionette	INFO	sendAsync da650672-2936-46ec-bfb3-bf6e0cbc8f07
+1483177087362	Marionette	INFO	sendAsync da650672-2936-46ec-bfb3-bf6e0cbc8f07
+1483177087396	Marionette	INFO	sendAsync da650672-2936-46ec-bfb3-bf6e0cbc8f07
+1483177087521	Marionette	INFO	sendAsync da650672-2936-46ec-bfb3-bf6e0cbc8f07
+1483177274519	geckodriver	INFO	Listening on 127.0.0.1:53075
+1483177275045	mozprofile::profile	INFO	Using profile path C:\Users\Cute\AppData\Local\Temp\rust_mozprofile.15x3O39Jfphd
+1483177275049	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1483177275146	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53080
+1483177276293	Marionette	INFO	Listening on port 53080
+1483177277908	Marionette	INFO	startBrowser 73ddb2fd-4d1c-4c23-ad0f-7860fad3b233
+1483177277921	Marionette	INFO	sendAsync 73ddb2fd-4d1c-4c23-ad0f-7860fad3b233
+1483177278356	Marionette	INFO	sendAsync 73ddb2fd-4d1c-4c23-ad0f-7860fad3b233
+1483177278815	Marionette	INFO	sendAsync 73ddb2fd-4d1c-4c23-ad0f-7860fad3b233
+JavaScript error: http://www.infoq.com/cn/Testing/articles/, line 2749: ReferenceError: qryzInit2 is not defined
+JavaScript error: chrome://marionette/content/listener.js, line 899: TypeError: can't access dead object
+[Child 45696] WARNING: pipe error: 232: file c:/builds/moz2_slave/m-beta-w64-0000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 497
+[Child 45696] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-beta-w64-0000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2046
