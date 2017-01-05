@@ -1,4 +1,4 @@
-1483512300984	geckodriver	INFO	Listening on 127.0.0.1:62517
+1483512300984	geckodriver	INFO	Listening on 127.0.0.1:62517    
 1483512301543	mozprofile::profile	INFO	Using profile path C:\Users\Cute\AppData\Local\Temp\rust_mozprofile.VAySvokCmprV
 1483512301548	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
 1483512301669	geckodriver::marionette	INFO	Connecting to Marionette on localhost:62521

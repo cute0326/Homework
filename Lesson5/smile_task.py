@@ -11,7 +11,7 @@ class Smile_Task(unittest.TestCase):
 
     def setUp(self):
         self.dr = webdriver.Firefox()
-        self.dr.get('http://localhost:8080/')
+        self.dr.get('http://localhost:12306/')
 
     # def test_create_task(self):
     def create_task(self):
